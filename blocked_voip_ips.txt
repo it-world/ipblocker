@@ -1036,3 +1036,4 @@
 103.77.233.74 #  Australia Sydney Intergrid Group Pty. Ltd. 
 43.249.130.170/25 #  Korea, Republic Of Cust Alloc Kr 
 185.200.117/24 # Singapore Singapore M247 Ltd Singapore Infrastructure 
+185.232.22.210/24 # United States New York M247 Ltd New York Infrastructure 
