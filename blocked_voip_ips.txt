@@ -1033,3 +1033,4 @@
  217.174.240.0/20	# Fasthosts_1			Hoster_GB
  217.182.0.0/16     # OvH_35                Hoster_Ostblock
  217.195.112.0/20	# Velance_1			    Hoster_Benelux
+103.77.233.74 #  Australia Sydney Intergrid Group Pty. Ltd. 
