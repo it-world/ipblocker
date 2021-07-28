@@ -54,5 +54,3 @@ curl $URL | iprange | while read line; do ipset add $BLOCKLIST $line; done
 URL="https://raw.githubusercontent.com/it-world/ipblocker/main/blocked_voip_ips.txt"
 BLOCKLIST=tms-itw_voip-bl
 curl $URL | iprange | while read line; do ipset add $BLOCKLIST $line; done
-
-
