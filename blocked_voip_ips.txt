@@ -220,7 +220,7 @@
  63.251.0.0/16		# Internap_1			Hoster_USA
  64.22.64.0/18		# Global_Net_1			Hoster_USA
  64.23.0.0/17		# Affinity_1			Hoster_USA
- 64.27.0.0/19		# Calpop_1			    Hoster_USA
+ 64.27.0.0/19  # Calpop_1			    Hoster_USA
  64.31.0.0/18  # Limestone_6    Hoster_USA
  64.78.0.0/18		# Intermedia_2			Hoster_USA
  64.120.2.0/16      # Leaseweb_6            Hoster_USA
