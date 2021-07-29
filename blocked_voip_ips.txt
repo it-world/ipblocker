@@ -44,6 +44,7 @@
  13.112.0.0/14      # Amazon_20             Hoster_Asia
  18.156.0.0/14      # Amazon_25             Hoster_DE
  20.48.0.0/12       # Microsoft_18          Hoster_USA
+ 20.192.0.0/10      # Microsoft_19          Hoster_USA
  23.19.0.0/16       # Leaseweb_23           Hoster_USA
  23.20.0.0/14		# Amazon_9			    Hoster_USA
  23.80.0.0/15       # Nobis_9               Hoster_USA
