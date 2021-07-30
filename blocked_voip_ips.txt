@@ -1,1041 +1,1041 @@
- 1.208.0.0/13		# Boranet_1			    Hoster_Asia
- 2.56.176.0/23      # Dedipath_2            Hoster_USA
- 2.58.28.0/22       # Stargato_1            Hoster_GB
- 3.64.0.0/12        # Amazon_24             Hoster_USA
- 5.9.0.0/16		    # Hetzner_1			    Hoster_DE
- 5.11.40.0/21		# Palestina_1			Araber_Perser
- 5.39.0.0/17		# OvH_21			    Hoster_France
- 5.39.216.0/21		# Hostkey_1			    Hoster_Ostblock
- 5.56.16.0/22		# Avastcloud_1			Hoster_GB
- 5.62.16.0/24       # Privax_2              Hoster_USA
- 5.62.20.0/24       # Privax_1              Hoster_GB
- 5.62.21.0/24       # Avastcloud_7          Hoster_GB
- 5.62.34.0/23       # Avastcloud_2          Hoster_GB
- 5.62.38.0/23       # Avastcloud_8          Hoster_GB
- 5.62.40.0/23       # Avastcloud_11         Hoster_GB
- 5.62.42.0/23       # Avastcloud_14         Hoster_GB
- 5.62.46.0/23       # Avastcloud_12         Hoster_GB
- 5.62.48.0/23       # Avastcloud_13         Hoster_GB
- 5.62.56.0/23       # Avastcloud_6          Hoster_GB
- 5.62.58.0/23       # Avastcloud_3          Hoster_GB
- 5.62.60.0/23       # Avastcloud_5          Hoster_GB
- 5.62.62.0/23       # Avastcloud_4          Hoster_GB
- 5.79.64.0/18		# Leaseweb_12			Hoster_Benelux
- 5.104.104.0/21		# MyLoc_19			    Hoster_DE
- 5.133.11.0/24      # Artnet_1              Hoster_Ostblock
- 5.135.0.0/16		# OvH_13			    Hoster_France
- 5.152.192.0/19		# Redstation_1			Hoster_GB
- 5.153.55.0/24		# Softlayer_1			Hoster_USA
- 5.154.174.0/24     # Host_Royale_2         Hoster_Spain
- 5.157.0.0/18       # Interconnects_2       Hoster_GB
- 5.182.210.0/24     # SKB_1                 Hoster_Benelux
- 5.183.92.0/22      # Netprotect_1          Hoster_DE
- 5.189.144.0/20		# Contabo_6			    Hoster_DE
- 5.189.160.0/20		# Contabo_8			    Hoster_DE
- 5.189.176.0/20		# Contabo_5			    Hoster_DE
- 5.196.0.0/16		# OvH_14			    Hoster_France
- 5.249.152.0/21     # Aruba_4               Hoster_Italia
- 5.253.204.0/22     # Globalaxs_41          Hoster_Ostblock
- 8.33.4.0/22		# WBS_Connect_1			Hoster_USA
- 8.208.98.0/24      # Alibaba_1             Hoster_Asia
- 12.226.0.0/16		# AT_&_T_1			    Hoster_USA
- 13.52.0.0/14       # Amazon_21             Hoster_USA
- 13.56.0.0/14       # Amazon_22             Hoster_USA
- 13.112.0.0/14      # Amazon_20             Hoster_Asia
- 18.156.0.0/14      # Amazon_25             Hoster_DE
- 20.48.0.0/12       # Microsoft_18          Hoster_USA
- 20.192.0.0/10      # Microsoft_19          Hoster_USA
- 23.19.0.0/16       # Leaseweb_23           Hoster_USA
- 23.20.0.0/14		# Amazon_9			    Hoster_USA
- 23.80.0.0/15       # Nobis_9               Hoster_USA
- 23.82.0.0/16       # Nobis_10              Hoster_USA
- 23.83.0.0/16       # Nobis_11              Hoster_USA
- 23.88.0.0/15       # Enzu_2                Hoster_USA
- 23.92.80.0/20		# Nodes_Direct_1		Hoster_USA
- 23.92.127.0/24     # Interconnects_1       Hoster_GB
- 23.94.0.0/15		# Colocrossing_3		Hoster_USA
- 23.96.0.0/13       # Microsoft_15          Hoster_USA
- 23.104.0.0/15      # Nobis_14              Hoster_USA
- 23.106.40.0/21     # Nobis_12              Hoster_USA
- 23.106.48.0/21     # Nobis_13              Hoster_USA
- 23.106.160.0/19    # Nobis_1               Hoster_USA
- 23.106.192.0/18    # Nobis_2               Hoster_USA
- 23.107.0.0/16      # Nobis_4               Hoster_USA
- 23.108.0.0/16      # Leaseweb_26           Hoster_USA
- 23.108.128.0/18    # Nobis_3               Hoster_USA
- 23.108.192.0/20    # Nobis_5               Hoster_USA
- 23.148.144.0/22    # Quick_Server_1        Hoster_USA
- 23.154.160.0/24    # Windscribe_1          Hoster_Canada
- 23.172.112.0/24    # Quadix_1              Hoster_USA
- 23.226.128.0/20    # Quadranet_9           Hoster_USA
- 23.229.0.0/17		# B2_Net_Solutions_6	Hoster_USA
- 23.236.128.0/17	# B2_Net_Solutions_9	Hoster_USA
- 23.239.64.0/19		# Nodes_Direct_2		Hoster_USA
- 23.246.192.0/18	# Softlayer_9			Hoster_USA
- 23.250.0.0/17		# B2_Net_Solutions_1	Hoster_USA
- 23.253.0.0/16		# Rackspace1			Hoster_USA
- 23.254.0.0/17		# B2_Net_Solutions_2	Hoster_USA
- 24.212.0.0/17      # CNQ_1                 Hoster_Canada
- 27.131.128.0/18    # Kirz_1                Hoster_Asia
- 27.254.0.0/16      # Loxinfo_1             Hoster_Asia
- 31.3.224.0/19		# Redstation_3			Hoster_GB
- 31.6.0.0/18        # YHC_Net_1             Hoster_Benelux
- 31.7.56.0/21       # Ripe_3                Hoster_CH
- 31.7.144.0/23		# RP_Engeneering_1		Hoster_Italia
- 31.13.191.0/24     # Globalaxs_14          Hoster_Skandinavien
- 31.169.120.0/22    # Surfshark_4           Hoster_Latin
- 31.171.152.0/22    # Keminet_1             Hoster_Ostblock
- 31.204.128.0/19	# Interactive_3D_1		Hoster_Benelux
- 31.223.185.0/24	# Citynet_1    			Araber_Perser
- 31.223.186.0/23	# CitYnet_2		      	Araber_Perser
- 31.223.188.0/22	# Citynet_3			    Araber_Perser
- 34.64.0.0/10       # Google_Cloud_7        Hoster_USA
- 35.154.0.0/16      # Amazon_23             Hoster_Asia
- 35.184.0.0/13		# Google_Cloud_4		Hoster_USA
- 37.8.0.0/17		# Palestina_2			Araber_Perser
- 37.35.104.0/21     # AlpineDC_1            Hoster_CH
- 37.48.64.0/18		# Leaseweb_10			Hoster_Benelux
- 37.49.224.0/23		# Estroweb_1			Hoster_Benelux
- 37.49.226.0/24     # XEMU_1                Hoster_Benelux
- 37.49.229.0/24     # Cloudstar_2           Hoster_Skandinavien
- 37.49.230.0/24     # Estroweb_3            Hoster_Benelux
- 37.49.231.0/24     # Estroweb_2            Hoster_Benelux
- 37.58.48.0/20		# Leaseweb_13			Hoster_DE
- 37.59.0.0/16		# OvH_1				    Hoster_France
- 37.61.208.0/20		# Velianet_5			Araber_Perser
- 37.75.208.0/22		# Palestina_9			Araber_Perser
- 37.75.212.0/22		# Palestina_1			Araber_Perser
- 37.120.128.0/18    # Globalaxs_26          Hoster_GB
- 37.120.192.0/19    # Globalaxs_29          Hoster_Benelux
- 37.143.130.0/24    # OneProvider_3         Hoster_Spain
- 37.153.104.0/21	# Joyent_1			    Hoster_CH
- 37.156.216.0/22    # Rackray_2             Hoster_Ostblock
- 37.157.248.0/21	# MyLoc_10			    Hoster_DE
- 37.187.0.0/16		# OvH_1				    Hoster_France
- 37.220.0.0/19		# Redstation_8			Hoster_GB
- 37.235.48.0/23     # Edis_9                Hoster_Skandinavien
- 37.235.53.0/24     # Edis_8                Hoster_Spain
- 37.235.55.0/24     # Edis_4                Hoster_GB
- 38.0.0.0/8		    # Cogent_1			    Hoster_USA
- 40.64.0.0/13		# Microsoft_7			Hoster_USA
- 40.74.0.0/15       # Microsoft_17          Hoster_USA
- 40.76.0.0/14       # Microsoft_12          Hoster_USA
- 41.68.0.0/15		# Vodafone Egypt_1		Araber_Perser
- 40.112.0.0/13      # Microsoft_14          Hoster_USA
- 41.232.0.0/16		# TE-Data_1			    Araber_Perser
- 43.245.160.0/22    # Intergrid_3           Hoster_Australia
- 43.245.165.0/24    # Virtual_Datacentre_2  Hoster_Australia
- 43.251.164.0/22    # Zero2Infinity_2       Hoster_Australia
- 45.9.248.0/23      # Globalaxs_15          Hoster_GB
- 45.12.220.0/22     # Globalaxs_35          Hoster_Skandinavien
- 45.32.0.0/16       # Choopa_4              Hoster_USA
- 45.55.0.0/16       # Digitalocean_14       Hoster_USA
- 45.56.137.0/24     # Strong_1              Hoster_Italia
- 45.56.200.0/24     # Miami_Net_1           Hoster_USA
- 45.62.192.0/18     # KW_Datacenter_2       Hoster_Canada
- 45.64.104.0/22     # Leapswitch_1          Hoster_Asia
- 45.76.0.0/15       # Choopa_3              Hoster_USA
- 45.83.90.0/23      # Globalaxs_43          Hoster_France
- 45.87.184.0/22     # Anytime_1             Hoster_GB
- 45.89.174.0/23     # Globalaxs_16          Hoster_France
- 45.114.118.0/24    # CLDR_2                Hoster_USA
- 45.121.208.0/22    # Streamline_2          Hoster_Australia
- 45.123.116.0/22    # Serverfield_1         Hoster_Asia
- 45.126.208.0/22	# Reliablesite_3		Hoster_USA
- 45.129.32.0/24     # Surfshark_2           Hoster_Latin
- 45.133.192.0/22    # Estnoc_3              Hoster_Ostblock
- 45.134.224.0/24    # Surfshark_1           Hoster_Asia
- 45.141.156.0/24    # Yurteh_1              Hoster_Ostblock
- 45.143.220.0/24    # Zumy_1                Hoster_Benelux
- 45.143.221.0/24    # XEMU_2                Hoster_DE
- 45.148.11.0/24     # Virtono_2             Hoster_Ostblock
- 45.148.121.0/24    # SKB_2                 Hoster_Benelux
- 45.254.252.0/22    # Golden_Frog_1         Hoster_Asia
- 46.16.32.0/21		# AnchorFree_1			Hoster_GB
- 46.16.185.0/24		# Softlayer_2			Hoster_USA
- 46.19.176.0/21		# Link_by_Net_1			Hoster_France
- 46.20.46.0/24		# MyLoc_12			    Hoster_DE
- 46.22.208.0/20     # Wavecom_1             Hoster_Ostblock
- 46.29.0.0/22       # Pantel_SK_1           Hoster_Ostblock
- 46.36.32.0/19      # GTT_Net_1             Hoster_Ostblock
- 46.101.0.0/16      # Digitalocean_12       Hoster_USA
- 46.105.0.0/16		# OvH_1				    Hoster_France
- 46.151.208.0/21	# Nashirnet_1			Araber_Perser
- 46.165.192.0/18	# Leaseweb_1			Hoster_DE
- 46.166.136.0/21	# NForce_1			    Hoster_Benelux
- 46.166.144.0/21	# NForce_2			    Hoster_Benelux
- 46.166.160.0/21	# Balticservers_3		Hoster_Ostblock
- 46.166.172.0/22    # Balticservers_4       Hoster_Ostblock
- 46.234.96.0/20     # SuperNetwork1         Hoster_Ostblock
- 46.246.28.0/24     # Edis_6                Hoster_Skandinavia
- 46.246.93.0/24     # Edis_2                Hoster_Skandinavien
- 46.249.32.0/19     # Serverius_1           Hoster_Benelux
- 50.30.32.0/20		# Server4You_1			Hoster_USA
- 50.57.64.0/18		# Racks-8_1			    Hoster_USA
- 50.73.64.0/19		# Comcast_3			    Hoster_USA
- 51.15.0.0/16		# Online_SAS_7			Hoster_France
- 51.75.0.0/16       # OvH_40                Hoster_France
- 51.77.0.0/16       # OvH_39                Hoster_DE
- 51.83.0.0/16       # OvH_36                Hoster_France
- 51.89.0.0/16       # OvH_38                Hoster_GB
- 51.116.0.0/16      # Microsoft_13          Hoster_GB
- 51.158.0.0/15      # Online_SAS_9          Hoster_France
- 51.254.0.0/15		# OvH_18			    Hoster_France
- 52.0.0.0/11		# Amazon_5			    Hoster_USA
- 52.32.0.0/11		# Amazon_6			    Hoster_USA
- 52.64.0.0/12		# Amazon_12			    Hoster_USA
- 52.84.0.0/14		# Amazon_13			    Hoster_USA
- 52.88.0.0/13		# Amazon_14			    Hoster_USA
- 52.145.0.0/16		# Microsoft_8			Hoster_USA
- 52.146.0.0/15		# Microsoft_9			Hoster_USA
- 52.148.0.0/14		# Micorosft_10			Hoster_USA
- 52.152.0.0/13		# Microsoft_11			Hoster_USA^
- 52.160.0.0/11		# Microsoft_6			Hoster_USA
- 52.192.0.0/11		# Amazon_4			    Hoster_USA
- 54.36.0.0/16       # OvH_29                Hoster_France
- 54.37.0.0/16       # OvH_30                Hoster_DE
- 54.38.0.0/16       # OvH_33                Hoster_DE
- 54.72.0.0/13		# Amazon_10			    Hoster_USA
- 54.80.0.0/12		# Amazon_11			    Hoster_USA
- 54.144.0.0/12		# Amazon_8			    Hoster_USA
- 54.174.0.0/15		# Amazon_19			    Hoster_USA
- 54.193.0.0/16		# Amazon_16			    Hoster_USA
- 54.208.0.0/15		# Amazon_1			    Hoster_USA
- 54.212.0.0/15		# Amazon_7			    Hoster_USA
- 54.216.0.0/15		# Amazon_18			    Hoster_USA
- 54.224.0.0/12		# Amazon_2			    Hoster_USA
- 59.160.0.0/14		# Tatacomm_1			Hoster_Asia
- 59.164.0.0/15		# Tatacomm_2			Hoster_Asia
- 61.148.0.0/15		# Unicom_1			    Hoster_Asia
- 62.4.0.0/19		# Online_SAS_5			Hoster_France	
- 62.73.4.0/23		# Axinet_1			    Hoster_France
- 62.75.128.0/17		# Intergenia_1			Hoster_DE
- 62.128.208.0/20    # Iomart_5              Hoster_GB
- 62.138.0.0/19		# Host_Europe_1			Hoster_DE
- 62.141.32.0/20		# Fibre_ONE_1			Hoster_DE
- 62.171.128.0/18    # Contabo_25            Hoster_DE
- 62.210.0.0/16		# Online_SAS_1			Hoster_France
- 62.212.64.0/19     # Leaseweb_17           Hoster_Benelux
- 63.141.224.0/19	# Datashack_5			Hoster_USA
- 63.143.32.0/19		# Limestone_2			Hoster_USA
- 63.251.0.0/16		# Internap_1			Hoster_USA
- 64.22.64.0/18		# Global_Net_1			Hoster_USA
- 64.23.0.0/17		# Affinity_1			Hoster_USA
- 64.27.0.0/19  # Calpop_1			    Hoster_USA
- 64.31.0.0/18  # Limestone_6    Hoster_USA
- 64.78.0.0/18		# Intermedia_2			Hoster_USA
- 64.120.2.0/16      # Leaseweb_6            Hoster_USA
- 64.182.0.0/16		# Corespace_1			Hoster_USA
- 64.188.0.0/19      # Quadranet_4           Hoster_USA
- 64.206.194.0/24    # HB_Communication_1    Hoster_USA
- 64.225.0.0/17      # Digitalocean_23       Hoster_USA
- 65.254.32.0/19		# Global_Net_2			Hoster_USA
- 66.55.80.0/20		# Cloud_1			    Hoster_USA
- 66.70.128.0/17     # OvH_41                Hoster_Canada
- 66.76.0.0/16       # Suddenlink_1          Hoster_USA
- 66.85.72.0/21		# Joe_Datacenter_1		Hoster_USA
- 66.115.128.0/18    # Total_Server_5        Hoster_USA
- 66.117.0.0/20      # Corpcolo_2            Hoster_USA
- 66.135.32.0/19		# ServerBeach_1			Hoster_USA
- 66.154.96.0/19     # Assertivenet_1        Hoster_Canada
- 66.162.0.0/16		# TWTC_1			    Hoster_USA
- 66.187.64.0/20     # Oplink_1              Hoster_USA
- 66.241.96.0/20		# Vitel_1			    Hoster_USA
- 67.21.32.0/23      # Vivid_Hosting_1       Hoster_USA
- 67.154.188.0/22    # Datacenter-BZ_1       Hoster_USA
- 67.207.208.0/20	# AIS_1				    Hoster_USA
- 67.208.64.0/19		# InfoRelay_1			Hoster_USA
- 67.208.224.0/19	# Arialink_1			Hoster_USA
- 67.215.224.0/19	# SPN_1				    Hoster_USA
- 68.64.128.0/18		# Packetexchange_1		Hoster_USA
- 68.235.32.0/19     # Tzulo_2               Hoster_USA
- 69.12.94.0/23      # Quadranet_8           Hoster_USA
- 69.30.192.0/18		# WholeSale_1			Hoster_USA
- 69.50.192.0/19		# Atjeu_1			    Hoster_USA
- 69.60.96.0/19		# Infolink_1			Hoster_USA
- 69.64.32.0/19		# Hosting_Solutions_1	Hoster_USA
- 69.77.192.0/18		# Golden_West_1			Hoster_USA
- 69.94.0.0/20       # OLM_1                 Hoster_USA
- 69.162.64.0/18		# Limestone_1			Hoster_USA
- 69.167.0.0/18      # Paradise_1            Hoster_USA
- 69.197.128.0/18	# Datashack_7			Hoster_USA
- 70.88.0.0/14		# Comcast_2			    Hoster_USA
- 71.19.240.0/20     # eSecureData_2         Hoster_Canada
- 72.11.128.0/19     # Quadranet_7           Hoster_USA
- 72.192.0.0/11		# Cox_Comm_1			Hoster_USA
- 74.63.192.0/18     # Limestone_3           Hoster_USA
- 74.91.16.0/20		# Datashack_8			Hoster_USA
- 74.92.64.0/18		# Comcast_1			    Hoster_USA
- 74.118.192.0/22	# Volumedrive_6			Hoster_USA
- 74.119.144.0/22    # Total_Server_4        Hoster_USA
- 74.124.192.0/19    # Corpcolo_1            Hoster_USA
- 74.208.0.0/16		# ONEandONE_1			Hoster_USA
- 76.72.160.0/20     # Database_by_Design_1  Hoster_USA
- 76.164.192.0/20    # Versaweb_4            Hoster_USA
- 77.66.0.0/17		# NetGroup_1			Hoster_Skandinavien
- 77.81.107.0/24     # Virtono_1             Hoster_Ostblock
- 77.81.136.0/24     # Globalaxs_36          Hoster_USA
- 77.81.188.0/23		# City_Net_2			Hoster_Skandinavien
- 77.111.216.0/21	# UK_Node4_1			Hoster_GB
- 77.234.44.0/24     # Avastcloud_10         Hoster_Ostblock
- 77.234.46.0/24     # Avastcloud_9          Hoster_Ostblock
- 77.243.191.0/24    # Globalaxs_8           Hoster_Benelux
- 77.245.64.0/20		# Redstation_4			Hoster_GB
- 77.247.108.0/24    # Vitox_2               Hoster_DE
- 77.247.109.0/24    # Vitox_1               Hoster_Benelux
- 77.247.110.0/24    # Vitox_3               Hoster_Skandinavien
- 77.247.176.0/21	# NForce_3			    Hoster_Benelux
- 78.31.64.0/21		# MyLoc_15			    Hoster_DE
- 78.108.38.0/24     # Synapsecom_1          Hoster_Ostblock
- 78.108.46.0/24     # Enahost_1             Hoster_Ostblock
- 78.129.128.0/17	# Iomart_3			    Hoster_GB
- 78.138.104.0/22    # Velianet_8            Hoster_Asia
- 78.153.199.0/24    # Avast_1               Hoster_GB
- 79.98.131.0/24     # Radore_1              Hoster_Ostblock
- 79.99.0.0/23		# GleSys_1			    Hoster_Skandinavien
- 79.110.52.0/22     # Globalaxs_44          Hoster_Benelux
- 79.142.76.0/23     # Altushost_3           Hoster_Skandinavien
- 79.143.80.0/22		# Redstation_9			Hoster_GB
- 79.143.180.0/23    # Contabo_16            Hoster_DE
- 79.143.182.0/23	# Contabo_3			    Hoster_DE
- 79.143.190.0/23    # Contabo_27            Hoster_DE
- 80.79.112.0/20     # Wavecom_2             Hoster_Ostblock
- 80.82.77.0/24		# Quasi_Net_3			Hoster_Afrika
- 80.82.208.0/20		# MyLoc_6			    Hoster_DE
- 80.86.80.0/20		# PlusServer_1			Hoster_DE
- 80.94.93.0/24      # MyWeb_1               Hoster_Benelux
- 80.211.0.0/17      # Aruba_7               Hoster_Italia
- 80.241.208.0/21	# Contabo_1			    Hoster_DE
- 80.241.216.0/21    # Contabo_20            Hoster_DE
- 80.243.176.0/20	# Redstation_13			Hoster_GB
- 80.255.0.0/20		# Core_Backbone_Net_1	Hoster_DE
- 81.2.192.0/18		# Internet_CZ_1			Hoster_Ostblock
- 81.19.208.0/20     # Hydra_3               Hoster_GB
- 81.30.144.0/20		# MyLoc_2			    Hoster_DE
- 81.92.200.0/21     # Globalaxs_2           Hoster_GB
- 81.171.0.0/19		# Leaseweb_14			Hoster_Benelux
- 82.102.17.0/24     # M247_Europe_17        Hoster_Spain
- 82.102.18.0/24     # M247_Europe_4         Hoster_France
- 82.102.24.0/21     # M247_Europe_3         Hoster_Italia
- 82.165.0.0/16		# Schlund_1			    Hoster_DE
- 82.205.8.0/21		# Palestina_4			Araber_Perser
- 82.205.16.0/20		# Palestina_8			Araber_Perser
- 82.205.96.0/19		# Palestina_12			Araber_Perser
- 82.220.0.0		    # Sol_Net_1			    Hoster_CH
- 82.221.128.0/19    # Advania_1             Hoster_Skandinavien
- 83.48.0.0/16		# Rima_1			    Hoster_Spain
- 83.136.80.0/21		# MyLoc_16			    Hoster_DE
- 83.143.245.0/24    # M247_Europe_7         Hoster_DE
- 83.244.32.0/19		# Palestina_11			Araber_Perser
- 84.17.32.0/19      # Datacamp_8            Hoster_GB
- 84.20.128.0/19		# Nebula_1			    Hoster_Skandinavien
- 84.39.112.0/24     # Globalaxs_21          Hoster_CH
- 84.88.0.0/16		# Anella_1			    Hoster_Spain
- 84.247.51.0/24     # Globalaxs_42          Hoster_France
- 85.10.48.0/20      # A1_Croatia_1          Hoster_Ostblock
- 85.14.240.0/20		# MyLoc_8			    Hoster_DE
- 85.17.0.0/16		# Leaseweb_2			Hoster_DE
- 85.25.0.0/16		# Intergenia_2			Hoster_DE
- 85.31.209.0/24		# Jaguar_Network_1		Hoster_France
- 85.89.176.0/20 	# Toya_Net_1			Hoster_Ostblock
- 85.93.88.0/22		# Intergenia_5			Hoster_DE
- 85.93.92.0/22		# Intergenia_6			Hoster_DE
- 85.114.96.0/19		# Palestina_7			Araber_Perser
- 85.114.128.0/20	# Fibre_ONE_2			Hoster_DE
- 85.184.240.0/22	# Palestina_13			Araber_Perser
- 85.195.64.0/18		# Velianet_1			Hoster_DE
- 85.206.160.0/22    # Bacloud_1             Hoster_Canada
- 85.214.192.0/18	# Strato_1			    Hoster_DE
- 85.254.72.0/24     # Latnet_1              Hoster_Ostblock
- 86.106.87.0/24     # Globalaxs_48          Hoster_USA
- 86.106.137.0/24    # M247_Europe_2         Hoster_Ostblock
- 86.107.49.0/24		# City_Cloud_1			Hoster_Skandinavien
- 86.107.242.0/23	# City_Cloud_2			Hoster_Skandinavien
- 86.108.0.0/17		# Jordan_1			    Araber_Perser
- 87.101.94.0/24     # Globalaxs_11          Hoster_Italia
- 87.117.192.0/18	# Iosmart_1			    Hoster_GB
- 87.239.255.0/24    # Partnercom_1          Hoster_Asia
- 88.80.148.0/24     # BelCloud_2            Hoster_Ostblock
- 88.150.128.0/17	# Redstation_2			Hoster_GB
- 88.202.176.0/23    # UK2_Net_1             Hoster_GB
- 88.208.192.0/18	# Fast Hosts_1			Hoster_GB
- 89.33.246.0/24		# M247_Europe_1			Hoster_Ostblock
- 89.36.224.0/24     # Globalaxs_34          Hoster_Ostblock
- 89.38.96.0/22		# Worldstream_4			Hoster_Benelux
- 89.40.182.0/24     # Globalaxs_9           Hoster_Ostblock
- 89.40.216.0/23		# City_Net_1			Hoster_Skandinavien
- 89.44.137.0/24		# Aim4Solutions_1		Hoster_Ostblock
- 89.44.201.0/24     # Globalaxs_32          Hoster_Ostblock
- 89.46.72.0/21      # Aruba_3               Hoster_Italia
- 89.46.100.0/22     # M247_Europe_10        Hoster_Ostblock
- 89.46.222.0/23     # Hydra_2               Hoster_GB
- 89.47.62.0/24      # Globalaxs_37          Hoster_GB
- 89.111.32.0/19     # DEAC_1                Hoster_Ostblock
- 89.163.128.0/19	# MyLoc_4			    Hoster_DE
- 89.163.204.0/22	# MyLoc_14			    Hoster_DE
- 89.163.208.0/20	# MyLoc_11			    Hoster_DE
- 89.163.224.0/19	# MyLoc_1			    Hoster_DE
- 89.187.160.0/19    # Datacamp_2            Hoster_GB
- 89.207.128.0/21	# Snel_Hosting_2		Hoster_Benelux
- 89.238.132.0/22    # Globalaxs_38          Hoster_GB
- 89.238.150.0/24    # Globalaxs_30          Hoster_GB
- 89.238.178.0/24    # Globalaxs_13          Hoster_Spain
- 89.248.172.0/23	# Quasi_Net_2			Hoster_Afrika
- 90.176.0.0/13		# CZ_Net_1			    Hoster_Ostblock
- 91.90.120.0/22     # Globalaxs_39          Hoster_Benelux
- 95.111.252.0/22    # Contabo_28            Hoster_DE
- 91.121.0.0/16		# OvH_4				    Hoster_France
- 91.132.139.0/24    # M247_Europe_19        Hoster_Austria          
- 91.186.0.0/19      # Simply_Transit_1      Hoster_GB
- 91.194.90.0/23     # Contabo_24            Hoster_DE
- 91.207.102.0/23    # M247_Europe_24        Hoster_Ostblock
- 91.212.124.0/24	# AN_Net_1			    Hoster_Ostblock
- 91.214.44.0/22     # Altushost_1           Hoster_Benelux
- 91.218.244.0/22	# MTLM_1			    Hoster_Ostblock
- 91.219.212.0/22    # Globalaxs_49          Hoster_USA
- 91.219.236.0/22    # ServerAstra_1         Hoster_Ostblock
- 91.221.66.0/23     # Creanova_3            Hoster_Skandinavien
- 91.223.208.0/24	# Thundernet_1			Hoster_Ostblock
- 91.233.116.0/23    # Creanova_1            Hoster_Skandinavien
- 91.236.74.0/23		# Erank				    Hoster_Ostblock
- 91.239.156.0/24	# You_Dot_Net_1			Hoster_GB
- 92.38.180.0/23     # GCL_1                 Hoster_Ostblock
- 92.42.104.0/21		# Palestina_14			Araber_Perser
- 92.114.32.0/24     # Dreamserver_2         Hoster_Ostblock
- 92.114.94.0/23		# MXHOST_1			    Hoster_Ostblock
- 92.222.0.0/16		# OvH_16			    Hoster_France
- 92.223.85.0/24     # G_Core_1              Hoster_Benelux
- 93.104.208.0/21	# Contabo_9			    Hoster_DE
- 93.115.24.0/21		# Balticservers_1		Hoster_Ostblock
- 93.115.92.0/22     # Voxility_1            Hoster_Ostblock
- 93.160.0.0/13		# TDC_1				    Hoster_Skandinavien
- 93.186.192.0/20	# MyLoc_18			    Hoster_DE
- 94.23.0.0/16		# OvH_5				    Hoster_France
- 94.46.12.0/22      # Almouroltec_1         Hoster_Spain
- 94.75.192.0/18		# Leaseweb_3			Hoster_DE
- 94.76.192.0/18     # Simply_Transit_3      Hoster_GB
- 94.102.48.0/20		# Quasi_Net_1			Hoster_Afrika
- 94.177.160.0/19    # Aruba_8               Hoster_Italia
- 94.180.112.0/21	# ER-Telecom_2			Hoster_Ostblock
- 94.242.192.0/18    # Root_1                Hoster_Benelux
- 94.246.64.0/18		# IP-Only_1			    Hoster_Skandinavien
- 95.110.160.0/19	# Aruba_1			    Hoster_Italia
- 95.141.32.0/20		# SeFlow_1			    Hoster_Italia
- 95.142.127.0/24    # PRCDN_1               Hoster_USA
- 95.154.192.0/18	# Iomart_4			    Hoster_GB
- 95.168.160.0/20    # Leaseweb_22           Hoster_Benelux
- 95.168.176.0/20    # Leaseweb_21           Hoster_GB
- 95.173.160.0/19	# Netinternet_1			Hoster_Ostblock
- 95.174.0.0/19		# Seeweb_2			    Hoster_Italia
- 95.174.65.0/24     # M247_Europe_13        Hoster_Skandinavien
- 95.211.0.0/16		# Leaseweb_4			Hoster_DE
- 98.100.0.0/14		# Time_Warner_1			Hoster_USA
- 98.108.0.0/14		# MCI_1				    Hoster_USA
- 101.0.64.0/18		# Digital_Pacific_1		Hoster_Australia
- 101.224.0.0/13		# ChinaNet_1			Hoster_Asia
- 102.165.32.0/21    # Aquanet_1             Hoster_Afrika
- 102.165.48.0/21    # Volumedrive_12        Hoster_Afrika
- 103.4.16.0/24      # Virtual_Datacentre_1  Hoster_Australia
- 103.9.76.0/22      # Vinahost_1            Hoster_Asia
- 103.10.197.0/24    # Pacswitch_1           Hoster_Asia
- 103.27.220.0/22    # Moomu_1               Hoster_Australia
- 103.27.224.0/22    # Zero2Infinity_1       Hoster_Australia
- 103.62.48.0/23     # Streamline_1          Hoster_Australia
- 103.75.118.0/24    # OneProvider_2         Hoster_Asia
- 103.75.119.0/24    # OneProvider_1         Hoster_Asia
- 103.77.233.0/24    # Intergrid_6           Hoster_Australia
- 103.77.234.0/24    # Intergrid_7           Hoster_Australia
- 103.103.0.0/24     # Webcom_1              Hoster_Asia
- 103.108.92.0/23    # Intergrid_8           Hoster_Australia
- 103.108.94.0/24    # Intergrid_5           Hoster_Australia
- 103.145.12.0/24    # Vitox_4               Hoster_Benelux
- 103.145.13.0/24    # Cinty_1               Hoster_Benelux
- 103.200.208.0/22   # WPPL_1                Hoster_Asia
- 103.205.140.0/22   # Infusion_1            Hoster_Asia
- 103.212.68.0/22    # YTE_1                 Hoster_Asia
- 103.231.90.0/23    # Intergrid_1           Hoster_Australia
- 103.238.212.0/22   # Bizmac_1              Hoster_Asia
- 103.251.64.0/22    # Xponent_1             Hoster_USA
- 104.40.0.0/13		# Microsoft_4			Hoster_USA
- 104.129.0.0/18     # Quadranet_6           Hoster_USA
- 104.130.0.0/16		# Rackspace_3			Hoster_USA
- 104.131.0.0/16		# Digitalocean_4		Hoster_USA
- 104.151.0.0/16     # Enzu_3                Hoster_USA
- 104.152.216.0/21   # CDC_Net_1             Hoster_USA
- 104.154.0.0/15		# Google_Cloud_3		Hoster_USA
- 104.156.206.0/24   # Virtuzo_1             Hoster_USA
- 104.168.0.0/17     # Colocrossing_10       Hoster_USA
- 104.193.8.0/22		# Volumedrive_9			Hoster_USA
- 104.194.24.0/22    # Versaweb_1            Hoster_USA
- 104.196.0.0/14		# Google_Cloud_1		Hoster_USA
- 104.200.128.0/19   # Total_Server_8        Hoster_USA
- 104.202.0.0/15     # Enzu_1                Hoster_USA
- 104.208.0.0/13		# Microsoft_5			Hoster_USA
- 104.216.0.0/15     # Psychz_Net_1          Hoster_USA
- 104.218.16.0/21	# Joe_Datacenter_2		Hoster_USA
- 104.218.56.0/21    # Unmetered_1           Hoster_Canada
- 104.223.0.0/17     # Quadranet_3           Hoster_USA
- 104.227.0.0/16     # B2_Net_Solutions_10   Hoster_Canada
- 104.236.0.0/16		# Digitalocean_3		Hoster_USA
- 104.238.198.0/23   # Versaweb_2            Hoster_USA
- 104.238.200.0/22   # Versaweb_3            Hoster_USA
- 104.239.128.0/17	# Rackspace_5			Hoster_USA
- 104.243.32.0/20	# Reliablesite_1		Hoster_Latin
- 104.244.208.0/22   # INCX_1                Hoster_USA
- 104.245.96.0/21	# Volumedrive_7			Hoster_USA
- 104.245.144.0/22   # Amanah_4              Hoster_Canada
- 104.248.0.0/16     # Digitalocean_21       Hoster_USA
- 104.247.208.0/24   # Quick_Packet_1        Hoster_USA
- 104.250.108.0/24   # CLDR_1                Hoster_USA
- 104.254.88.0/21    # Amanah_5              Hoster_Canada
- 104.255.64.0/21	# Volumedrive_8			Hoster_USA
- 107.6.128.0/18		# Singlehop_1			Hoster_USA
- 107.20.0.0/14		# Amazon_15			    Hoster_USA
- 107.150.0.0/19     # Quadranet_5           Hoster_USA
- 107.150.32.0/19	# Datashack_1			Hoster_USA
- 107.150.95.0/24    # Cached_1              Hoster_Ostblock
- 107.152.128.0/17	# B2_Net_Solutions_3	Hoster_USA
- 107.161.176.0/20	# Dimenoc_1			    Hoster_USA
- 107.167.224.0/20   # Hugeserver_2          Hoster_USA
- 107.167.240.0/21   # Hugeserver_3          Hoster_USA
- 107.170.0.0/16		# Digitalocean_6		Hoster_USA
- 107.172.0.0/14     # Colocrossing_8        Hoster_USA
- 107.181.160.0/19   # Total_Server_7        Hoster_USA
- 107.182.16.0/20	# Volumedrive_1			Hoster_USA
- 108.59.0.0/20		# Leaseweb_5			Hoster_DE
- 108.61.0.0/16		# Choopa_2			    Hoster_USA
- 108.62.16.0/21     # Nobis_7               Hoster_USA
- 108.62.48.0/21     # Ubiquiti_3            Hoster_USA
- 108.163.128.0/18	# Server4Sale_1			Hoster_USA
- 108.170.0.0/18		# Secured_Servers_1		Hoster_USA
- 109.72.0.0/20		# Internet_PB_1			Hoster_Ostblock
- 109.73.64.0/20     # Redstation_15         Hoster_GB
- 109.90.0.0/16		# Unity_Media_1			Hoster_DE
- 109.168.0.0/17		# KPNQuest_Italia_1		Hoster_Italia
- 109.169.0.0/18		# Iomart_1			    Hoster_GB
- 109.169.64.0/19	# Iomart_2			    Hoster_GB
- 109.201.128.0/19   # NForce_6              Hoster_Benelux
- 109.230.208.0/20	# Webtraffic_1			Hoster_DE
- 109.236.80.0/20	# Worldstream_1			Hoster_Benelux
- 110.8.0.0/13		# Hanaro_1			    Hoster_Asia
- 111.68.96.0/20		# PERN_1			    Araber_Perser
- 113.21.224.0/22    # HD_Net_1              Hoster_Australia
- 113.52.144.0/24    # Fluccs_1              Hoster_Australia
- 113.136.0.0/13		# ChinaNet_3			Hoster_Asia
- 113.192.0.0/18		# Ultraserve_1			Hoster_Australia
- 115.112.0.0/13		# Tatacomm_3			Hoster_Asia
- 115.160.224.0/21	# TCISL_1			    Hoster_Asia
- 115.239.230.0/24	# Lanzhong_1			Hoster_Asia
- 116.90.72.0/24     # GSL_Net_1             Hoster_Australia
- 116.206.228.0/24   # Intergrid_4           Hoster_Australia
- 116.206.229.0/24   # Intergrid_2           Hoster_Australia
- 117.32.0.0/13		# ChinaNet_2			Hoster_Asia
- 118.69.192.0/20	# FPT_2				    Hoster_Latin
- 119.9.88.0/21		# Rackspace_4			Hoster_Asia
- 119.81.0.0/16		# Softlayer_6			Hoster_USA
- 120.92.0.0/17		# Kingsoft_1			Hoster_Asia
- 123.30.0.0/15		# VDC_Net			    Hoster_Asia
- 124.150.139.0/24   # Express_Web_1         Hoster_Australia
- 128.46.0.0/16		# Perdue_Uni_1			Hoster_USA
- 128.90.0.0/16      # Scribe_1              Hoster_USA
- 128.127.104.0/23   # Altushost_2           Hoster_Benelux
- 128.199.0.0/16		# Digitalocean_1		Hoster_Asia
- 128.204.192.0/20	# Snel_Hosting_1		Hoster_Benelux
- 129.232.128.0/17   # Hetzner_4             Hoster_Afrika
- 130.160.0.0/16		# UANET_1			    Hoster_USA
- 130.211.0.0/16		# Google_Cloud_5		Hoster_USA
- 131.100.2.0/24     # Anexia_1              Hoster_Austria
- 131.153.0.0/16		# Secured_Servers_2		Hoster_USA
- 134.90.149.0/24    # Blix_Solutions_1      Hoster_Skandinavien
- 134.119.176.0/20	# Velianet_7			Hoster_Asia
- 134.119.208.0/20	# Velianet_3			Hoster_France
- 134.209.0.0/16     # Digitalocean_15       Hoster_USA
- 134.213.132.0/22	# Cloud_Servers_1		Hoster_GB
- 135.181.0.0/16     # Hetzner_6             Hoster_DE
- 136.243.0.0/16		# Hetzner_2			    Hoster_DE
- 137.74.0.0/17		# OvH_22			    Hoster_France
- 137.117.0.0/16     # Microsoft_16          Hoster_USA
- 138.68.0.0/16      # Digitalocean_9        Hoster_USA
- 138.128.0.0/17		# B2_Net_Solutions_8	Hoster_USA
- 138.199.0.0/18     # Datacamp_25           Hoster_GB
- 138.201.0.0/16     # Hetzner_5             Hoster_DE
- 139.0.0.0/16		# BM-ID_11			    Hoster_Asia
- 139.59.0.0/16      # Digitalocean_13       Hoster_USA
- 139.99.0.0/17      # OvH_34                Hoster_Asia
- 139.99.192.0/22    # OvH_32                Hoster_Australia
- 141.98.8.0/22      # Hostbaltic_1          Hoster_Ostblock
- 141.98.103.0/24    # M247_Europe_21        Hoster_Ostblock
- 141.98.215.0/24    # Estnoc_2              Hoster_Asia
- 141.105.64.0/24	# NConnect_2			Hoster_Ostblock
- 141.105.70.0/24	# NConnect_1			Hoster_Ostblock
- 142.0.32.0/20		# Volumedrive_5			Hoster_USA
- 142.4.192.0/19		# OvH_6				    Hoster_France
- 142.44.128.0/17    # OvH_28                Hoster_Canada
- 142.54.160.0/19	# Datashack_2			Hoster_USA
- 142.93.0.0/16      # Digitalocean_22       Hoster_USA
- 142.234.0.0/19     # Nobis_8               Hoster_USA
- 143.244.56.0/23    # Datacamp_24           Hoster_France
- 143.244.40.0/22    # Datacamp_22           Hoster_GB
- 143.255.56.0/22    # Hostdime_2            Hoster_Latin
- 144.91.96.0/19     # Contabo_29            Hoster_DE
- 144.48.39.0/24     # Host_Royale_5         Hoster_Australia
- 144.76.0.0/16		# Hetzner_1			    Hoster_DE
- 144.168.160.0/21   # Server_Mania_1        Hoster_Canada
- 144.217.0.0/16		# OvH_25			    Hoster_Canada
- 145.239.0.0/16     # OvH_37                Hoster_DE
- 146.0.32.0/20		# MyLoc_3			    Hoster_DE
- 146.0.72.0/21		# Hostkey_1			    Hoster_Benelux
- 146.0.224.0/19		# Velianet_6			Hoster_Afrika
- 146.0.240.0/20		# Velianet_4			Hoster_DE
- 146.70.0.0/16      # Globalaxs_17          Hoster_Ostblock
- 146.148.0.0/17		# Google_Cloud_6		Hoster_USA
- 146.185.0.0/16		# Ripe_2		     	Hoster_DE
- 146.192.128.0/17	# Every_Regions_1		Hoster_Skandinavien
- 146.247.24.0/24    # iServer_1             Hoster_Ostblock
- 147.135.0.0/16     # OvH_27                Hoster_USA
- 149.3.128.0/21		# Redstation_7			Hoster_GB
- 149.56.0.0/16		# OvH_19			    Hoster_Canada
- 149.200.128.0/17	# Orange_Jordan_1		Araber_Perser
- 149.202.0.0/16		# OvH_23			    Hoster_France
- 151.80.0.0/16		# OvH_17_3CX			Hoster_Italia
- 151.236.23.0/24    # Edis_5                Hoster_Spain
- 151.236.32.0/19	# Simply_Transit_2		Hoster_GB
- 152.89.160.0/22    # Globalaxs_46          Hoster_Ostblock
- 155.94.64.0/18		# Nodes_Direct_3		Hoster_USA
- 155.138.128.0/17   # Vultr_Holding_1       Hoster_Canada
- 156.96.0.0/16      # New_Trend_1           Hoster_USA
- 156.146.60.0/22    # Datacamp_27           Hoster_GB
- 157.97.132.0/24    # Net_Shop_1            Hoster_Ostblock
- 158.58.168.0/21	# SeFlow_2			    Hoster_Italia
- 158.69.0.0/16		# OvH_24			    Hoster_Canada
- 158.140.64.0/19    # Palestina_15          Araber_Perser
- 159.7.0.0/16		# Softlayer_5			Hoster_USA
- 159.8.0.0/16		# Softlayer_3			Hoster_USA
- 159.89.0.0/16      # Digitalocean_8        Hoster_USA
- 159.100.0.0/19     # Firstcolo_1           Hoster_DE
- 159.122.0.0/16		# Ripe_1			    Hoster_Benelux
- 159.203.0.0/16     # Digitalocean_10       Hoster_USA
- 160.116.0.0/16     # ACS2_1                Hoster_Afrika
- 161.97.144.0/22    # Contabo_26            Hoster_DE
- 161.129.64.0/21    # Quadranet_2           Hoster_USA
- 161.202.97.0/24    # Softlayer_10          Hoster_USA
- 162.210.92.0/22	# Eboundhost_1			Hoster_USA
- 162.210.192.0/21	# Leaseweb 6			Hoster_DE
- 162.213.24.0/21	# Volumedrive_4			Hoster_USA
- 162.218.120.0/22   # Quadranet_15          Hoster_USA
- 162.218.181.0/24   # Ednet_1               Hoster_USA
- 162.219.0.0/21		# RAD-2013_1			Hoster_Canada
- 162.219.24.0/21	# Microglobe_1			Hoster_USA
- 162.221.200.0/21	# eSecureData_1			Hoster_Canada
- 162.222.104.0/22	# Zerigo_Net_1			Hoster_USA
- 162.222.192.0/21   # Quadranet_10          Hoster_USA
- 162.223.8.0/21		# Tranquil_1			Hoster_USA
- 162.242.224.0/19	# Rackspace_2			Hoster_USA
- 162.243.0.0/16		# Digitalocean_5		Hoster_USA
- 162.248.52.0/22	# Gigasnet_1			Hoster_USA
- 162.248.72.0/21	# Volumedrive_2			Hoster_USA
- 162.252.160.0/22	# StratITSphere_1		Hoster_USA
- 162.253.68.0/22    # Zerolag_1             Hoster_USA
- 162.253.128.0/22   # Amanah_1              Hoster_Canada
- 162.253.132.0/22	# CyberLynk_2			Hoster_USA
- 162.253.152.0/22	# Reprise_1			    Hoster_USA
- 162.254.200.0/21	# Velianet_2			Hoster_USA
- 163.172.0.0/16		# Online_SAS_6			Hoster_France
- 163.182.0.0/16		# Turnkey_2			    Hoster_USA
- 164.40.128.0/19	# GoGrid_1			    Hoster_Benelux	
- 164.132.0.0/16		# OvH_20			    Hoster_France
- 165.22.0.0/16      # Digitalocean_17       Hoster_USA
- 165.98.0.0/16		# Lacnic_1			    Hoster_Latin
- 165.138.0.0/16		# IDOE_1			    Hoster_USA
- 165.225.128.0/18	# Joyent_2			    Hoster_USA
- 165.227.0.0/16     # Digitalocean_18       Hoster_USA
- 165.231.0.0/16     # Fibergrid_2           Hoster_Asia
- 166.78.0.0/16		# Rackspace_6			Hoster_USA
- 167.86.68.0/23     # Contabo_23            Hoster_DE
- 167.88.0.0/16		# Nexeon_1			    Hoster_USA
- 167.99.0.0/16      # Digitalocean_20       Hoster_USA
- 167.114.0.0/16		# OvH_15			    Hoster_Canada
- 167.160.160.0/19   # Quadranet_13          Hoster_USA
- 167.172.0.0/16     # Digitalocean_24       Hoster_USA
- 168.61.0.0/16		# Microsoft_2			Hoster_Benelux	
- 168.62.0.0/15		# Microsoft_3			Hoster_Benelux
- 168.126.0.0/16		# Kornet_2			    Hoster_Asia
- 168.235.144.0/20	# KW_Datacenter_1		Hoster_Canada
- 169.229.0.0/16		# University_California	Hoster_USA
- 171.22.76.0/24     # Hugeserver_4          Hoster_USA
- 171.25.208.0/23	# Boost-FR_1			Hoster_France
- 172.86.176.0/21	# Joe_Datacenter_3		Hoster_USA 
- 172.241.0.0/16     # Leaseweb_16           Hoster_USA
- 172.245.0.0/16     # Colocrossing_6        Hoster_USA
- 172.255.124.0/22   # Leaseweb_25           Hoster_USA
- 173.44.32.0/19     # Quadranet_12          Hoster_USA
- 173.192.0.0/15		# Softlayer_4			Hoster_USA
- 173.198.192.0/18   # Turnkey_3             Hoster_USA
- 173.205.0.0/17     # Packetexchange_2      Hoster_USA
- 173.208.40.0/21    # Ubiquiti_4            Hoster_USA
- 173.208.128.0/17	# WholeSale_3			Hoster_USA
- 173.212.192.0/18	# Contabo_11			Hoster_DE
- 173.224.112.0/20	# S4Y_1				    Hoster_USA
- 173.231.128.0/17	# Voxel_1			    Hoster_USA
- 173.233.64.0/19	# Turnkey_1			    Hoster_USA
- 173.234.156.0/22   # Ubiquiti_2            Hoster_USA
- 173.237.207.0/24   # Surfshark_5           Hoster_USA
- 173.242.112.0/20	# Volumedrive_3			Hoster_USA
- 173.244.64.0/20	# Gogrid_2			    Hoster_USA
- 173.248.128.0/18	# WEHOST_1			    Hoster_USA
- 173.249.0.0/23     # Contabo_17            Hoster_DE
- 173.249.26.0/23    # Contabo_14            Hoster_DE
- 173.249.30.0/23    # Contabo_15            Hoster_DE
- 173.249.32.0/19    # Contabo_13            Hoster_DE
- 173.254.192.0/18   # Quadranet_16          Hoster_USA
- 173.255.128.0/20   # HSI_Net_1             Hoster_USA
- 174.34.128.0/18    # Nobis_6               Hoster_USA
- 174.36.0.0/15		# Softlayer_8			Hoster_USA
- 174.128.224.0/19   # Sharktech_2           Hoster_USA
- 174.140.160.0/20	# Directspace_1			Hoster_USA
- 176.9.0.0/16		# Hetzner_3			    Hoster_DE
- 176.10.96.0/19     # Datasource_1          Hoster_CH
- 176.31.0.0/16		# OvH_7				    Hoster_France
- 176.34.240.0/21	# Amazon_3			    Hoster_Benelux
- 176.58.64.0/20		# Netstream_2			Araber_Perser
- 176.58.88.0/24		# Goscomb_1			    Hoster_GB
- 176.67.80.0/23     # Strong_2              Hoster_Benelux
- 176.67.84.0/24     # Mudhook_1             Hoster_Benelux
- 176.106.40.0/21	# Speedclick_1			Araber_Perser
- 176.126.83.0/24    # OneProvider_5         Hoster_Italia
- 176.212.124.0/22	# ER-Telecom_1			Hoster_Ostblock
- 176.227.192.0/20	# Redstation_11			Hoster_GB
- 176.227.241.0/24   # Surfshark_3           Hoster_Latin
- 178.17.160.0/20    # Trabia_1              Hoster_Ostblock
- 178.19.104.0/21	# Slaskdata_1			Hoster_Ostblock
- 178.32.0.0/15		# OvH_8				    Hoster_France
- 178.62.0.0/17		# Digitalocean_2		Hoster_Benelux
- 178.73.210.0/24    # Edis_3                Hoster_Skandinavien
- 178.162.128.0/17	# Leaseweb_7			Hoster_DE
- 178.175.128.0/19   # Trabia_2              Hoster_Ostblock
- 178.209.32.0/19    # Nine_1                Hoster_CH
- 178.238.224.0/21   # Contabo_30            Hoster_DE
- 178.238.232.0/23	# Contabo_4			    Hoster_DE
- 178.238.234.0/23   # Contabo_22            Hoster_DE
- 178.238.236.0/23	# Contabo_7			    Hoster_DE
- 178.239.173.0/24   # Hydra_1               Hoster_Benelux
- 178.249.152.0/21	# A2B_Internet_1		Hoster_Benelux
- 179.43.128/18      # Private_Layer_1       Hoster_Latin
- 179.52.0.0/15		# CoDeTel_1			    Hoster_Latin
- 179.152.0.0/14		# Claro_1			    Hoster_Latin
- 180.149.228.0/22   # Host_Royale_8         Hoster_Australia
- 181.214.58.0/23    # Digital_Energy_1      Hoster_USA
- 181.214.60.0/22    # Digital_Energy_4      Hoster_USA
- 181.215.0.0/16     # Digital_Energy_2      Hoster_USA
- 182.72.70.0/24		# Bharti_1			    Hoster_Asia
- 183.192.0.0/11		# CMNet_1			    Hoster_Asia
- 184.72.0.0/15		# Amazon_17			    Hoster_USA
- 184.75.208.0/20    # Amanah_2              Hoster_Canada
- 184.95.32.0/19     # Secured_Servers_3     Hoster_USA
- 184.168.0.0/16		# Go_Daddy_1			Hoster_USA
- 184.170.240.0/20   # Total_Server_3        Hoster_USA
- 184.172.0.0/15		# The_Planet_1			Hoster_USA
- 185.2.100.0/22		# Contabo_12			Hoster_DE
- 185.4.135.0/24		# Tophost_1			    Hoster_Ostblock
- 185.6.16.0/22		# Netstream_1			Araber_Perser
- 185.7.212.0/22		# QualIT_1			    Hoster_France
- 185.8.48.0/22		# Aruba_2			    Hoster_Italia
- 185.9.16.0/22      # M247_Europe_5         Hoster_CH
- 185.12.184.0/22	# Citynet_4			    Araber_Perser
- 185.15.20.0/22     # Almouroltec_2         Hoster_Spain
- 185.15.244.0/22    # myLoc_20              Hoster_DE
- 185.16.38.0/24     # Dedires_1             Araber_Perser
- 185.19.220.0/23	# Palestina_5			Araber_Perser
- 185.20.96.0/22		# Redstation_14			Hoster_GB
- 185.24.232.0/22    # Servebyte_2           Hoster_GB
- 185.31.159.0/24    # WebHS_1               Hoster_Spain
- 185.40.4.0/24		# Hostgrad_1			Hoster_Ostblock
- 185.51.228.0/24    # Avast_2               Hoster_Ostblock
- 185.53.88.0/24     # Cloudstar_1           Hoster_Skandinavien
- 185.53.91.0/24     # Estoxy_1              Hoster_Ostblock
- 185.59.220.0/24    # Datacamp_17           Hoster_DE
- 185.61.148.0/23    # Yourserver_2          Hoster_Ostblock
- 185.62.56.0/22		# Snel_Hosting_3		Hoster_Benelux
- 185.65.206.0/24    # CityNet_5             Hoster_Ostblock
- 185.70.184.0/22	# Hostkey_2			    Hoster_Benelux
- 185.76.8.0/22      # Datacamp_26           Hoster_Skandinavien
- 185.79.248.0/22    # Nashirnet_2           Araber_Perser
- 185.86.148.0/23    # Yourserver_1          Hoster_Skandinavien
- 185.86.151.0/24    # Yourserver_3          Hoster_Ostblock
- 185.87.108.0/22    # Multim_1              Hoster_Skandinavien
- 185.93.180.0/22    # Globalaxs_19          Hoster_DE
- 185.93.244.0/22    # Bamboozle_1           Araber_Perser
- 185.94.192.0/24    # Globalaxs_4           Hoster_Ostblock
- 185.97.132.0/24	# Hotnet_1			    Araber_Perser
- 185.99.3.0/24      # Globalhost_1          Hoster_Ostblock
- 185.102.216.0/22	# Datacamp_1			Hoster_DE
- 185.104.184.0/24   # M247_Europe_27        Hoster_DE
- 185.104.186.0/23   # M247_Europe_2         Hoster_Benelux
- 185.104.216.0/22   # Servebyte_1           Hoster_GB
- 185.106.103.0/24   # Cloud_Layer8_1        Hoster_Ostblock
- 185.107.80.0/22    # NForce_5              Hoster_Benelux
- 185.107.92.0/22    # NForce_4              Hoster_Benelux
- 185.108.106.0/23   # Host_Royale_4         Hoster_France
- 185.108.128.0/22   # Webworld_1            Hoster_GB
- 185.112.82.0/24    # Creanova_2            Hoster_Skandinavien
- 185.123.100.0/22   # Bilrom_1              Hoster_Ostblock
- 185.130.184.0/24   # Globalaxs_6           Hoster_DE
- 185.132.248.0/22	# Jetnet_1			    Araber_Perser
- 185.144.82.0/23    # M247_Europe_9         Hoster_Ostblock
- 185.147.212.0/23   # Strong_3              Hoster_Skandinavien
- 185.147.214.0/23   # Strong_4              Hoster_DE
- 185.148.145.0/24	# BelCloud_1			Hoster_Afrika
- 185.153.151.0/24   # Host_Royale_6         Hoster_Benelux
- 185.155.96.0/22    # EE_WHS_1              Hoster_Ostblock
- 185.156.172.0/22   # Globalaxs_24          Hoster_Ostblock
- 185.158.132.0/22   # Digital_Energy_5      Hoster_GB
- 185.159.36.0/24	# Phoenix_1			    Hoster_Ostblock
- 185.163.44.0/22    # MivoCloud_1           Hoster_Ostblock
- 185.165.170.0/24   # Floki_Net_1           Hoster_Skandinavia
- 185.166.84.0/24    # Host_Royale_3         Hoster_France
- 185.174.156.0/22   # Host_Royale_9         Hoster_Asia
- 185.180.12.0/22    # Datacamp_28           Hoster_GB
- 185.183.106.0/24   # M247_Europe_15        Hoster_Spain
- 185.183.107.0/24   # Globalaxs_10          Hoster_Austria
- 185.186.79.0/24    # OneProvider_6         Hoster_Skandinavien
- 185.188.61.0/24    # Host_Royale_7         Hoster_Spain
- 185.189.112.0/23   # Globalaxs_33          Hoster_DE
- 185.189.114.0/23   # Globalaxs_28          Hoster_Ostblock
- 185.189.160.0/22   # IANA_1                Hoster_Asia
- 185.191.205.0/24   # HQserv_1              Araber_Perser
- 185.201.188.0/24   # Host_Royale_1         Hoster_Asia
- 185.206.224.0/23   # Globalaxs_5           Hoster_Skandinavia
- 185.212.168.0/22   # Globalaxs_12          Hoster_Benelux
- 185.213.20.0/24    # OneProvider_4         Hoster_Italia
- 185.216.34.0/24    # M247_Europe_6         Hoster_GB
- 185.225.28.0/24    # Teleks_1              Hoster_Ostblock
- 185.226.64.0/24    # Aweb_1                Hoster_Ostblock
- 185.229.190.0/23   # Datacamp_5            Hoster_GB
- 185.229.226.0/24   # Cloud_Web_Manage_1    Hoster_USA
- 185.232.20.0/22    # Globalaxs_3           Hoster_Benelux
- 185.242.6.0/24     # Globalaxs_20          Hoster_Ostblock
- 185.244.214.0/24   # Globalaxs_18          Hoster_Ostblock
- 185.245.85.0/24    # Globalaxs_7           Hoster_Ostblock
- 185.246.210.0/24   # Datacamp_19           Hoster_Ostblock
- 185.253.97.0/24    # Globalaxs_25          Hoster_Skandinavien
- 185.253.99.0/24    # M247_Europe_14        Hoster_Spain
- 187.32.0.0/16		# Algar_1			    Hoster_Latin
- 188.42.192.0/21	# Servers_Com_1			Hoster_Benelux
- 108.62.16.0/21     # Ubiquiti_1            Hoster_USA 
- 188.65.144.0/21	# Smartweb_1			Hoster_DE
- 188.68.240.0/20	# Sprint_1			    Hoster_Ostblock
- 188.92.72.0/21     # Nano_1                Hoster_Ostblock
- 188.123.126.0/24   # Lertas_1              Hoster_Ostblock
- 188.124.40.0/22    # Selectel_1            Hoster_Ostblock
- 188.138.0.0/17		# Intergenia_3			Hoster_DE
- 188.161.0.0/16		# Palestina_6			Araber_Perser
- 188.161.200.0/22	# Palestina_10			Araber_Perser
- 188.165.0.0/16		# OVH_9				    Hoster_France
- 188.166.0.0/16     # Digitalocean_19       Hoster_Benelux
- 188.213.216.0/24	# Dreamserver_1			Hoster_Ostblock
- 188.214.128.0/21	# Balticservers_2		Hoster_Ostblock
- 188.225.72.0/21	# TimeWeb_1			    Hoster_Ostblock
- 188.226.128.0/18	# Digitalocean_7		Hoster_USA
- 188.227.160.0/20	# Redstation_5			Hoster_GB
- 188.227.176.0/21	# Redstation_6			Hoster_GB
- 188.227.186.0/24	# Redstation_10			Hoster_GB
- 189.192.0.0/13		# MegaCable_1			Hoster_Latin
- 190.0.0.0/19		# EPM_NET_1			    Hoster_Latin
- 190.95.224.0/19	# Teleconet_1			Hoster_Latin
- 190.144.0.0/14		# Telmex_1			    Hoster_Latin
- 190.151.0.0/17		# Entel_1			    Hoster_Latin
- 191.101.0.0/16     # Digital_Energy_3      Hoster_Latin
- 191.232.0.0/14		# Microsoft_1			Hoster_Benelux
- 192.3.0.0/16       # Colocrossing_11       Hoster_USA
- 192.64.4.0/22      # GFI_1                 Hoster_Canada
- 192.69.88.0/21		# Volumedrive_11		Hoster_USA
- 192.71.26.0/24     # Edis_11               Hoster_Italia
- 192.71.213.0/24    # Edis_7                Hoster_Spain
- 192.71.244.0/24    # Edis_10               Hoster_Ostblock
- 192.81.208.0/20    # Digitalocean_11       Hoster_USA
- 192.99.0.0/16		# OvH_10			    Hoster_France
- 192.111.144.0/20	# Dacen_3			    Hoster_USA
- 192.129.128.0/17   # Hostwinds_1           Hoster_USA
- 192.151.144.0/20	# Datashack_3			Hoster_USA
- 192.159.64.0/22	# CyberLynk_1			Hoster_USA
- 192.184.0.0/22		# InstaVPS_1			Hoster_USA
- 192.187.96.0/19	# Datashack_4			Hoster_USA
- 192.198.80.0/20	# Dacen_2			    Hoster_USA
- 192.198.96.0/19	# B2_Net_Solutions_5	Hoster_USA
- 192.211.48.0/20	# Incero_1			    Hoster_USA
- 192.227.128.0/17	# Colocrossing_4		Hoster_USA
- 192.254.64.0/20	# Dacentec_1			Hoster_USA
- 193.9.113.0/24     # Globalaxs_23          Hoster_GB
- 193.29.14.0/23     # Bunea_1               Hoster_Ostblock
- 193.29.106.0/23    # Globalaxs_45          Hoster_DE
- 193.32.8.0/24      # Yehuda_1              Hoster_Ostblock
- 193.36.118.0/24    # Estnoc_1              Hoster_Ostblock
- 193.37.152.0/24	# Contabo_10			Hoster_DE
- 193.37.252.0/22    # Globalaxs_47          Hoster_USA
- 193.46.255.0/24    # Pennq_1               Hoster_Benelux
- 193.70.0.0/17      # OvH_26                Hoster_France
- 193.107.216.0/23   # Dedires_2             Hoster_GB
- 193.111.136.0/21	# MyLoc_9			    Hoster_DE
- 193.140.24.0/22	# Ulaknet_1			    Hoster_Ostblock
- 193.148.16.0/22    # M247_Europe_16        Hoster_Spain
- 193.160.0.0/13		# TDC_1				    Hoster_Skandinavien
- 193.182.144.0/24   # Edis_1                Hoster_Ostblock
- 193.203.14.0/23    # Dedipath_1            Hoster_USA
- 194.5.212.0/22     # Globalaxs_31          Hoster_DE
- 194.28.112.0/22	# Specialist_ISP_1		Hoster_Benelux
- 194.33.40.0/22     # Inovare_1             Hoster_Ostblock
- 194.34.132.0/22    # Creanova_4            Hoster_Skandinavien
- 194.35.114.0/23    # Leaseweb_19           Hoster_Benelux
- 194.39.124.0/22    # WebHS_2               Hoster_Spain
- 194.63.140.0/24	# SuperServers_2		Hoster_Ostblock
- 194.63.143.0/24	# SuperServers_1		Hoster_Ostblock
- 194.71.126.0/24    # Edis_12               Hoster_Austria
- 194.88.104.0/22	# Worldstream_2			Hoster_Benelux
- 194.99.105.0/24    # Globalaxs_27          Hoster_Ostblock
- 194.110.115.0/24   # Globalaxs_40          Hoster_Benelux
- 194.135.80.0/20	# Rackray_1			    Hoster_Ostblock
- 194.150.167.0/24   # Host_Royale_12        Hoster_Asia
- 194.187.251.0/24   # M247_Europe_11        Hoster_Benelux
- 195.47.194.0/24    # Host_Royale_10        Hoster_Asia
- 195.88.72.0/23		# Nau_Net_1			    Hoster_Ostblock
- 195.123.208.0/21   # Layer6_Net_1          Hoster_Ostblock
- 195.142.3.0/24		# Saglayici_Net_1		Hoster_Ostblock
- 195.154.0.0/16		# Online_SAS_2			Hoster_France
- 195.158.248.0/23   # Host_Royale_11        Hoster_Asia
- 195.181.160.0/20   # Datacamp_4            Hoster_GB
- 195.191.24.0/23	# Hostpro_1			    Hoster_Ostblock
- 195.206.107.0/24   # Globalaxs_22          Hoster_Spain--
- 196.196.0.0/16     # Afrinic_1             Hoster_Afrika
- 196.244.0.0/16     # Fibergrid_1           Hoster_Afrika
- 196.251.250.0/24   # Host1_Plus            Hoster_Afrika
- 197.5.128.0/18		# Tunisie_1			    Hoster_Afrika
- 197.231.244.0/22	# Roke_Zambia			Hoster_Afrika
- 197.242.144.0/20   # Afrihost_1            Hoster_Afrika
- 198.2.128.0/18		# RSG-Delivery_1		Hoster_USA
- 198.7.56.0/21		# Leaseweb_9			Hoster_DE
- 198.8.80.0/20      # Total_Server_2        Hoster_USA
- 198.12.64.0/18		# Colocrossing_2		Hoster_USA
- 198.20.160.0/19	# B2_Net_Solutions_4	Hoster_USA
- 198.23.128.0/17	# Colocrossing_1		Hoster_USA
- 198.27.64.0/18		# OvH_12			    Hoster_France
- 198.46.128.0/17    # Colocrossing_7        Hoster_USA
- 198.50.128.0/17	# OvH_11			    Hoster_Canada
- 198.54.128.0/24    # Tzulo_1               Hoster_USA
- 198.98.180.0/22    # Fastserver_1          Hoster_USA
- 198.100.144.0/20   # OvH_31                Hoster_USA
- 198.134.104.0/21   # Unlimitednet_1        Hoster_USA
- 198.144.144.0/20   # Yesup_1               Hoster_Canada
- 198.175.64.0/19	# Intel_1			    Hoster_USA
- 198.203.28.0/22    # Hugeserver_1          Hoster_USA
- 198.204.224.0/19	# Datashack_6			Hoster_USA
- 198.245.64.0/20	# B2_Net_Solutions_7	Hoster_USA
- 199.10.64.0/24     # Global_Frag_1         Hoster_USA
- 199.27.88.0/22		# Vinakom_1			    Hoster_USA
- 199.48.160.0/21	# Nodes_Direct_4		Hoster_USA
- 199.48.240.0/21    # Powerhouse_1          Hoster_USA
- 199.58.187.0/24    # Total_Server_1        Hoster_USA
- 199.114.216.0/21   # MadeIT_1              Hoster_USA
- 199.115.96.0/21    # Sharktech_1           Hoster_USA
- 199.115.112.0/21	# Leaseweb_1			Hoster_USA
- 199.168.136.0/21	# Volumedrive_10		Hoster_USA
- 199.188.100.0/22   # Colocrossing_5        Hoster_USA
- 199.189.26.0/23    # Amanah_3              Hoster_Canada
- 199.189.84.0/22	# Hosting_Solutions_3	Hoster_USA
- 199.191.56.0/22	# Dacen_1			    Hoster_USA
- 199.204.208.0/21   # Dynamic_1             Hoster_Canada
- 199.217.104.0/22   # AxelX_1               Hoster_USA
- 199.223.232.0/21	# Google_Cloud_2		Hoster_USA
- 199.254.120.0/22	# Intermedia_1			Hoster_USA
- 199.255.208.0/21	# AnchorFree_1			Hoster_GB
- 200.112.192/20		# TV_Prensa_1			Hoster_Latin
- 201.131.124.0/22   # Hostdime_1            Hoster_Latin
- 201.151.0.0/16		# Alestra_1			    Hoster_Latin
- 202.129.16.0/22    # CAT_South_1           Hoster_Asia
- 202.177.240.0/24	# Five_Net_1			Hoster_Asia
- 203.121.64.0/18	# TT_Dotcom_1			Hoster_Asia
- 204.12.192.0/18	# WholeSale_1			Hoster_USA
- 204.14.72.0/21		# AnchorFree_1			Hoster_GB
- 204.15.104.0/21    # BTWL_1                Hoster_USA
- 204.15.164.0/22	# MarquisNet_1			Hoster_USA
- 204.27.56.0/21		# Joe_Datacenter_4		Hoster_USA
- 204.44.64.0/18     # Quadranet_11          Hoster_USA
- 204.110.8.0/21		# Bavsi_1			    Hoster_USA
- 204.187.100.0/23   # Amanah_6              Hoster_Canada
- 206.189.0.0/16     # Digitalocean_16       Hoster_USA
- 206.217.128.0/20   # Colocrossing_9        Hoster_USA
- 206.221.176.0/20	# Reliablesite_2		Hoster_USA
- 207.166.128.0/18	# SCRE_1			    Hoster_USA
- 207.180.200.0/23   # Contabo_19            Hoster_DE
- 207.180.210.0/23   # Contabo_18            Hoster_DE
- 207.180.242.0/23   # Contabo_21            Hoster_DE
- 207.189.0.0/19     # Hypervpn_1            Hoster_USA
- 207.228.224.0/19   # Hopone_1              Hoster_USA
- 207.244.64.0/18	# Leaseweb_1			Hoster_DE
- 208.43.0.0/16		# Softlayer_7			Hoster_USA
- 208.78.40.0/22     # Total_Server_6        Hoster_USA
- 208.79.104.0/21	# Airenet_1			    Hoster_USA
- 208.91.64.0/21     # Paradise_2            Hoster_USA
- 208.99.112.0/20	# ESN_NET_1			    Hoster_USA
- 208.100.0.0/18		# Steadfast_1			Hoster_USA
- 208.111.32.0/20	# Hostvirtual_1			Hoster_USA
- 208.115.192.0/18   # Limestone_5           Hoster_USA
- 208.117.96.0/20	# Clarity_1			    Hoster_USA
- 209.58.128.0/20    # Leaseweb_20           Hoster_USA
- 209.58.160.0/20    # Leaseweb_18           Hoster_Asia
- 209.59.128.0/18    # Liquidweb_1           Hoster_USA
- 209.95.32.0/19     # Hosting_Services_1    Hoster_USA
- 209.126.96.0/19	# Server4You_1			Hoster_USA
- 209.160.112.0/20   # Paradise_3            Hoster_USA
- 209.190.0.0/17		# ENET_1			    Hoster_USA
- 209.216.64.0/19    # PBX_Change_1          Hoster_USA
- 209.222.0.0/19		# Choopa_1			    Hoster_USA
- 209.239.112.0/20	# Hosting_Solutions_2	Hoster_USA
- 209.239.122.192/27	# Hosting_Solutions_4	Hoster_USA
- 210.48.0.0/17		# Iconz_1			    Hoster_Australia
- 210.77.64.0/19		# CST_Net_1			    Hoster_Asia
- 210.245.80.0/20	# FPT_1				    Hoster_Latin
- 211.39.128.0/19	# Kornet_1			    Hoster_Asia
- 211.154.175.0/24	# Centeknet_1			Hoster_Asia
- 212.35.192.0/19	# Seeweb_1			    Hoster_Italia
- 212.47.224.0/19	# Online_SAS_8			Hoster_France
- 212.57.96.0/20		# MKS_1				    Hoster_Ostblock
- 212.83.128.0/18	# Online_SAS_3			Hoster_France
- 212.84.160.0/19	# Redstation_12			Hoster_GB
- 212.102.32.0/20    # Datacamp_23           Hoster_GB
- 212.102.48.0/20    # Datacamp_20           Hoster_Spain
- 212.102.63.0/24    # Datacamp_10           Hoster_GB
- 212.107.248.0/21	# Kapital_1			    Hoster_Ostblock
- 212.129.0.0/18		# Online_SAS_4			Hoster_France
- 212.147.0.0/17		# VTX_1				    Hoster_CH
- 212.199.114.0/24   # Golden_Lines_1        Hoster_USA
- 212.210.0.0/16		# Interbusiness_1		Hoster_Italia
- 212.237.0.0/18     # Aruba_6               Hoster_Italia
- 213.126.64.0/18	# Ziggo_1			    Hoster_Benelux
- 213.136.64.0/19	# Contabo_2			    Hoster_DE
- 213.197.128.0/18   # Baltnet_1             Hoster_Ostblock
- 213.202.192.0/18	# MyLoc_7			    Hoster_DE
- 213.229.64.0/18    # Simply_Transit_4      Hoster_GB
- 216.45.48.0/20     # Quadranet_14          Hoster_USA
- 216.84.0.0/15		# Espire_1			    Hoster_USA
- 216.121.0.0/17		# Serverpath_1			Hoster_USA
- 216.205.96.0/20	# Interliant_1			Hoster_USA
- 216.244.64.0/19	# Wowrack_1			    Hoster_USA
- 216.245.192.0/19   # Limestone_4           Hoster_USA
- 217.11.224.0/20	# Casablanca_1			Hoster_Ostblock
- 217.20.112.0/20	# Leaseweb_15			Hoster_DE
- 217.23.0.0/20		# Worldstream_3			Hoster_Benelux
- 217.61.120.0/21    # Aruba_5               Hoster_Italia
- 217.79.176.0/20	# MyLoc_5			    Hoster_DE
- 217.138.192.0/18   # Globalaxs_1           Hoster_DE
- 217.145.239.0/24   # Quadranet_1           Hoster_USA
- 217.146.80.0/20    # Hydra_4               Hoster_GB
- 217.160.0.0/16		# Schlund_2			    Hoster_DE
- 217.170.192.0/20	# ServetheWorld_1		Hoster_USA
- 217.172.160.0/19	# Intergenia_4			Hoster_DE
- 217.174.240.0/20	# Fasthosts_1			Hoster_GB
- 217.182.0.0/16     # OvH_35                Hoster_Ostblock
- 217.195.112.0/20	# Velance_1			    Hoster_Benelux
-103.77.233.74 #  Australia Sydney Intergrid Group Pty. Ltd. 
-43.249.130.170/25 #  Korea, Republic Of Cust Alloc Kr 
-185.200.117/24 # Singapore Singapore M247 Ltd Singapore Infrastructure 
-185.232.22.210/24 # United States New York M247 Ltd New York Infrastructure 
+1.208.0.0/13# Boranet_1 Hoster_Asia   
+2.56.176.0/23# Dedipath_2 Hoster_USA   
+2.58.28.0/22# Stargato_1 Hoster_GB   
+3.64.0.0/12# Amazon_24 Hoster_USA   
+5.9.0.0/16# Hetzner_1 Hoster_DE   
+5.11.40.0/21# Palestina_1 Araber_Perser   
+5.39.0.0/17# OvH_21 Hoster_France   
+5.39.216.0/21# Hostkey_1 Hoster_Ostblock   
+5.56.16.0/22# Avastcloud_1 Hoster_GB   
+5.62.16.0/24# Privax_2 Hoster_USA   
+5.62.20.0/24# Privax_1 Hoster_GB   
+5.62.21.0/24# Avastcloud_7 Hoster_GB   
+5.62.34.0/23# Avastcloud_2 Hoster_GB   
+5.62.38.0/23# Avastcloud_8 Hoster_GB   
+5.62.40.0/23# Avastcloud_11 Hoster_GB   
+5.62.42.0/23# Avastcloud_14 Hoster_GB   
+5.62.46.0/23# Avastcloud_12 Hoster_GB   
+5.62.48.0/23# Avastcloud_13 Hoster_GB   
+5.62.56.0/23# Avastcloud_6 Hoster_GB   
+5.62.58.0/23# Avastcloud_3 Hoster_GB   
+5.62.60.0/23# Avastcloud_5 Hoster_GB   
+5.62.62.0/23# Avastcloud_4 Hoster_GB   
+5.79.64.0/18# Leaseweb_12 Hoster_Benelux   
+5.104.104.0/21# MyLoc_19 Hoster_DE   
+5.133.11.0/24# Artnet_1 Hoster_Ostblock   
+5.135.0.0/16# OvH_13 Hoster_France   
+5.152.192.0/19# Redstation_1 Hoster_GB   
+5.153.55.0/24# Softlayer_1 Hoster_USA   
+5.154.174.0/24# Host_Royale_2 Hoster_Spain   
+5.157.0.0/18# Interconnects_2 Hoster_GB   
+5.182.210.0/24# SKB_1 Hoster_Benelux   
+5.183.92.0/22# Netprotect_1 Hoster_DE   
+5.189.144.0/20# Contabo_6 Hoster_DE   
+5.189.160.0/20# Contabo_8 Hoster_DE   
+5.189.176.0/20# Contabo_5 Hoster_DE   
+5.196.0.0/16# OvH_14 Hoster_France   
+5.249.152.0/21# Aruba_4 Hoster_Italia   
+5.253.204.0/22# Globalaxs_41 Hoster_Ostblock   
+8.33.4.0/22# WBS_Connect_1 Hoster_USA   
+8.208.98.0/24# Alibaba_1 Hoster_Asia   
+12.226.0.0/16# AT_&_T_1 Hoster_USA   
+13.52.0.0/14# Amazon_21 Hoster_USA   
+13.56.0.0/14# Amazon_22 Hoster_USA   
+13.112.0.0/14# Amazon_20 Hoster_Asia   
+18.156.0.0/14# Amazon_25 Hoster_DE   
+20.48.0.0/12# Microsoft_18 Hoster_USA   
+20.192.0.0/10# Microsoft_19 Hoster_USA   
+23.19.0.0/16# Leaseweb_23 Hoster_USA   
+23.20.0.0/14# Amazon_9 Hoster_USA   
+23.80.0.0/15# Nobis_9 Hoster_USA   
+23.82.0.0/16# Nobis_10 Hoster_USA   
+23.83.0.0/16# Nobis_11 Hoster_USA   
+23.88.0.0/15# Enzu_2 Hoster_USA   
+23.92.80.0/20# Nodes_Direct_1 Hoster_USA   
+23.92.127.0/24# Interconnects_1 Hoster_GB   
+23.94.0.0/15# Colocrossing_3 Hoster_USA   
+23.96.0.0/13# Microsoft_15 Hoster_USA   
+23.104.0.0/15# Nobis_14 Hoster_USA   
+23.106.40.0/21# Nobis_12 Hoster_USA   
+23.106.48.0/21# Nobis_13 Hoster_USA   
+23.106.160.0/19# Nobis_1 Hoster_USA   
+23.106.192.0/18# Nobis_2 Hoster_USA   
+23.107.0.0/16# Nobis_4 Hoster_USA   
+23.108.0.0/16# Leaseweb_26 Hoster_USA   
+23.108.128.0/18# Nobis_3 Hoster_USA   
+23.108.192.0/20# Nobis_5 Hoster_USA   
+23.148.144.0/22# Quick_Server_1 Hoster_USA   
+23.154.160.0/24# Windscribe_1 Hoster_Canada   
+23.172.112.0/24# Quadix_1 Hoster_USA   
+23.226.128.0/20# Quadranet_9 Hoster_USA   
+23.229.0.0/17# B2_Net_Solutions_6 Hoster_USA   
+23.236.128.0/17# B2_Net_Solutions_9 Hoster_USA   
+23.239.64.0/19# Nodes_Direct_2 Hoster_USA   
+23.246.192.0/18# Softlayer_9 Hoster_USA   
+23.250.0.0/17# B2_Net_Solutions_1 Hoster_USA   
+23.253.0.0/16# Rackspace1 Hoster_USA   
+23.254.0.0/17# B2_Net_Solutions_2 Hoster_USA   
+24.212.0.0/17# CNQ_1 Hoster_Canada   
+27.131.128.0/18# Kirz_1 Hoster_Asia   
+27.254.0.0/16# Loxinfo_1 Hoster_Asia   
+31.3.224.0/19# Redstation_3 Hoster_GB   
+31.6.0.0/18# YHC_Net_1 Hoster_Benelux   
+31.7.56.0/21# Ripe_3 Hoster_CH   
+31.7.144.0/23# RP_Engeneering_1 Hoster_Italia   
+31.13.191.0/24# Globalaxs_14 Hoster_Skandinavien   
+31.169.120.0/22# Surfshark_4 Hoster_Latin   
+31.171.152.0/22# Keminet_1 Hoster_Ostblock   
+31.204.128.0/19# Interactive_3D_1 Hoster_Benelux   
+31.223.185.0/24# Citynet_1 Araber_Perser   
+31.223.186.0/23# CitYnet_2 Araber_Perser   
+31.223.188.0/22# Citynet_3 Araber_Perser   
+34.64.0.0/10# Google_Cloud_7 Hoster_USA   
+35.154.0.0/16# Amazon_23 Hoster_Asia   
+35.184.0.0/13# Google_Cloud_4 Hoster_USA   
+37.8.0.0/17# Palestina_2 Araber_Perser   
+37.35.104.0/21# AlpineDC_1 Hoster_CH   
+37.48.64.0/18# Leaseweb_10 Hoster_Benelux   
+37.49.224.0/23# Estroweb_1 Hoster_Benelux   
+37.49.226.0/24# XEMU_1 Hoster_Benelux   
+37.49.229.0/24# Cloudstar_2 Hoster_Skandinavien   
+37.49.230.0/24# Estroweb_3 Hoster_Benelux   
+37.49.231.0/24# Estroweb_2 Hoster_Benelux   
+37.58.48.0/20# Leaseweb_13 Hoster_DE   
+37.59.0.0/16# OvH_1 Hoster_France   
+37.61.208.0/20# Velianet_5 Araber_Perser   
+37.75.208.0/22# Palestina_9 Araber_Perser   
+37.75.212.0/22# Palestina_1 Araber_Perser   
+37.120.128.0/18# Globalaxs_26 Hoster_GB   
+37.120.192.0/19# Globalaxs_29 Hoster_Benelux   
+37.143.130.0/24# OneProvider_3 Hoster_Spain   
+37.153.104.0/21# Joyent_1 Hoster_CH   
+37.156.216.0/22# Rackray_2 Hoster_Ostblock   
+37.157.248.0/21# MyLoc_10 Hoster_DE   
+37.187.0.0/16# OvH_1 Hoster_France   
+37.220.0.0/19# Redstation_8 Hoster_GB   
+37.235.48.0/23# Edis_9 Hoster_Skandinavien   
+37.235.53.0/24# Edis_8 Hoster_Spain   
+37.235.55.0/24# Edis_4 Hoster_GB   
+38.0.0.0/8# Cogent_1 Hoster_USA   
+40.64.0.0/13# Microsoft_7 Hoster_USA   
+40.74.0.0/15# Microsoft_17 Hoster_USA   
+40.76.0.0/14# Microsoft_12 Hoster_USA   
+41.68.0.0/15# Vodafone Egypt_1 Araber_Perser  
+40.112.0.0/13# Microsoft_14 Hoster_USA   
+41.232.0.0/16# TE-Data_1 Araber_Perser   
+43.245.160.0/22# Intergrid_3 Hoster_Australia   
+43.245.165.0/24# Virtual_Datacentre_2 Hoster_Australia   
+43.251.164.0/22# Zero2Infinity_2 Hoster_Australia   
+45.9.248.0/23# Globalaxs_15 Hoster_GB   
+45.12.220.0/22# Globalaxs_35 Hoster_Skandinavien   
+45.32.0.0/16# Choopa_4 Hoster_USA   
+45.55.0.0/16# Digitalocean_14 Hoster_USA   
+45.56.137.0/24# Strong_1 Hoster_Italia   
+45.56.200.0/24# Miami_Net_1 Hoster_USA   
+45.62.192.0/18# KW_Datacenter_2 Hoster_Canada   
+45.64.104.0/22# Leapswitch_1 Hoster_Asia   
+45.76.0.0/15# Choopa_3 Hoster_USA   
+45.83.90.0/23# Globalaxs_43 Hoster_France   
+45.87.184.0/22# Anytime_1 Hoster_GB   
+45.89.174.0/23# Globalaxs_16 Hoster_France   
+45.114.118.0/24# CLDR_2 Hoster_USA   
+45.121.208.0/22# Streamline_2 Hoster_Australia   
+45.123.116.0/22# Serverfield_1 Hoster_Asia   
+45.126.208.0/22# Reliablesite_3 Hoster_USA   
+45.129.32.0/24# Surfshark_2 Hoster_Latin   
+45.133.192.0/22# Estnoc_3 Hoster_Ostblock   
+45.134.224.0/24# Surfshark_1 Hoster_Asia   
+45.141.156.0/24# Yurteh_1 Hoster_Ostblock   
+45.143.220.0/24# Zumy_1 Hoster_Benelux   
+45.143.221.0/24# XEMU_2 Hoster_DE   
+45.148.11.0/24# Virtono_2 Hoster_Ostblock   
+45.148.121.0/24# SKB_2 Hoster_Benelux   
+45.254.252.0/22# Golden_Frog_1 Hoster_Asia   
+46.16.32.0/21# AnchorFree_1 Hoster_GB   
+46.16.185.0/24# Softlayer_2 Hoster_USA   
+46.19.176.0/21# Link_by_Net_1 Hoster_France   
+46.20.46.0/24# MyLoc_12 Hoster_DE   
+46.22.208.0/20# Wavecom_1 Hoster_Ostblock   
+46.29.0.0/22# Pantel_SK_1 Hoster_Ostblock   
+46.36.32.0/19# GTT_Net_1 Hoster_Ostblock   
+46.101.0.0/16# Digitalocean_12 Hoster_USA   
+46.105.0.0/16# OvH_1 Hoster_France   
+46.151.208.0/21# Nashirnet_1 Araber_Perser   
+46.165.192.0/18# Leaseweb_1 Hoster_DE   
+46.166.136.0/21# NForce_1 Hoster_Benelux   
+46.166.144.0/21# NForce_2 Hoster_Benelux   
+46.166.160.0/21# Balticservers_3 Hoster_Ostblock   
+46.166.172.0/22# Balticservers_4 Hoster_Ostblock   
+46.234.96.0/20# SuperNetwork1 Hoster_Ostblock   
+46.246.28.0/24# Edis_6 Hoster_Skandinavia   
+46.246.93.0/24# Edis_2 Hoster_Skandinavien   
+46.249.32.0/19# Serverius_1 Hoster_Benelux   
+50.30.32.0/20# Server4You_1 Hoster_USA   
+50.57.64.0/18# Racks-8_1 Hoster_USA   
+50.73.64.0/19# Comcast_3 Hoster_USA   
+51.15.0.0/16# Online_SAS_7 Hoster_France   
+51.75.0.0/16# OvH_40 Hoster_France   
+51.77.0.0/16# OvH_39 Hoster_DE   
+51.83.0.0/16# OvH_36 Hoster_France   
+51.89.0.0/16# OvH_38 Hoster_GB   
+51.116.0.0/16# Microsoft_13 Hoster_GB   
+51.158.0.0/15# Online_SAS_9 Hoster_France   
+51.254.0.0/15# OvH_18 Hoster_France   
+52.0.0.0/11# Amazon_5 Hoster_USA   
+52.32.0.0/11# Amazon_6 Hoster_USA   
+52.64.0.0/12# Amazon_12 Hoster_USA   
+52.84.0.0/14# Amazon_13 Hoster_USA   
+52.88.0.0/13# Amazon_14 Hoster_USA   
+52.145.0.0/16# Microsoft_8 Hoster_USA   
+52.146.0.0/15# Microsoft_9 Hoster_USA   
+52.148.0.0/14# Micorosft_10 Hoster_USA   
+52.152.0.0/13# Microsoft_11 Hoster_USA^   
+52.160.0.0/11# Microsoft_6 Hoster_USA   
+52.192.0.0/11# Amazon_4 Hoster_USA   
+54.36.0.0/16# OvH_29 Hoster_France   
+54.37.0.0/16# OvH_30 Hoster_DE   
+54.38.0.0/16# OvH_33 Hoster_DE   
+54.72.0.0/13# Amazon_10 Hoster_USA   
+54.80.0.0/12# Amazon_11 Hoster_USA   
+54.144.0.0/12# Amazon_8 Hoster_USA   
+54.174.0.0/15# Amazon_19 Hoster_USA   
+54.193.0.0/16# Amazon_16 Hoster_USA   
+54.208.0.0/15# Amazon_1 Hoster_USA   
+54.212.0.0/15# Amazon_7 Hoster_USA   
+54.216.0.0/15# Amazon_18 Hoster_USA   
+54.224.0.0/12# Amazon_2 Hoster_USA   
+59.160.0.0/14# Tatacomm_1 Hoster_Asia   
+59.164.0.0/15# Tatacomm_2 Hoster_Asia   
+61.148.0.0/15# Unicom_1 Hoster_Asia   
+62.4.0.0/19# Online_SAS_5 Hoster_France   
+62.73.4.0/23# Axinet_1 Hoster_France   
+62.75.128.0/17# Intergenia_1 Hoster_DE   
+62.128.208.0/20# Iomart_5 Hoster_GB   
+62.138.0.0/19# Host_Europe_1 Hoster_DE   
+62.141.32.0/20# Fibre_ONE_1 Hoster_DE   
+62.171.128.0/18# Contabo_25 Hoster_DE   
+62.210.0.0/16# Online_SAS_1 Hoster_France   
+62.212.64.0/19# Leaseweb_17 Hoster_Benelux   
+63.141.224.0/19# Datashack_5 Hoster_USA   
+63.143.32.0/19# Limestone_2 Hoster_USA   
+63.251.0.0/16# Internap_1 Hoster_USA   
+64.22.64.0/18# Global_Net_1 Hoster_USA   
+64.23.0.0/17# Affinity_1 Hoster_USA   
+64.27.0.0/19# Calpop_1 Hoster_USA   
+64.31.0.0/18# Limestone_6 Hoster_USA   
+64.78.0.0/18# Intermedia_2 Hoster_USA   
+64.120.2.0/16# Leaseweb_6 Hoster_USA   
+64.182.0.0/16# Corespace_1 Hoster_USA   
+64.188.0.0/19# Quadranet_4 Hoster_USA   
+64.206.194.0/24# HB_Communication_1 Hoster_USA   
+64.225.0.0/17# Digitalocean_23 Hoster_USA   
+65.254.32.0/19# Global_Net_2 Hoster_USA   
+66.55.80.0/20# Cloud_1 Hoster_USA   
+66.70.128.0/17# OvH_41 Hoster_Canada   
+66.76.0.0/16# Suddenlink_1 Hoster_USA   
+66.85.72.0/21# Joe_Datacenter_1 Hoster_USA   
+66.115.128.0/18# Total_Server_5 Hoster_USA   
+66.117.0.0/20# Corpcolo_2 Hoster_USA   
+66.135.32.0/19# ServerBeach_1 Hoster_USA   
+66.154.96.0/19# Assertivenet_1 Hoster_Canada   
+66.162.0.0/16# TWTC_1 Hoster_USA   
+66.187.64.0/20# Oplink_1 Hoster_USA   
+66.241.96.0/20# Vitel_1 Hoster_USA   
+67.21.32.0/23# Vivid_Hosting_1 Hoster_USA   
+67.154.188.0/22# Datacenter-BZ_1 Hoster_USA   
+67.207.208.0/20# AIS_1 Hoster_USA   
+67.208.64.0/19# InfoRelay_1 Hoster_USA   
+67.208.224.0/19# Arialink_1 Hoster_USA   
+67.215.224.0/19# SPN_1 Hoster_USA   
+68.64.128.0/18# Packetexchange_1 Hoster_USA   
+68.235.32.0/19# Tzulo_2 Hoster_USA   
+69.12.94.0/23# Quadranet_8 Hoster_USA   
+69.30.192.0/18# WholeSale_1 Hoster_USA   
+69.50.192.0/19# Atjeu_1 Hoster_USA   
+69.60.96.0/19# Infolink_1 Hoster_USA   
+69.64.32.0/19# Hosting_Solutions_1 Hoster_USA   
+69.77.192.0/18# Golden_West_1 Hoster_USA   
+69.94.0.0/20# OLM_1 Hoster_USA   
+69.162.64.0/18# Limestone_1 Hoster_USA   
+69.167.0.0/18# Paradise_1 Hoster_USA   
+69.197.128.0/18# Datashack_7 Hoster_USA   
+70.88.0.0/14# Comcast_2 Hoster_USA   
+71.19.240.0/20# eSecureData_2 Hoster_Canada   
+72.11.128.0/19# Quadranet_7 Hoster_USA   
+72.192.0.0/11# Cox_Comm_1 Hoster_USA   
+74.63.192.0/18# Limestone_3 Hoster_USA   
+74.91.16.0/20# Datashack_8 Hoster_USA   
+74.92.64.0/18# Comcast_1 Hoster_USA   
+74.118.192.0/22# Volumedrive_6 Hoster_USA   
+74.119.144.0/22# Total_Server_4 Hoster_USA   
+74.124.192.0/19# Corpcolo_1 Hoster_USA   
+74.208.0.0/16# ONEandONE_1 Hoster_USA   
+76.72.160.0/20# Database_by_Design_1 Hoster_USA   
+76.164.192.0/20# Versaweb_4 Hoster_USA   
+77.66.0.0/17# NetGroup_1 Hoster_Skandinavien   
+77.81.107.0/24# Virtono_1 Hoster_Ostblock   
+77.81.136.0/24# Globalaxs_36 Hoster_USA   
+77.81.188.0/23# City_Net_2 Hoster_Skandinavien   
+77.111.216.0/21# UK_Node4_1 Hoster_GB   
+77.234.44.0/24# Avastcloud_10 Hoster_Ostblock   
+77.234.46.0/24# Avastcloud_9 Hoster_Ostblock   
+77.243.191.0/24# Globalaxs_8 Hoster_Benelux   
+77.245.64.0/20# Redstation_4 Hoster_GB   
+77.247.108.0/24# Vitox_2 Hoster_DE   
+77.247.109.0/24# Vitox_1 Hoster_Benelux   
+77.247.110.0/24# Vitox_3 Hoster_Skandinavien   
+77.247.176.0/21# NForce_3 Hoster_Benelux   
+78.31.64.0/21# MyLoc_15 Hoster_DE   
+78.108.38.0/24# Synapsecom_1 Hoster_Ostblock   
+78.108.46.0/24# Enahost_1 Hoster_Ostblock   
+78.129.128.0/17# Iomart_3 Hoster_GB   
+78.138.104.0/22# Velianet_8 Hoster_Asia   
+78.153.199.0/24# Avast_1 Hoster_GB   
+79.98.131.0/24# Radore_1 Hoster_Ostblock   
+79.99.0.0/23# GleSys_1 Hoster_Skandinavien   
+79.110.52.0/22# Globalaxs_44 Hoster_Benelux   
+79.142.76.0/23# Altushost_3 Hoster_Skandinavien   
+79.143.80.0/22# Redstation_9 Hoster_GB   
+79.143.180.0/23# Contabo_16 Hoster_DE   
+79.143.182.0/23# Contabo_3 Hoster_DE   
+79.143.190.0/23# Contabo_27 Hoster_DE   
+80.79.112.0/20# Wavecom_2 Hoster_Ostblock   
+80.82.77.0/24# Quasi_Net_3 Hoster_Afrika   
+80.82.208.0/20# MyLoc_6 Hoster_DE   
+80.86.80.0/20# PlusServer_1 Hoster_DE   
+80.94.93.0/24# MyWeb_1 Hoster_Benelux   
+80.211.0.0/17# Aruba_7 Hoster_Italia   
+80.241.208.0/21# Contabo_1 Hoster_DE   
+80.241.216.0/21# Contabo_20 Hoster_DE   
+80.243.176.0/20# Redstation_13 Hoster_GB   
+80.255.0.0/20# Core_Backbone_Net_1 Hoster_DE   
+81.2.192.0/18# Internet_CZ_1 Hoster_Ostblock   
+81.19.208.0/20# Hydra_3 Hoster_GB   
+81.30.144.0/20# MyLoc_2 Hoster_DE   
+81.92.200.0/21# Globalaxs_2 Hoster_GB   
+81.171.0.0/19# Leaseweb_14 Hoster_Benelux   
+82.102.17.0/24# M247_Europe_17 Hoster_Spain   
+82.102.18.0/24# M247_Europe_4 Hoster_France   
+82.102.24.0/21# M247_Europe_3 Hoster_Italia   
+82.165.0.0/16# Schlund_1 Hoster_DE   
+82.205.8.0/21# Palestina_4 Araber_Perser   
+82.205.16.0/20# Palestina_8 Araber_Perser   
+82.205.96.0/19# Palestina_12 Araber_Perser   
+82.220.0.0# Sol_Net_1 Hoster_CH   
+82.221.128.0/19# Advania_1 Hoster_Skandinavien   
+83.48.0.0/16# Rima_1 Hoster_Spain   
+83.136.80.0/21# MyLoc_16 Hoster_DE   
+83.143.245.0/24# M247_Europe_7 Hoster_DE   
+83.244.32.0/19# Palestina_11 Araber_Perser   
+84.17.32.0/19# Datacamp_8 Hoster_GB   
+84.20.128.0/19# Nebula_1 Hoster_Skandinavien   
+84.39.112.0/24# Globalaxs_21 Hoster_CH   
+84.88.0.0/16# Anella_1 Hoster_Spain   
+84.247.51.0/24# Globalaxs_42 Hoster_France   
+85.10.48.0/20# A1_Croatia_1 Hoster_Ostblock   
+85.14.240.0/20# MyLoc_8 Hoster_DE   
+85.17.0.0/16# Leaseweb_2 Hoster_DE   
+85.25.0.0/16# Intergenia_2 Hoster_DE   
+85.31.209.0/24# Jaguar_Network_1 Hoster_France   
+85.89.176.0/20# Toya_Net_1 Hoster_Ostblock   
+85.93.88.0/22# Intergenia_5 Hoster_DE   
+85.93.92.0/22# Intergenia_6 Hoster_DE   
+85.114.96.0/19# Palestina_7 Araber_Perser   
+85.114.128.0/20# Fibre_ONE_2 Hoster_DE   
+85.184.240.0/22# Palestina_13 Araber_Perser   
+85.195.64.0/18# Velianet_1 Hoster_DE   
+85.206.160.0/22# Bacloud_1 Hoster_Canada   
+85.214.192.0/18# Strato_1 Hoster_DE   
+85.254.72.0/24# Latnet_1 Hoster_Ostblock   
+86.106.87.0/24# Globalaxs_48 Hoster_USA   
+86.106.137.0/24# M247_Europe_2 Hoster_Ostblock   
+86.107.49.0/24# City_Cloud_1 Hoster_Skandinavien   
+86.107.242.0/23# City_Cloud_2 Hoster_Skandinavien   
+86.108.0.0/17# Jordan_1 Araber_Perser   
+87.101.94.0/24# Globalaxs_11 Hoster_Italia   
+87.117.192.0/18# Iosmart_1 Hoster_GB   
+87.239.255.0/24# Partnercom_1 Hoster_Asia   
+88.80.148.0/24# BelCloud_2 Hoster_Ostblock   
+88.150.128.0/17# Redstation_2 Hoster_GB   
+88.202.176.0/23# UK2_Net_1 Hoster_GB   
+88.208.192.0/18# Fast Hosts_1 Hoster_GB  
+89.33.246.0/24# M247_Europe_1 Hoster_Ostblock   
+89.36.224.0/24# Globalaxs_34 Hoster_Ostblock   
+89.38.96.0/22# Worldstream_4 Hoster_Benelux   
+89.40.182.0/24# Globalaxs_9 Hoster_Ostblock   
+89.40.216.0/23# City_Net_1 Hoster_Skandinavien   
+89.44.137.0/24# Aim4Solutions_1 Hoster_Ostblock   
+89.44.201.0/24# Globalaxs_32 Hoster_Ostblock   
+89.46.72.0/21# Aruba_3 Hoster_Italia   
+89.46.100.0/22# M247_Europe_10 Hoster_Ostblock   
+89.46.222.0/23# Hydra_2 Hoster_GB   
+89.47.62.0/24# Globalaxs_37 Hoster_GB   
+89.111.32.0/19# DEAC_1 Hoster_Ostblock   
+89.163.128.0/19# MyLoc_4 Hoster_DE   
+89.163.204.0/22# MyLoc_14 Hoster_DE   
+89.163.208.0/20# MyLoc_11 Hoster_DE   
+89.163.224.0/19# MyLoc_1 Hoster_DE   
+89.187.160.0/19# Datacamp_2 Hoster_GB   
+89.207.128.0/21# Snel_Hosting_2 Hoster_Benelux   
+89.238.132.0/22# Globalaxs_38 Hoster_GB   
+89.238.150.0/24# Globalaxs_30 Hoster_GB   
+89.238.178.0/24# Globalaxs_13 Hoster_Spain   
+89.248.172.0/23# Quasi_Net_2 Hoster_Afrika   
+90.176.0.0/13# CZ_Net_1 Hoster_Ostblock   
+91.90.120.0/22# Globalaxs_39 Hoster_Benelux   
+95.111.252.0/22# Contabo_28 Hoster_DE   
+91.121.0.0/16# OvH_4 Hoster_France   
+91.132.139.0/24# M247_Europe_19 Hoster_Austria   
+91.186.0.0/19# Simply_Transit_1 Hoster_GB   
+91.194.90.0/23# Contabo_24 Hoster_DE   
+91.207.102.0/23# M247_Europe_24 Hoster_Ostblock   
+91.212.124.0/24# AN_Net_1 Hoster_Ostblock   
+91.214.44.0/22# Altushost_1 Hoster_Benelux   
+91.218.244.0/22# MTLM_1 Hoster_Ostblock   
+91.219.212.0/22# Globalaxs_49 Hoster_USA   
+91.219.236.0/22# ServerAstra_1 Hoster_Ostblock   
+91.221.66.0/23# Creanova_3 Hoster_Skandinavien   
+91.223.208.0/24# Thundernet_1 Hoster_Ostblock   
+91.233.116.0/23# Creanova_1 Hoster_Skandinavien   
+91.236.74.0/23# Erank Hoster_Ostblock   
+91.239.156.0/24# You_Dot_Net_1 Hoster_GB   
+92.38.180.0/23# GCL_1 Hoster_Ostblock   
+92.42.104.0/21# Palestina_14 Araber_Perser   
+92.114.32.0/24# Dreamserver_2 Hoster_Ostblock   
+92.114.94.0/23# MXHOST_1 Hoster_Ostblock   
+92.222.0.0/16# OvH_16 Hoster_France   
+92.223.85.0/24# G_Core_1 Hoster_Benelux   
+93.104.208.0/21# Contabo_9 Hoster_DE   
+93.115.24.0/21# Balticservers_1 Hoster_Ostblock   
+93.115.92.0/22# Voxility_1 Hoster_Ostblock   
+93.160.0.0/13# TDC_1 Hoster_Skandinavien   
+93.186.192.0/20# MyLoc_18 Hoster_DE   
+94.23.0.0/16# OvH_5 Hoster_France   
+94.46.12.0/22# Almouroltec_1 Hoster_Spain   
+94.75.192.0/18# Leaseweb_3 Hoster_DE   
+94.76.192.0/18# Simply_Transit_3 Hoster_GB   
+94.102.48.0/20# Quasi_Net_1 Hoster_Afrika   
+94.177.160.0/19# Aruba_8 Hoster_Italia   
+94.180.112.0/21# ER-Telecom_2 Hoster_Ostblock   
+94.242.192.0/18# Root_1 Hoster_Benelux   
+94.246.64.0/18# IP-Only_1 Hoster_Skandinavien   
+95.110.160.0/19# Aruba_1 Hoster_Italia   
+95.141.32.0/20# SeFlow_1 Hoster_Italia   
+95.142.127.0/24# PRCDN_1 Hoster_USA   
+95.154.192.0/18# Iomart_4 Hoster_GB   
+95.168.160.0/20# Leaseweb_22 Hoster_Benelux   
+95.168.176.0/20# Leaseweb_21 Hoster_GB   
+95.173.160.0/19# Netinternet_1 Hoster_Ostblock   
+95.174.0.0/19# Seeweb_2 Hoster_Italia   
+95.174.65.0/24# M247_Europe_13 Hoster_Skandinavien   
+95.211.0.0/16# Leaseweb_4 Hoster_DE   
+98.100.0.0/14# Time_Warner_1 Hoster_USA   
+98.108.0.0/14# MCI_1 Hoster_USA   
+101.0.64.0/18# Digital_Pacific_1 Hoster_Australia   
+101.224.0.0/13# ChinaNet_1 Hoster_Asia   
+102.165.32.0/21# Aquanet_1 Hoster_Afrika   
+102.165.48.0/21# Volumedrive_12 Hoster_Afrika   
+103.4.16.0/24# Virtual_Datacentre_1 Hoster_Australia   
+103.9.76.0/22# Vinahost_1 Hoster_Asia   
+103.10.197.0/24# Pacswitch_1 Hoster_Asia   
+103.27.220.0/22# Moomu_1 Hoster_Australia   
+103.27.224.0/22# Zero2Infinity_1 Hoster_Australia   
+103.62.48.0/23# Streamline_1 Hoster_Australia   
+103.75.118.0/24# OneProvider_2 Hoster_Asia   
+103.75.119.0/24# OneProvider_1 Hoster_Asia   
+103.77.233.0/24# Intergrid_6 Hoster_Australia   
+103.77.234.0/24# Intergrid_7 Hoster_Australia   
+103.103.0.0/24# Webcom_1 Hoster_Asia   
+103.108.92.0/23# Intergrid_8 Hoster_Australia   
+103.108.94.0/24# Intergrid_5 Hoster_Australia   
+103.145.12.0/24# Vitox_4 Hoster_Benelux   
+103.145.13.0/24# Cinty_1 Hoster_Benelux   
+103.200.208.0/22# WPPL_1 Hoster_Asia   
+103.205.140.0/22# Infusion_1 Hoster_Asia   
+103.212.68.0/22# YTE_1 Hoster_Asia   
+103.231.90.0/23# Intergrid_1 Hoster_Australia   
+103.238.212.0/22# Bizmac_1 Hoster_Asia   
+103.251.64.0/22# Xponent_1 Hoster_USA   
+104.40.0.0/13# Microsoft_4 Hoster_USA   
+104.129.0.0/18# Quadranet_6 Hoster_USA   
+104.130.0.0/16# Rackspace_3 Hoster_USA   
+104.131.0.0/16# Digitalocean_4 Hoster_USA   
+104.151.0.0/16# Enzu_3 Hoster_USA   
+104.152.216.0/21# CDC_Net_1 Hoster_USA   
+104.154.0.0/15# Google_Cloud_3 Hoster_USA   
+104.156.206.0/24# Virtuzo_1 Hoster_USA   
+104.168.0.0/17# Colocrossing_10 Hoster_USA   
+104.193.8.0/22# Volumedrive_9 Hoster_USA   
+104.194.24.0/22# Versaweb_1 Hoster_USA   
+104.196.0.0/14# Google_Cloud_1 Hoster_USA   
+104.200.128.0/19# Total_Server_8 Hoster_USA   
+104.202.0.0/15# Enzu_1 Hoster_USA   
+104.208.0.0/13# Microsoft_5 Hoster_USA   
+104.216.0.0/15# Psychz_Net_1 Hoster_USA   
+104.218.16.0/21# Joe_Datacenter_2 Hoster_USA   
+104.218.56.0/21# Unmetered_1 Hoster_Canada   
+104.223.0.0/17# Quadranet_3 Hoster_USA   
+104.227.0.0/16# B2_Net_Solutions_10 Hoster_Canada   
+104.236.0.0/16# Digitalocean_3 Hoster_USA   
+104.238.198.0/23# Versaweb_2 Hoster_USA   
+104.238.200.0/22# Versaweb_3 Hoster_USA   
+104.239.128.0/17# Rackspace_5 Hoster_USA   
+104.243.32.0/20# Reliablesite_1 Hoster_Latin   
+104.244.208.0/22# INCX_1 Hoster_USA   
+104.245.96.0/21# Volumedrive_7 Hoster_USA   
+104.245.144.0/22# Amanah_4 Hoster_Canada   
+104.248.0.0/16# Digitalocean_21 Hoster_USA   
+104.247.208.0/24# Quick_Packet_1 Hoster_USA   
+104.250.108.0/24# CLDR_1 Hoster_USA   
+104.254.88.0/21# Amanah_5 Hoster_Canada   
+104.255.64.0/21# Volumedrive_8 Hoster_USA   
+107.6.128.0/18# Singlehop_1 Hoster_USA   
+107.20.0.0/14# Amazon_15 Hoster_USA   
+107.150.0.0/19# Quadranet_5 Hoster_USA   
+107.150.32.0/19# Datashack_1 Hoster_USA   
+107.150.95.0/24# Cached_1 Hoster_Ostblock   
+107.152.128.0/17# B2_Net_Solutions_3 Hoster_USA   
+107.161.176.0/20# Dimenoc_1 Hoster_USA   
+107.167.224.0/20# Hugeserver_2 Hoster_USA   
+107.167.240.0/21# Hugeserver_3 Hoster_USA   
+107.170.0.0/16# Digitalocean_6 Hoster_USA   
+107.172.0.0/14# Colocrossing_8 Hoster_USA   
+107.181.160.0/19# Total_Server_7 Hoster_USA   
+107.182.16.0/20# Volumedrive_1 Hoster_USA   
+108.59.0.0/20# Leaseweb_5 Hoster_DE   
+108.61.0.0/16# Choopa_2 Hoster_USA   
+108.62.16.0/21# Nobis_7 Hoster_USA   
+108.62.48.0/21# Ubiquiti_3 Hoster_USA   
+108.163.128.0/18# Server4Sale_1 Hoster_USA   
+108.170.0.0/18# Secured_Servers_1 Hoster_USA   
+109.72.0.0/20# Internet_PB_1 Hoster_Ostblock   
+109.73.64.0/20# Redstation_15 Hoster_GB   
+109.90.0.0/16# Unity_Media_1 Hoster_DE   
+109.168.0.0/17# KPNQuest_Italia_1 Hoster_Italia   
+109.169.0.0/18# Iomart_1 Hoster_GB   
+109.169.64.0/19# Iomart_2 Hoster_GB   
+109.201.128.0/19# NForce_6 Hoster_Benelux   
+109.230.208.0/20# Webtraffic_1 Hoster_DE   
+109.236.80.0/20# Worldstream_1 Hoster_Benelux   
+110.8.0.0/13# Hanaro_1 Hoster_Asia   
+111.68.96.0/20# PERN_1 Araber_Perser   
+113.21.224.0/22# HD_Net_1 Hoster_Australia   
+113.52.144.0/24# Fluccs_1 Hoster_Australia   
+113.136.0.0/13# ChinaNet_3 Hoster_Asia   
+113.192.0.0/18# Ultraserve_1 Hoster_Australia   
+115.112.0.0/13# Tatacomm_3 Hoster_Asia   
+115.160.224.0/21# TCISL_1 Hoster_Asia   
+115.239.230.0/24# Lanzhong_1 Hoster_Asia   
+116.90.72.0/24# GSL_Net_1 Hoster_Australia   
+116.206.228.0/24# Intergrid_4 Hoster_Australia   
+116.206.229.0/24# Intergrid_2 Hoster_Australia   
+117.32.0.0/13# ChinaNet_2 Hoster_Asia   
+118.69.192.0/20# FPT_2 Hoster_Latin   
+119.9.88.0/21# Rackspace_4 Hoster_Asia   
+119.81.0.0/16# Softlayer_6 Hoster_USA   
+120.92.0.0/17# Kingsoft_1 Hoster_Asia   
+123.30.0.0/15# VDC_Net Hoster_Asia   
+124.150.139.0/24# Express_Web_1 Hoster_Australia   
+128.46.0.0/16# Perdue_Uni_1 Hoster_USA   
+128.90.0.0/16# Scribe_1 Hoster_USA   
+128.127.104.0/23# Altushost_2 Hoster_Benelux   
+128.199.0.0/16# Digitalocean_1 Hoster_Asia   
+128.204.192.0/20# Snel_Hosting_1 Hoster_Benelux   
+129.232.128.0/17# Hetzner_4 Hoster_Afrika   
+130.160.0.0/16# UANET_1 Hoster_USA   
+130.211.0.0/16# Google_Cloud_5 Hoster_USA   
+131.100.2.0/24# Anexia_1 Hoster_Austria   
+131.153.0.0/16# Secured_Servers_2 Hoster_USA   
+134.90.149.0/24# Blix_Solutions_1 Hoster_Skandinavien   
+134.119.176.0/20# Velianet_7 Hoster_Asia   
+134.119.208.0/20# Velianet_3 Hoster_France   
+134.209.0.0/16# Digitalocean_15 Hoster_USA   
+134.213.132.0/22# Cloud_Servers_1 Hoster_GB   
+135.181.0.0/16# Hetzner_6 Hoster_DE   
+136.243.0.0/16# Hetzner_2 Hoster_DE   
+137.74.0.0/17# OvH_22 Hoster_France   
+137.117.0.0/16# Microsoft_16 Hoster_USA   
+138.68.0.0/16# Digitalocean_9 Hoster_USA   
+138.128.0.0/17# B2_Net_Solutions_8 Hoster_USA   
+138.199.0.0/18# Datacamp_25 Hoster_GB   
+138.201.0.0/16# Hetzner_5 Hoster_DE   
+139.0.0.0/16# BM-ID_11 Hoster_Asia   
+139.59.0.0/16# Digitalocean_13 Hoster_USA   
+139.99.0.0/17# OvH_34 Hoster_Asia   
+139.99.192.0/22# OvH_32 Hoster_Australia   
+141.98.8.0/22# Hostbaltic_1 Hoster_Ostblock   
+141.98.103.0/24# M247_Europe_21 Hoster_Ostblock   
+141.98.215.0/24# Estnoc_2 Hoster_Asia   
+141.105.64.0/24# NConnect_2 Hoster_Ostblock   
+141.105.70.0/24# NConnect_1 Hoster_Ostblock   
+142.0.32.0/20# Volumedrive_5 Hoster_USA   
+142.4.192.0/19# OvH_6 Hoster_France   
+142.44.128.0/17# OvH_28 Hoster_Canada   
+142.54.160.0/19# Datashack_2 Hoster_USA   
+142.93.0.0/16# Digitalocean_22 Hoster_USA   
+142.234.0.0/19# Nobis_8 Hoster_USA   
+143.244.56.0/23# Datacamp_24 Hoster_France   
+143.244.40.0/22# Datacamp_22 Hoster_GB   
+143.255.56.0/22# Hostdime_2 Hoster_Latin   
+144.91.96.0/19# Contabo_29 Hoster_DE   
+144.48.39.0/24# Host_Royale_5 Hoster_Australia   
+144.76.0.0/16# Hetzner_1 Hoster_DE   
+144.168.160.0/21# Server_Mania_1 Hoster_Canada   
+144.217.0.0/16# OvH_25 Hoster_Canada   
+145.239.0.0/16# OvH_37 Hoster_DE   
+146.0.32.0/20# MyLoc_3 Hoster_DE   
+146.0.72.0/21# Hostkey_1 Hoster_Benelux   
+146.0.224.0/19# Velianet_6 Hoster_Afrika   
+146.0.240.0/20# Velianet_4 Hoster_DE   
+146.70.0.0/16# Globalaxs_17 Hoster_Ostblock   
+146.148.0.0/17# Google_Cloud_6 Hoster_USA   
+146.185.0.0/16# Ripe_2 Hoster_DE   
+146.192.128.0/17# Every_Regions_1 Hoster_Skandinavien   
+146.247.24.0/24# iServer_1 Hoster_Ostblock   
+147.135.0.0/16# OvH_27 Hoster_USA   
+149.3.128.0/21# Redstation_7 Hoster_GB   
+149.56.0.0/16# OvH_19 Hoster_Canada   
+149.200.128.0/17# Orange_Jordan_1 Araber_Perser   
+149.202.0.0/16# OvH_23 Hoster_France   
+151.80.0.0/16# OvH_17_3CX Hoster_Italia   
+151.236.23.0/24# Edis_5 Hoster_Spain   
+151.236.32.0/19# Simply_Transit_2 Hoster_GB   
+152.89.160.0/22# Globalaxs_46 Hoster_Ostblock   
+155.94.64.0/18# Nodes_Direct_3 Hoster_USA   
+155.138.128.0/17# Vultr_Holding_1 Hoster_Canada   
+156.96.0.0/16# New_Trend_1 Hoster_USA   
+156.146.60.0/22# Datacamp_27 Hoster_GB   
+157.97.132.0/24# Net_Shop_1 Hoster_Ostblock   
+158.58.168.0/21# SeFlow_2 Hoster_Italia   
+158.69.0.0/16# OvH_24 Hoster_Canada   
+158.140.64.0/19# Palestina_15 Araber_Perser   
+159.7.0.0/16# Softlayer_5 Hoster_USA   
+159.8.0.0/16# Softlayer_3 Hoster_USA   
+159.89.0.0/16# Digitalocean_8 Hoster_USA   
+159.100.0.0/19# Firstcolo_1 Hoster_DE   
+159.122.0.0/16# Ripe_1 Hoster_Benelux   
+159.203.0.0/16# Digitalocean_10 Hoster_USA   
+160.116.0.0/16# ACS2_1 Hoster_Afrika   
+161.97.144.0/22# Contabo_26 Hoster_DE   
+161.129.64.0/21# Quadranet_2 Hoster_USA   
+161.202.97.0/24# Softlayer_10 Hoster_USA   
+162.210.92.0/22# Eboundhost_1 Hoster_USA   
+162.210.192.0/21# Leaseweb 6 Hoster_DE  
+162.213.24.0/21# Volumedrive_4 Hoster_USA   
+162.218.120.0/22# Quadranet_15 Hoster_USA   
+162.218.181.0/24# Ednet_1 Hoster_USA   
+162.219.0.0/21# RAD-2013_1 Hoster_Canada   
+162.219.24.0/21# Microglobe_1 Hoster_USA   
+162.221.200.0/21# eSecureData_1 Hoster_Canada   
+162.222.104.0/22# Zerigo_Net_1 Hoster_USA   
+162.222.192.0/21# Quadranet_10 Hoster_USA   
+162.223.8.0/21# Tranquil_1 Hoster_USA   
+162.242.224.0/19# Rackspace_2 Hoster_USA   
+162.243.0.0/16# Digitalocean_5 Hoster_USA   
+162.248.52.0/22# Gigasnet_1 Hoster_USA   
+162.248.72.0/21# Volumedrive_2 Hoster_USA   
+162.252.160.0/22# StratITSphere_1 Hoster_USA   
+162.253.68.0/22# Zerolag_1 Hoster_USA   
+162.253.128.0/22# Amanah_1 Hoster_Canada   
+162.253.132.0/22# CyberLynk_2 Hoster_USA   
+162.253.152.0/22# Reprise_1 Hoster_USA   
+162.254.200.0/21# Velianet_2 Hoster_USA   
+163.172.0.0/16# Online_SAS_6 Hoster_France   
+163.182.0.0/16# Turnkey_2 Hoster_USA   
+164.40.128.0/19# GoGrid_1 Hoster_Benelux   
+164.132.0.0/16# OvH_20 Hoster_France   
+165.22.0.0/16# Digitalocean_17 Hoster_USA   
+165.98.0.0/16# Lacnic_1 Hoster_Latin   
+165.138.0.0/16# IDOE_1 Hoster_USA   
+165.225.128.0/18# Joyent_2 Hoster_USA   
+165.227.0.0/16# Digitalocean_18 Hoster_USA   
+165.231.0.0/16# Fibergrid_2 Hoster_Asia   
+166.78.0.0/16# Rackspace_6 Hoster_USA   
+167.86.68.0/23# Contabo_23 Hoster_DE   
+167.88.0.0/16# Nexeon_1 Hoster_USA   
+167.99.0.0/16# Digitalocean_20 Hoster_USA   
+167.114.0.0/16# OvH_15 Hoster_Canada   
+167.160.160.0/19# Quadranet_13 Hoster_USA   
+167.172.0.0/16# Digitalocean_24 Hoster_USA   
+168.61.0.0/16# Microsoft_2 Hoster_Benelux   
+168.62.0.0/15# Microsoft_3 Hoster_Benelux   
+168.126.0.0/16# Kornet_2 Hoster_Asia   
+168.235.144.0/20# KW_Datacenter_1 Hoster_Canada   
+169.229.0.0/16# University_California Hoster_USA   
+171.22.76.0/24# Hugeserver_4 Hoster_USA   
+171.25.208.0/23# Boost-FR_1 Hoster_France   
+172.86.176.0/21# Joe_Datacenter_3 Hoster_USA   
+172.241.0.0/16# Leaseweb_16 Hoster_USA   
+172.245.0.0/16# Colocrossing_6 Hoster_USA   
+172.255.124.0/22# Leaseweb_25 Hoster_USA   
+173.44.32.0/19# Quadranet_12 Hoster_USA   
+173.192.0.0/15# Softlayer_4 Hoster_USA   
+173.198.192.0/18# Turnkey_3 Hoster_USA   
+173.205.0.0/17# Packetexchange_2 Hoster_USA   
+173.208.40.0/21# Ubiquiti_4 Hoster_USA   
+173.208.128.0/17# WholeSale_3 Hoster_USA   
+173.212.192.0/18# Contabo_11 Hoster_DE   
+173.224.112.0/20# S4Y_1 Hoster_USA   
+173.231.128.0/17# Voxel_1 Hoster_USA   
+173.233.64.0/19# Turnkey_1 Hoster_USA   
+173.234.156.0/22# Ubiquiti_2 Hoster_USA   
+173.237.207.0/24# Surfshark_5 Hoster_USA   
+173.242.112.0/20# Volumedrive_3 Hoster_USA   
+173.244.64.0/20# Gogrid_2 Hoster_USA   
+173.248.128.0/18# WEHOST_1 Hoster_USA   
+173.249.0.0/23# Contabo_17 Hoster_DE   
+173.249.26.0/23# Contabo_14 Hoster_DE   
+173.249.30.0/23# Contabo_15 Hoster_DE   
+173.249.32.0/19# Contabo_13 Hoster_DE   
+173.254.192.0/18# Quadranet_16 Hoster_USA   
+173.255.128.0/20# HSI_Net_1 Hoster_USA   
+174.34.128.0/18# Nobis_6 Hoster_USA   
+174.36.0.0/15# Softlayer_8 Hoster_USA   
+174.128.224.0/19# Sharktech_2 Hoster_USA   
+174.140.160.0/20# Directspace_1 Hoster_USA   
+176.9.0.0/16# Hetzner_3 Hoster_DE   
+176.10.96.0/19# Datasource_1 Hoster_CH   
+176.31.0.0/16# OvH_7 Hoster_France   
+176.34.240.0/21# Amazon_3 Hoster_Benelux   
+176.58.64.0/20# Netstream_2 Araber_Perser   
+176.58.88.0/24# Goscomb_1 Hoster_GB   
+176.67.80.0/23# Strong_2 Hoster_Benelux   
+176.67.84.0/24# Mudhook_1 Hoster_Benelux   
+176.106.40.0/21# Speedclick_1 Araber_Perser   
+176.126.83.0/24# OneProvider_5 Hoster_Italia   
+176.212.124.0/22# ER-Telecom_1 Hoster_Ostblock   
+176.227.192.0/20# Redstation_11 Hoster_GB   
+176.227.241.0/24# Surfshark_3 Hoster_Latin   
+178.17.160.0/20# Trabia_1 Hoster_Ostblock   
+178.19.104.0/21# Slaskdata_1 Hoster_Ostblock   
+178.32.0.0/15# OvH_8 Hoster_France   
+178.62.0.0/17# Digitalocean_2 Hoster_Benelux   
+178.73.210.0/24# Edis_3 Hoster_Skandinavien   
+178.162.128.0/17# Leaseweb_7 Hoster_DE   
+178.175.128.0/19# Trabia_2 Hoster_Ostblock   
+178.209.32.0/19# Nine_1 Hoster_CH   
+178.238.224.0/21# Contabo_30 Hoster_DE   
+178.238.232.0/23# Contabo_4 Hoster_DE   
+178.238.234.0/23# Contabo_22 Hoster_DE   
+178.238.236.0/23# Contabo_7 Hoster_DE   
+178.239.173.0/24# Hydra_1 Hoster_Benelux   
+178.249.152.0/21# A2B_Internet_1 Hoster_Benelux   
+179.43.128/18# Private_Layer_1 Hoster_Latin   
+179.52.0.0/15# CoDeTel_1 Hoster_Latin   
+179.152.0.0/14# Claro_1 Hoster_Latin   
+180.149.228.0/22# Host_Royale_8 Hoster_Australia   
+181.214.58.0/23# Digital_Energy_1 Hoster_USA   
+181.214.60.0/22# Digital_Energy_4 Hoster_USA   
+181.215.0.0/16# Digital_Energy_2 Hoster_USA   
+182.72.70.0/24# Bharti_1 Hoster_Asia   
+183.192.0.0/11# CMNet_1 Hoster_Asia   
+184.72.0.0/15# Amazon_17 Hoster_USA   
+184.75.208.0/20# Amanah_2 Hoster_Canada   
+184.95.32.0/19# Secured_Servers_3 Hoster_USA   
+184.168.0.0/16# Go_Daddy_1 Hoster_USA   
+184.170.240.0/20# Total_Server_3 Hoster_USA   
+184.172.0.0/15# The_Planet_1 Hoster_USA   
+185.2.100.0/22# Contabo_12 Hoster_DE   
+185.4.135.0/24# Tophost_1 Hoster_Ostblock   
+185.6.16.0/22# Netstream_1 Araber_Perser   
+185.7.212.0/22# QualIT_1 Hoster_France   
+185.8.48.0/22# Aruba_2 Hoster_Italia   
+185.9.16.0/22# M247_Europe_5 Hoster_CH   
+185.12.184.0/22# Citynet_4 Araber_Perser   
+185.15.20.0/22# Almouroltec_2 Hoster_Spain   
+185.15.244.0/22# myLoc_20 Hoster_DE   
+185.16.38.0/24# Dedires_1 Araber_Perser   
+185.19.220.0/23# Palestina_5 Araber_Perser   
+185.20.96.0/22# Redstation_14 Hoster_GB   
+185.24.232.0/22# Servebyte_2 Hoster_GB   
+185.31.159.0/24# WebHS_1 Hoster_Spain   
+185.40.4.0/24# Hostgrad_1 Hoster_Ostblock   
+185.51.228.0/24# Avast_2 Hoster_Ostblock   
+185.53.88.0/24# Cloudstar_1 Hoster_Skandinavien   
+185.53.91.0/24# Estoxy_1 Hoster_Ostblock   
+185.59.220.0/24# Datacamp_17 Hoster_DE   
+185.61.148.0/23# Yourserver_2 Hoster_Ostblock   
+185.62.56.0/22# Snel_Hosting_3 Hoster_Benelux   
+185.65.206.0/24# CityNet_5 Hoster_Ostblock   
+185.70.184.0/22# Hostkey_2 Hoster_Benelux   
+185.76.8.0/22# Datacamp_26 Hoster_Skandinavien   
+185.79.248.0/22# Nashirnet_2 Araber_Perser   
+185.86.148.0/23# Yourserver_1 Hoster_Skandinavien   
+185.86.151.0/24# Yourserver_3 Hoster_Ostblock   
+185.87.108.0/22# Multim_1 Hoster_Skandinavien   
+185.93.180.0/22# Globalaxs_19 Hoster_DE   
+185.93.244.0/22# Bamboozle_1 Araber_Perser   
+185.94.192.0/24# Globalaxs_4 Hoster_Ostblock   
+185.97.132.0/24# Hotnet_1 Araber_Perser   
+185.99.3.0/24# Globalhost_1 Hoster_Ostblock   
+185.102.216.0/22# Datacamp_1 Hoster_DE   
+185.104.184.0/24# M247_Europe_27 Hoster_DE   
+185.104.186.0/23# M247_Europe_2 Hoster_Benelux   
+185.104.216.0/22# Servebyte_1 Hoster_GB   
+185.106.103.0/24# Cloud_Layer8_1 Hoster_Ostblock   
+185.107.80.0/22# NForce_5 Hoster_Benelux   
+185.107.92.0/22# NForce_4 Hoster_Benelux   
+185.108.106.0/23# Host_Royale_4 Hoster_France   
+185.108.128.0/22# Webworld_1 Hoster_GB   
+185.112.82.0/24# Creanova_2 Hoster_Skandinavien   
+185.123.100.0/22# Bilrom_1 Hoster_Ostblock   
+185.130.184.0/24# Globalaxs_6 Hoster_DE   
+185.132.248.0/22# Jetnet_1 Araber_Perser   
+185.144.82.0/23# M247_Europe_9 Hoster_Ostblock   
+185.147.212.0/23# Strong_3 Hoster_Skandinavien   
+185.147.214.0/23# Strong_4 Hoster_DE   
+185.148.145.0/24# BelCloud_1 Hoster_Afrika   
+185.153.151.0/24# Host_Royale_6 Hoster_Benelux   
+185.155.96.0/22# EE_WHS_1 Hoster_Ostblock   
+185.156.172.0/22# Globalaxs_24 Hoster_Ostblock   
+185.158.132.0/22# Digital_Energy_5 Hoster_GB   
+185.159.36.0/24# Phoenix_1 Hoster_Ostblock   
+185.163.44.0/22# MivoCloud_1 Hoster_Ostblock   
+185.165.170.0/24# Floki_Net_1 Hoster_Skandinavia   
+185.166.84.0/24# Host_Royale_3 Hoster_France   
+185.174.156.0/22# Host_Royale_9 Hoster_Asia   
+185.180.12.0/22# Datacamp_28 Hoster_GB   
+185.183.106.0/24# M247_Europe_15 Hoster_Spain   
+185.183.107.0/24# Globalaxs_10 Hoster_Austria   
+185.186.79.0/24# OneProvider_6 Hoster_Skandinavien   
+185.188.61.0/24# Host_Royale_7 Hoster_Spain   
+185.189.112.0/23# Globalaxs_33 Hoster_DE   
+185.189.114.0/23# Globalaxs_28 Hoster_Ostblock   
+185.189.160.0/22# IANA_1 Hoster_Asia   
+185.191.205.0/24# HQserv_1 Araber_Perser   
+185.201.188.0/24# Host_Royale_1 Hoster_Asia   
+185.206.224.0/23# Globalaxs_5 Hoster_Skandinavia   
+185.212.168.0/22# Globalaxs_12 Hoster_Benelux   
+185.213.20.0/24# OneProvider_4 Hoster_Italia   
+185.216.34.0/24# M247_Europe_6 Hoster_GB   
+185.225.28.0/24# Teleks_1 Hoster_Ostblock   
+185.226.64.0/24# Aweb_1 Hoster_Ostblock   
+185.229.190.0/23# Datacamp_5 Hoster_GB   
+185.229.226.0/24# Cloud_Web_Manage_1 Hoster_USA   
+185.232.20.0/22# Globalaxs_3 Hoster_Benelux   
+185.242.6.0/24# Globalaxs_20 Hoster_Ostblock   
+185.244.214.0/24# Globalaxs_18 Hoster_Ostblock   
+185.245.85.0/24# Globalaxs_7 Hoster_Ostblock   
+185.246.210.0/24# Datacamp_19 Hoster_Ostblock   
+185.253.97.0/24# Globalaxs_25 Hoster_Skandinavien   
+185.253.99.0/24# M247_Europe_14 Hoster_Spain   
+187.32.0.0/16# Algar_1 Hoster_Latin   
+188.42.192.0/21# Servers_Com_1 Hoster_Benelux   
+108.62.16.0/21# Ubiquiti_1 Hoster_USA   
+188.65.144.0/21# Smartweb_1 Hoster_DE   
+188.68.240.0/20# Sprint_1 Hoster_Ostblock   
+188.92.72.0/21# Nano_1 Hoster_Ostblock   
+188.123.126.0/24# Lertas_1 Hoster_Ostblock   
+188.124.40.0/22# Selectel_1 Hoster_Ostblock   
+188.138.0.0/17# Intergenia_3 Hoster_DE   
+188.161.0.0/16# Palestina_6 Araber_Perser   
+188.161.200.0/22# Palestina_10 Araber_Perser   
+188.165.0.0/16# OVH_9 Hoster_France   
+188.166.0.0/16# Digitalocean_19 Hoster_Benelux   
+188.213.216.0/24# Dreamserver_1 Hoster_Ostblock   
+188.214.128.0/21# Balticservers_2 Hoster_Ostblock   
+188.225.72.0/21# TimeWeb_1 Hoster_Ostblock   
+188.226.128.0/18# Digitalocean_7 Hoster_USA   
+188.227.160.0/20# Redstation_5 Hoster_GB   
+188.227.176.0/21# Redstation_6 Hoster_GB   
+188.227.186.0/24# Redstation_10 Hoster_GB   
+189.192.0.0/13# MegaCable_1 Hoster_Latin   
+190.0.0.0/19# EPM_NET_1 Hoster_Latin   
+190.95.224.0/19# Teleconet_1 Hoster_Latin   
+190.144.0.0/14# Telmex_1 Hoster_Latin   
+190.151.0.0/17# Entel_1 Hoster_Latin   
+191.101.0.0/16# Digital_Energy_3 Hoster_Latin   
+191.232.0.0/14# Microsoft_1 Hoster_Benelux   
+192.3.0.0/16# Colocrossing_11 Hoster_USA   
+192.64.4.0/22# GFI_1 Hoster_Canada   
+192.69.88.0/21# Volumedrive_11 Hoster_USA   
+192.71.26.0/24# Edis_11 Hoster_Italia   
+192.71.213.0/24# Edis_7 Hoster_Spain   
+192.71.244.0/24# Edis_10 Hoster_Ostblock   
+192.81.208.0/20# Digitalocean_11 Hoster_USA   
+192.99.0.0/16# OvH_10 Hoster_France   
+192.111.144.0/20# Dacen_3 Hoster_USA   
+192.129.128.0/17# Hostwinds_1 Hoster_USA   
+192.151.144.0/20# Datashack_3 Hoster_USA   
+192.159.64.0/22# CyberLynk_1 Hoster_USA   
+192.184.0.0/22# InstaVPS_1 Hoster_USA   
+192.187.96.0/19# Datashack_4 Hoster_USA   
+192.198.80.0/20# Dacen_2 Hoster_USA   
+192.198.96.0/19# B2_Net_Solutions_5 Hoster_USA   
+192.211.48.0/20# Incero_1 Hoster_USA   
+192.227.128.0/17# Colocrossing_4 Hoster_USA   
+192.254.64.0/20# Dacentec_1 Hoster_USA   
+193.9.113.0/24# Globalaxs_23 Hoster_GB   
+193.29.14.0/23# Bunea_1 Hoster_Ostblock   
+193.29.106.0/23# Globalaxs_45 Hoster_DE   
+193.32.8.0/24# Yehuda_1 Hoster_Ostblock   
+193.36.118.0/24# Estnoc_1 Hoster_Ostblock   
+193.37.152.0/24# Contabo_10 Hoster_DE   
+193.37.252.0/22# Globalaxs_47 Hoster_USA   
+193.46.255.0/24# Pennq_1 Hoster_Benelux   
+193.70.0.0/17# OvH_26 Hoster_France   
+193.107.216.0/23# Dedires_2 Hoster_GB   
+193.111.136.0/21# MyLoc_9 Hoster_DE   
+193.140.24.0/22# Ulaknet_1 Hoster_Ostblock   
+193.148.16.0/22# M247_Europe_16 Hoster_Spain   
+193.160.0.0/13# TDC_1 Hoster_Skandinavien   
+193.182.144.0/24# Edis_1 Hoster_Ostblock   
+193.203.14.0/23# Dedipath_1 Hoster_USA   
+194.5.212.0/22# Globalaxs_31 Hoster_DE   
+194.28.112.0/22# Specialist_ISP_1 Hoster_Benelux   
+194.33.40.0/22# Inovare_1 Hoster_Ostblock   
+194.34.132.0/22# Creanova_4 Hoster_Skandinavien   
+194.35.114.0/23# Leaseweb_19 Hoster_Benelux   
+194.39.124.0/22# WebHS_2 Hoster_Spain   
+194.63.140.0/24# SuperServers_2 Hoster_Ostblock   
+194.63.143.0/24# SuperServers_1 Hoster_Ostblock   
+194.71.126.0/24# Edis_12 Hoster_Austria   
+194.88.104.0/22# Worldstream_2 Hoster_Benelux   
+194.99.105.0/24# Globalaxs_27 Hoster_Ostblock   
+194.110.115.0/24# Globalaxs_40 Hoster_Benelux   
+194.135.80.0/20# Rackray_1 Hoster_Ostblock   
+194.150.167.0/24# Host_Royale_12 Hoster_Asia   
+194.187.251.0/24# M247_Europe_11 Hoster_Benelux   
+195.47.194.0/24# Host_Royale_10 Hoster_Asia   
+195.88.72.0/23# Nau_Net_1 Hoster_Ostblock   
+195.123.208.0/21# Layer6_Net_1 Hoster_Ostblock   
+195.142.3.0/24# Saglayici_Net_1 Hoster_Ostblock   
+195.154.0.0/16# Online_SAS_2 Hoster_France   
+195.158.248.0/23# Host_Royale_11 Hoster_Asia   
+195.181.160.0/20# Datacamp_4 Hoster_GB   
+195.191.24.0/23# Hostpro_1 Hoster_Ostblock   
+195.206.107.0/24# Globalaxs_22 Hoster_Spain--   
+196.196.0.0/16# Afrinic_1 Hoster_Afrika   
+196.244.0.0/16# Fibergrid_1 Hoster_Afrika   
+196.251.250.0/24# Host1_Plus Hoster_Afrika   
+197.5.128.0/18# Tunisie_1 Hoster_Afrika   
+197.231.244.0/22# Roke_Zambia Hoster_Afrika   
+197.242.144.0/20# Afrihost_1 Hoster_Afrika   
+198.2.128.0/18# RSG-Delivery_1 Hoster_USA   
+198.7.56.0/21# Leaseweb_9 Hoster_DE   
+198.8.80.0/20# Total_Server_2 Hoster_USA   
+198.12.64.0/18# Colocrossing_2 Hoster_USA   
+198.20.160.0/19# B2_Net_Solutions_4 Hoster_USA   
+198.23.128.0/17# Colocrossing_1 Hoster_USA   
+198.27.64.0/18# OvH_12 Hoster_France   
+198.46.128.0/17# Colocrossing_7 Hoster_USA   
+198.50.128.0/17# OvH_11 Hoster_Canada   
+198.54.128.0/24# Tzulo_1 Hoster_USA   
+198.98.180.0/22# Fastserver_1 Hoster_USA   
+198.100.144.0/20# OvH_31 Hoster_USA   
+198.134.104.0/21# Unlimitednet_1 Hoster_USA   
+198.144.144.0/20# Yesup_1 Hoster_Canada   
+198.175.64.0/19# Intel_1 Hoster_USA   
+198.203.28.0/22# Hugeserver_1 Hoster_USA   
+198.204.224.0/19# Datashack_6 Hoster_USA   
+198.245.64.0/20# B2_Net_Solutions_7 Hoster_USA   
+199.10.64.0/24# Global_Frag_1 Hoster_USA   
+199.27.88.0/22# Vinakom_1 Hoster_USA   
+199.48.160.0/21# Nodes_Direct_4 Hoster_USA   
+199.48.240.0/21# Powerhouse_1 Hoster_USA   
+199.58.187.0/24# Total_Server_1 Hoster_USA   
+199.114.216.0/21# MadeIT_1 Hoster_USA   
+199.115.96.0/21# Sharktech_1 Hoster_USA   
+199.115.112.0/21# Leaseweb_1 Hoster_USA   
+199.168.136.0/21# Volumedrive_10 Hoster_USA   
+199.188.100.0/22# Colocrossing_5 Hoster_USA   
+199.189.26.0/23# Amanah_3 Hoster_Canada   
+199.189.84.0/22# Hosting_Solutions_3 Hoster_USA   
+199.191.56.0/22# Dacen_1 Hoster_USA   
+199.204.208.0/21# Dynamic_1 Hoster_Canada   
+199.217.104.0/22# AxelX_1 Hoster_USA   
+199.223.232.0/21# Google_Cloud_2 Hoster_USA   
+199.254.120.0/22# Intermedia_1 Hoster_USA   
+199.255.208.0/21# AnchorFree_1 Hoster_GB   
+200.112.192/20# TV_Prensa_1 Hoster_Latin   
+201.131.124.0/22# Hostdime_1 Hoster_Latin   
+201.151.0.0/16# Alestra_1 Hoster_Latin   
+202.129.16.0/22# CAT_South_1 Hoster_Asia   
+202.177.240.0/24# Five_Net_1 Hoster_Asia   
+203.121.64.0/18# TT_Dotcom_1 Hoster_Asia   
+204.12.192.0/18# WholeSale_1 Hoster_USA   
+204.14.72.0/21# AnchorFree_1 Hoster_GB   
+204.15.104.0/21# BTWL_1 Hoster_USA   
+204.15.164.0/22# MarquisNet_1 Hoster_USA   
+204.27.56.0/21# Joe_Datacenter_4 Hoster_USA   
+204.44.64.0/18# Quadranet_11 Hoster_USA   
+204.110.8.0/21# Bavsi_1 Hoster_USA   
+204.187.100.0/23# Amanah_6 Hoster_Canada   
+206.189.0.0/16# Digitalocean_16 Hoster_USA   
+206.217.128.0/20# Colocrossing_9 Hoster_USA   
+206.221.176.0/20# Reliablesite_2 Hoster_USA   
+207.166.128.0/18# SCRE_1 Hoster_USA   
+207.180.200.0/23# Contabo_19 Hoster_DE   
+207.180.210.0/23# Contabo_18 Hoster_DE   
+207.180.242.0/23# Contabo_21 Hoster_DE   
+207.189.0.0/19# Hypervpn_1 Hoster_USA   
+207.228.224.0/19# Hopone_1 Hoster_USA   
+207.244.64.0/18# Leaseweb_1 Hoster_DE   
+208.43.0.0/16# Softlayer_7 Hoster_USA   
+208.78.40.0/22# Total_Server_6 Hoster_USA   
+208.79.104.0/21# Airenet_1 Hoster_USA   
+208.91.64.0/21# Paradise_2 Hoster_USA   
+208.99.112.0/20# ESN_NET_1 Hoster_USA   
+208.100.0.0/18# Steadfast_1 Hoster_USA   
+208.111.32.0/20# Hostvirtual_1 Hoster_USA   
+208.115.192.0/18# Limestone_5 Hoster_USA   
+208.117.96.0/20# Clarity_1 Hoster_USA   
+209.58.128.0/20# Leaseweb_20 Hoster_USA   
+209.58.160.0/20# Leaseweb_18 Hoster_Asia   
+209.59.128.0/18# Liquidweb_1 Hoster_USA   
+209.95.32.0/19# Hosting_Services_1 Hoster_USA   
+209.126.96.0/19# Server4You_1 Hoster_USA   
+209.160.112.0/20# Paradise_3 Hoster_USA   
+209.190.0.0/17# ENET_1 Hoster_USA   
+209.216.64.0/19# PBX_Change_1 Hoster_USA   
+209.222.0.0/19# Choopa_1 Hoster_USA   
+209.239.112.0/20# Hosting_Solutions_2 Hoster_USA   
+209.239.122.192/27# Hosting_Solutions_4 Hoster_USA   
+210.48.0.0/17# Iconz_1 Hoster_Australia   
+210.77.64.0/19# CST_Net_1 Hoster_Asia   
+210.245.80.0/20# FPT_1 Hoster_Latin   
+211.39.128.0/19# Kornet_1 Hoster_Asia   
+211.154.175.0/24# Centeknet_1 Hoster_Asia   
+212.35.192.0/19# Seeweb_1 Hoster_Italia   
+212.47.224.0/19# Online_SAS_8 Hoster_France   
+212.57.96.0/20# MKS_1 Hoster_Ostblock   
+212.83.128.0/18# Online_SAS_3 Hoster_France   
+212.84.160.0/19# Redstation_12 Hoster_GB   
+212.102.32.0/20# Datacamp_23 Hoster_GB   
+212.102.48.0/20# Datacamp_20 Hoster_Spain   
+212.102.63.0/24# Datacamp_10 Hoster_GB   
+212.107.248.0/21# Kapital_1 Hoster_Ostblock   
+212.129.0.0/18# Online_SAS_4 Hoster_France   
+212.147.0.0/17# VTX_1 Hoster_CH   
+212.199.114.0/24# Golden_Lines_1 Hoster_USA   
+212.210.0.0/16# Interbusiness_1 Hoster_Italia   
+212.237.0.0/18# Aruba_6 Hoster_Italia   
+213.126.64.0/18# Ziggo_1 Hoster_Benelux   
+213.136.64.0/19# Contabo_2 Hoster_DE   
+213.197.128.0/18# Baltnet_1 Hoster_Ostblock   
+213.202.192.0/18# MyLoc_7 Hoster_DE   
+213.229.64.0/18# Simply_Transit_4 Hoster_GB   
+216.45.48.0/20# Quadranet_14 Hoster_USA   
+216.84.0.0/15# Espire_1 Hoster_USA   
+216.121.0.0/17# Serverpath_1 Hoster_USA   
+216.205.96.0/20# Interliant_1 Hoster_USA   
+216.244.64.0/19# Wowrack_1 Hoster_USA   
+216.245.192.0/19# Limestone_4 Hoster_USA   
+217.11.224.0/20# Casablanca_1 Hoster_Ostblock   
+217.20.112.0/20# Leaseweb_15 Hoster_DE   
+217.23.0.0/20# Worldstream_3 Hoster_Benelux   
+217.61.120.0/21# Aruba_5 Hoster_Italia   
+217.79.176.0/20# MyLoc_5 Hoster_DE   
+217.138.192.0/18# Globalaxs_1 Hoster_DE   
+217.145.239.0/24# Quadranet_1 Hoster_USA   
+217.146.80.0/20# Hydra_4 Hoster_GB   
+217.160.0.0/16# Schlund_2 Hoster_DE   
+217.170.192.0/20# ServetheWorld_1 Hoster_USA   
+217.172.160.0/19# Intergenia_4 Hoster_DE   
+217.174.240.0/20# Fasthosts_1 Hoster_GB   
+217.182.0.0/16# OvH_35 Hoster_Ostblock   
+217.195.112.0/20# Velance_1 Hoster_Benelux   
+103.77.233.74# Australia Sydney Intergrid Group Pty.
+43.249.130.170/25# Korea, Republic Of Cust Alloc
+185.200.117/24# Singapore Singapore M247 Ltd Singapore
+185.232.22.210/24# United States New York M247
