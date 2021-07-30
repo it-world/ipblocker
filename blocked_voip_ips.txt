@@ -720,7 +720,6 @@
 178.238.236.0/23 # Contabo_7 Hoster_DE   
 178.239.173.0/24 # Hydra_1 Hoster_Benelux   
 178.249.152.0/21 # A2B_Internet_1 Hoster_Benelux   
-179.43.128/18 # Private_Layer_1 Hoster_Latin   
 179.52.0.0/15 # CoDeTel_1 Hoster_Latin   
 179.152.0.0/14 # Claro_1 Hoster_Latin   
 180.149.228.0/22 # Host_Royale_8 Hoster_Australia   
