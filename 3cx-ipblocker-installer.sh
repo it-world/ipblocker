@@ -30,7 +30,13 @@
   sudo ipset create tms-itw_voip-bl hash:net
   curl https://raw.githubusercontent.com/it-world/ipblocker/main/blocked_voip_ips.txt | iprange | while read line; do ipset add tms-itw_voip-bl $line; done
   sudo iptables -I INPUT 13 -m state --state NEW -p tcp -m set --match-set tms-itw_voip-bl src -j REJECT --reject-with tcp-reset
- 
+
+  sudo ipset create cisco_talos hash:net
+  curl https://talosintelligence.com/documents/ip-blacklist | iprange | while read line; do ipset add cisco_talos $line; done
+  sudo iptables -I INPUT 13 -m state --state NEW -p tcp -m set --match-set cisco_talos src -j REJECT --reject-with tcp-reset
+
+
+
 
 curl https://raw.githubusercontent.com/it-world/ipblocker/main/cronjob.sh >> /etc/cron.hourly/updateFirehol.sh
 chmod +x /etc/cron.hourly/updateFirehol.sh
