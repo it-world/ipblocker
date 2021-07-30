@@ -54,3 +54,17 @@ curl $URL | iprange | while read line; do ipset add $BLOCKLIST $line; done
 URL="https://raw.githubusercontent.com/it-world/ipblocker/main/blocked_voip_ips.txt"
 BLOCKLIST=tms-itw_voip-bl
 curl $URL | iprange | while read line; do ipset add $BLOCKLIST $line; done
+
+
+# sudo ipset create cisco_talos hash:net
+# curl https://talosintelligence.com/documents/ip-blacklist | iprange | while read line; do ipset add cisco_talos $line; done
+#  sudo iptables -I INPUT 13 -m state --state NEW -p tcp -m set --match-set cisco_talos src -j REJECT --reject-with tcp-reset
+URL="https://talosintelligence.com/documents/ip-blacklist"
+BLOCKLIST=cisco_talos
+curl $URL | iprange | while read line; do ipset add $BLOCKLIST $line; done
+
+
+
+
+
+
