@@ -1037,5 +1037,5 @@
 217.195.112.0/20 # Velance_1 Hoster_Benelux   
 103.77.233.74/24 # Australia Sydney Intergrid Group Pty.
 43.249.130.170/25 # Korea, Republic Of Cust Alloc
-185.200.117/24 # Singapore Singapore M247 Ltd Singapore
+185.200.117.0/24 # Singapore Singapore M247 Ltd Singapore
 185.232.22.0/24 # United States New York M247
