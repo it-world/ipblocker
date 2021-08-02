@@ -5,4 +5,3 @@
 51.38.45.26/32 # 3CX STUN-Server
 54.39.188.150/32 # 3CX STUN-Server
 54.39.182.217/32 # 3CX STUN-Server
-
