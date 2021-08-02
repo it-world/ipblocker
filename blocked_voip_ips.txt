@@ -1038,3 +1038,4 @@
 43.249.130.128/25 # Korea, Republic Of Cust Alloc
 185.200.117.0/24 # Singapore Singapore M247 Ltd Singapore
 185.232.22.0/24 # United States New York M247
+20.192.0.0/10 # AS8075 MICROSOFT-CORP-MSN-AS-BLOCK, US (registered Mar 31, 1997) 
