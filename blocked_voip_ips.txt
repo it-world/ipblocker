@@ -1047,3 +1047,23 @@
 185.200.117.0/24 # Singapore Singapore M247 Ltd Singapore
 185.232.22.0/24 # United States New York M247
 20.192.0.0/10 # AS8075 MICROSOFT-CORP-MSN-AS-BLOCK, US (registered Mar 31, 1997) 
+45.143.200.0/24 # ROZA-AS	BG
+45.155.205.0/24 # SELECTEL	RU	abuse@selectel.ru
+45.146.164.0/24 # SELECTEL	RU	abuse@selectel.ru
+89.248.165.0/24	# INT-NETWORK	SC	abuse@ipvolume.net
+69.55.59.0/24 # SERVERSTACK-ASN	US	abuse@serverstack.com
+79.124.62.0/24 # DM_AUTO	BG	abuse@dm-auto.eu
+167.248.133.0/24 # CENSYS-ARIN-03	US	
+103.145.13.0/24 # SQUITTER-NETWORKS	NL	abuse@squitter.eu
+193.27.228.0/24 # SELECTEL	RU	abuse@selectel.ru
+91.132.58.0/24 # RELIABLESITE	US	abuse@reliablesite.net
+193.163.125.0/24 # CYBER-CASA	GB	>>UNKNOWN<<
+45.143.203.0/24 # FOPSERVER	UA	vvsg180@gmail.com
+45.146.165.0/24 # SELECTEL	RU	abuse@selectel.ru
+23.148.145.0/24 # VDI-NETWORK	US	noc@vdinetwork.com
+185.156.73.0/24 # SIBIRINVEST	NL	qwalarty@ukr.net
+185.53.90.0/24 # SQUITTER-NETWORKS	NL	abuse@squitter.eu
+92.63.197.0/24 # SIBIRINVEST	NL	qwalarty@ukr.net
+193.242.145.0/24 # RELIABLESITE	US	abuse@reliablesite.net
+209.141.56.0/24 # PONYNET	US	admin@frantech.ca
+146.88.240.0/24 # ARBOR	US	hostmaster@arbor.net
