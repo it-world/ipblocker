@@ -134,6 +134,7 @@
 45.9.248.0/23 # Globalaxs_15 Hoster_GB   
 45.12.220.0/22 # Globalaxs_35 Hoster_Skandinavien   
 45.32.0.0/16 # Choopa_4 Hoster_USA   
+45.34.0.0/15 # Psychz_Net_2 Hoster_USA
 45.55.0.0/16 # Digitalocean_14 Hoster_USA   
 45.56.137.0/24 # Strong_1 Hoster_Italia   
 45.56.200.0/24 # Miami_Net_1 Hoster_USA   
