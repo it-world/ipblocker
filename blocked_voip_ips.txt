@@ -249,6 +249,7 @@
 66.187.64.0/20 # Oplink_1 Hoster_USA   
 66.241.96.0/20 # Vitel_1 Hoster_USA   
 67.21.32.0/23 # Vivid_Hosting_1 Hoster_USA   
+67.100.0.0/14 # Megapath_1 Hoster_USA
 67.154.188.0/22 # Datacenter-BZ_1 Hoster_USA   
 67.207.208.0/20 # AIS_1 Hoster_USA   
 67.208.64.0/19 # InfoRelay_1 Hoster_USA   
