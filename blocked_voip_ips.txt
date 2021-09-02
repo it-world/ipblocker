@@ -1125,3 +1125,4 @@
 168.61.142.52/30 # Microsoft Azure Cloud
 191.233.50.4/30 # Microsoft Azure Cloud
 191.233.207.64/26 # Microsoft Azure Cloud
+188.162.192.0/21 # Russian Federation Yoshkar-ola AS31133 MF-MGSM-AS PJSC MegaFon, RU
