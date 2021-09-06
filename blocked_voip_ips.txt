@@ -1135,3 +1135,4 @@
 191.233.50.4/30 # Microsoft Azure Cloud
 191.233.207.64/26 # Microsoft Azure Cloud
 188.162.192.0/21 # Russian Federation Yoshkar-ola AS31133 MF-MGSM-AS PJSC MegaFon, RU
+185.40.192.0/24 #  AS12975 PALTEL-AS  Palestine, State Of Ramallah Hadara Bsa 2013 Expansion 1/4 
