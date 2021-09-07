@@ -1138,3 +1138,4 @@
 185.40.192.0/24 #  AS12975 PALTEL-AS  Palestine, State Of Ramallah Hadara Bsa 2013 Expansion 1/4 
 4.30.0.0/15 # AS3356 LEVEL3, US BISCOM-INC.bear1.Boston1.Level3.net
 23.24.0.0/18 # AS7922 COMCAST-7922, US  United States Blue Bell Suburban Transit Net Comcast Cable Communications, LLC (CCCS)
+104.149.0.0/16 #  AS40676 AS40676, United States Walnut Psychz Networks 
