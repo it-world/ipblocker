@@ -1152,3 +1152,4 @@
 4.0.0.0/9 # AS3356 LEVEL3, US  United States Boston Level 3 Communications Inc. 
 188.118.0.0/18 # AS8368 BENESOL-BACKBONE Belgium Zaventem Destiny Customer Assigned Subnet 
 209.83.0.0/17 #  AS26284 BADGER-INTERNET-INC, US  United States Jefferson Badger Internet Inc. 
+66.236.0.0/14 # S2828 XO-AS15, US United States Minneapolis Verizon
