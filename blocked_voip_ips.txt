@@ -1155,3 +1155,5 @@
 66.236.0.0/14 # S2828 XO-AS15, US United States Minneapolis Verizon
 209.116.0.0/14 # S2828 XO-AS15, US United States San Diego Verizon 
 66.244.192.0/18 #  AS6327 SHAW, CA   Canada Montreal Shaw Telecom G.p. 
+98.108.0.0/14 # AS701 UUNET, US CI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+98.112.0.0/13 # AS701 UUNET, US CI Communications Services, Inc. d/b/a Verizon Business (MCICS)
