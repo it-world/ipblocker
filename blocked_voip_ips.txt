@@ -674,6 +674,7 @@
 167.172.0.0/16 # Digitalocean_24 Hoster_USA   
 168.61.0.0/16 # Microsoft_2 Hoster_Benelux   
 168.62.0.0/15 # Microsoft_3 Hoster_Benelux   
+168.92.0.0/15 # Firstcom_1 Hoster_USA
 168.126.0.0/16 # Kornet_2 Hoster_Asia   
 168.235.144.0/20 # KW_Datacenter_1 Hoster_Canada   
 169.229.0.0/16 # University_California Hoster_USA   
