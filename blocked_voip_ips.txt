@@ -367,7 +367,8 @@
 87.101.94.0/24 # Globalaxs_11 Hoster_Italia   
 87.117.192.0/18 # Iosmart_1 Hoster_GB   
 87.239.255.0/24 # Partnercom_1 Hoster_Asia   
-88.80.148.0/24 # BelCloud_2 Hoster_Ostblock   
+88.80.148.0/24 # BelCloud_2 Hoster_Ostblock
+88.98.176.0/20 # Zen_Internet_1 Hoster_GB
 88.150.128.0/17 # Redstation_2 Hoster_GB   
 88.202.176.0/23 # UK2_Net_1 Hoster_GB   
 88.208.192.0/18 # Fast Hosts_1 Hoster_GB  
