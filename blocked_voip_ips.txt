@@ -1157,3 +1157,4 @@
 66.244.192.0/18 #  AS6327 SHAW, CA   Canada Montreal Shaw Telecom G.p. 
 98.108.0.0/14 # AS701 UUNET, US CI Communications Services, Inc. d/b/a Verizon Business (MCICS)
 98.112.0.0/13 # AS701 UUNET, US CI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+65.128.0.0/11 # AS209 CENTURYLINK-US-LEGACY-QWEST, US  United States Pueblo Pewag Traction Chain Inc. 
