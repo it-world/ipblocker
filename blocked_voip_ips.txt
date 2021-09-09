@@ -91,6 +91,7 @@
 31.223.185.0/24 # Citynet_1 Araber_Perser   
 31.223.186.0/23 # CitYnet_2 Araber_Perser   
 31.223.188.0/22 # Citynet_3 Araber_Perser   
+32.140.0.0/16 # AT_&_T_3 Hoster_USA
 34.64.0.0/10 # Google_Cloud_7 Hoster_USA   
 35.154.0.0/16 # Amazon_23 Hoster_Asia   
 35.184.0.0/13 # Google_Cloud_4 Hoster_USA   
