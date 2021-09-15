@@ -1174,3 +1174,39 @@
 63.160.0.0/12 # AS1239 SPRINTLINK, US  United States San Jose Sprint 
 80.152.0.0/14 # AS3320 DTAG Internet service provider operations, DE Germany Berlin Deutsche Telekom Ag 
 212.30.80.0/20 # AS5603 SIOL-NET Telekom Slovenije d.d., SI Slovenia Kropa Iskra Mehanizmi D.d. 
+208.0.0.0/11 #  AS1239 SPRINTLINK, US United States New York Sprint 
+208.32.0.0/14 #  AS1239 SPRINTLINK, US United States New York Sprint 
+12.0.0.0/8 # AS7018 ATT-INTERNET4, US United States Detroit Lict Corporation-northeast Gu 
+96.96.0.0/12 # AS7922 COMCAST-7922, US  United States Pittsburgh Comcast 
+96.112.0.0/13 # AS7922 COMCAST-7922, US  United States Pittsburgh Comcast 
+96.64.0.0/11 # AS7922 COMCAST-7922, US  United States Pittsburgh Comcast 
+96.120.0.0/14 # AS7922 COMCAST-7922, US  United States Pittsburgh Comcast 
+96.124.0.0/16 # AS7922 COMCAST-7922, US  United States Pittsburgh Comcast 
+24.223.96.0/22 # AS30164 USACOMMUNICATIONS-1, US  United States Kearney Usa Companies Llc 
+64.250.192.0/19 # AS11650 PLDI, US  United States Kingfisher Pioneer Long Distance Inc. 
+173.249.64.0/20 # AS40948 STRATUS-NETWORKS, US  United States Chatham Stratus Networks 
+208.184.0.0/15 # AS6461 ZAYO-6461, US  United States Dallas Zayo Bandwidth 
+209.90.240.0/20 # AS14453 AS-AKN, CA  Canada Toronto Advanced Knowledge Networks 
+208.0.0.0/11 #  AS1239 SPRINTLINK, US United States New York Sprint 
+208.32.0.0/14 #  AS1239 SPRINTLINK, US United States New York Sprint 
+70.102.0.0/15 # AS26721 INYO, US  United States Gardnerville Inyo Networks 
+66.83.0.0/16 # AS7029 WINDSTREAM, US United States Atlanta Windstream Communications 
+204.77.161.0/24 # AS54061 TBBK-INTERNET, US United States Wilmington The Bancorp Incorporated 
+12.0.0.0/8 #  AS7018 ATT-INTERNET4, US United States Dallas Weirs Furnture Village 
+164.90.0.0/19 # AS36075 SPACELABS-HEALTHCARE, US  United States Snoqualmie Spacelabs Healthcare Inc. 
+64.160.0.0/12 # AS7132 SBIS-AS, US United States Dallas Condon-johnson 
+151.106.48.0/20 # AS29066 VELIANET-AS velia.net Internetdienste GmbH, DE  France Cologne Velia.net Internetdienste Gmbh
+50.107.0.0/20 # AS5650 FRONTIER-FRTR, US United States Charleston Frontier Communications 
+50.106.64.0/18 # AS5650 FRONTIER-FRTR, US United States Charleston Frontier Communications 
+50.106.128.0/17 # AS5650 FRONTIER-FRTR, US United States Charleston Frontier Communications 
+50.107.16.0/21 # AS5650 FRONTIER-FRTR, US United States Charleston Frontier Communications 
+173.241.224.0/20 # AS19009 ONECLEVELAND, US United States Mentor Reliable Runners 
+47.16.0.0/14 #  AS6128 CABLE-NET-1, US United States Huntington Cablevision Systems Corp. 
+209.36.0.0/15 # AS7018 ATT-INTERNET4, US United States Canoga Park Undercar Plus Inc.
+128.136.0.0/16 # AS13649 ASN-VINS, US  United States Charlotte Flexential Corp. 
+71.176.0.0/14 # AS701 UUNET, US United States Boston Verizon 
+71.174.0.0/15 # AS701 UUNET, US United States Boston Verizon 
+71.180.0.0/16 # AS701 UUNET, US United States Boston Verizon 
+71.173.96.0/19 # AS701 UUNET, US United States Boston Verizon 
+71.173.128.0/17 # AS701 UUNET, US United States Boston Verizon 
+199.85.240.0/22 # AS31808 ISCKY, US United States Louisville Computer Mendtor Llc 
