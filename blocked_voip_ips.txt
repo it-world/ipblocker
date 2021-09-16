@@ -1222,3 +1222,4 @@
 47.48.0.0/14 # US Charter Communications CC04 (NET-47-32-0-0-1) Spectrum Business 
 47.32.0.0/12 # US Charter Communications CC04 (NET-47-32-0-0-1) Spectrum Business 
 209.221.32.0/19 # US  zayo.com ZAYOB NET-209-221-32-0-1 Pineland Telephone Cooperative 
+216.160.0.0/15 # US NET-216-160-0-0-1 CenturyLink Communications, LLC (CCL-534)
