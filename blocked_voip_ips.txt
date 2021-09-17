@@ -1228,3 +1228,6 @@
 66.112.224.0/19 # AS395461 APOG-AUSTIN, US United States Austin Apogee Telecom Inc. 
 192.235.64.0/18 #  AS36086 TELX-LEGACY, US United States New York Telx 
 66.255.240.0/20 # AS13781 ENERGYNET, US  United States Hopkinsville Wireless Dhcp Range 
+173.241.192.0/20 # US Florida, WideOpenWest  Yuma Solutions, Inc
+173.241.206.160/28 # US Florida, WideOpenWest  Yuma Solutions, Inc
+74.121.32.0/22 #  AS26968 PSD-ROCKET-AS, CA Canada North Vancouver Psd Professional Systems/designs Ltd 
