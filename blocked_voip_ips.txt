@@ -1223,3 +1223,8 @@
 47.32.0.0/12 # US Charter Communications CC04 (NET-47-32-0-0-1) Spectrum Business 
 209.221.32.0/19 # US  zayo.com ZAYOB NET-209-221-32-0-1 Pineland Telephone Cooperative 
 216.160.0.0/15 # US NET-216-160-0-0-1 CenturyLink Communications, LLC (CCL-534)
+134.119.192.0/19 # AS29066 VELIANET-AS velia.net Internetdienste GmbH, DE  France Cologne Mahmoud Abumaree 
+146.0.224.0/19 # S29066 VELIANET-AS velia.net Internetdienste GmbH, DE Germany Koeln Mahmoud Abumaree 
+66.112.224.0/19 # AS395461 APOG-AUSTIN, US United States Austin Apogee Telecom Inc. 
+192.235.64.0/18 #  AS36086 TELX-LEGACY, US United States New York Telx 
+66.255.240.0/20 # AS13781 ENERGYNET, US  United States Hopkinsville Wireless Dhcp Range 
