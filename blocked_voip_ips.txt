@@ -1231,3 +1231,6 @@
 173.241.192.0/20 # US Florida, WideOpenWest  Yuma Solutions, Inc
 173.241.206.160/28 # US Florida, WideOpenWest  Yuma Solutions, Inc
 74.121.32.0/22 #  AS26968 PSD-ROCKET-AS, CA Canada North Vancouver Psd Professional Systems/designs Ltd 
+158.106.64.0/18 # US-CA APTUM-TECHNOLOGIES NET-158-106-64-0-1 Cogecodata
+65.51.0.0/16 # US AS6128 ablevision Systems Corp. (CVNT) Optimum Online 
+193.117.0.0/16 # UK  Telstra Europe Ltd  MONVINLTD-LONDON  DL10087-RIPE Virtual1 Network Operations Virtual1 Limited 
