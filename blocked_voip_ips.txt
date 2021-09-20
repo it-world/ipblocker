@@ -1247,3 +1247,4 @@
 78.32.0.0/15 # UK ORG-EA52-RIPE ENTANET International Limited
 24.153.128.0/17 # US Charter Communications Inc (CC-3517) Spectrum Business 
 198.167.176.0/20 # US AS14230 Involta (INVOL-1)
+129.82.0.0/16 # US AS12145 COLORADOSTATEUNIV, US  United States Fort Collins Colorado State University
