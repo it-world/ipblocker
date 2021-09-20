@@ -1234,3 +1234,16 @@
 158.106.64.0/18 # US-CA APTUM-TECHNOLOGIES NET-158-106-64-0-1 Cogecodata
 65.51.0.0/16 # US AS6128 ablevision Systems Corp. (CVNT) Optimum Online 
 193.117.0.0/16 # UK  Telstra Europe Ltd  MONVINLTD-LONDON  DL10087-RIPE Virtual1 Network Operations Virtual1 Limited 
+213.86.0.0/16 # UK AS8220 COLT COLT Technology Services Group Limited, GB  United Kingdom United Kingdom Tower Hamlets Plp Architecture 
+216.81.128.0/17 # US AS11320 LIGHTEDGE-AS-02, US United States Des Moines Lightedge Solutions 
+47.192.0.0/11 # US AS5650 FRONTIER-FRTR, US FCC-210 United States United States Lakeland Frontier Communications  Frontier Communications Corporation 
+64.58.128.0/18 # US AS22773 ASN-CXA-ALL-CCI-22773-RDC, US  United States Rancho Santa Margarita Cox Communications Inc. 
+72.22.160.0/19 # US HVDN-IPNET-2 HUDSON VALLEY DATANET, LLC (HVDN)
+199.34.92.0/22 # US AS14525 Stellar Technologies Inc. (OS-242)
+204.232.80.0/20 # US AS12129 123.Net 
+66.204.0.0/16   # US AS21852  State Of Arkansas, Department of InformationSystem 
+24.51.224.0/19 # CA AS7992 Cogeco Cable COGECO COMMUNICATIONS INC. (CGOC)
+66.7.224.0/19 # US TELEPACIFIC-SJ-BLK-1 TPx Communications (TPSJ)
+78.32.0.0/15 # UK ORG-EA52-RIPE ENTANET International Limited
+24.153.128.0/17 # US Charter Communications Inc (CC-3517) Spectrum Business 
+198.167.176.0/20 # US AS14230 Involta (INVOL-1)
