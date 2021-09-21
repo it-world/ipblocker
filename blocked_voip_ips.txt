@@ -1248,3 +1248,6 @@
 24.153.128.0/17 # US Charter Communications Inc (CC-3517) Spectrum Business 
 198.167.176.0/20 # US AS14230 Involta (INVOL-1)
 129.82.0.0/16 # US AS12145 COLORADOSTATEUNIV, US  United States Fort Collins Colorado State University
+208.180.0.0/16 # US Suddenlink Communications (SUDDE)
+216.13.0.0/16 # CA Allstream Corp. (ACCA-2)
+65.112.0.0/12 # US CENTURYLINK-LEGACY-QWEST-65-112-0 CenturyLink Communications, LLC (CCL-534)
