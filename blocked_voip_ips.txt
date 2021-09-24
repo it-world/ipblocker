@@ -1280,3 +1280,5 @@
 66.110.192.0/19 # US Georgia Public Web GEORGIA PUBLIC WEB, INC. (GPW) 
 207.237.0.0/16 # US   Network-Name:RCN-BLK-13-6667-Commercial-Glue-nyw.ny-30  RCN Corporation
 207.237.168.0/24 # US   Network-Name:RCN-BLK-13-6667-Commercial-Glue-nyw.ny-30  RCN Corporation
+162.152.0.0/14 # US AS36727  Charter Communications Inc (CC-3517) Charter Communications Inc
+162.155.74.0/29 # US AS36727  Charter Communications Inc (CC-3517) Charter Communications Inc
