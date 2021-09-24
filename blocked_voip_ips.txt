@@ -1269,3 +1269,14 @@
 81.128.0.0/11 # UK BTNET-CUSTOMER
 84.17.58.0/23 # IT CDN77_MIL_SWB DataCamp Limited
 104.244.208.0/22 # US AS13737 INCX Global, LLC (IGL-112)
+45.16.0.0/12 # US AS7132 AT&T Corp. (AC-3280)
+208.58.0.0/15 # US LTH FCU FIRST COMMONWEA
+208.58.249.152/29 # US LTH FCU FIRST COMMONWEA
+185.178.218.0/24 # UK AS21267 UK-SOLAR-218WAVENET Wavenet Limited 
+198.177.252.0/23 # US Allerion, Inc. (ALLERI) Net2atlanta.com LLC 
+198.177.251.0/24 # US Allerion, Inc. (ALLERI) Net2atlanta.com LLC 
+198.177.254.0/24 # US Allerion, Inc. (ALLERI) Net2atlanta.com LLC 
+130.93.0.0/17 # FR AS25540 Alphalink  INIT SYS SAS
+66.110.192.0/19 # US Georgia Public Web GEORGIA PUBLIC WEB, INC. (GPW) 
+207.237.0.0/16 # US   Network-Name:RCN-BLK-13-6667-Commercial-Glue-nyw.ny-30  RCN Corporation
+207.237.168.0/24 # US   Network-Name:RCN-BLK-13-6667-Commercial-Glue-nyw.ny-30  RCN Corporation
