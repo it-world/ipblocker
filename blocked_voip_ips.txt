@@ -1282,3 +1282,7 @@
 207.237.168.0/24 # US   Network-Name:RCN-BLK-13-6667-Commercial-Glue-nyw.ny-30  RCN Corporation
 162.152.0.0/14 # US AS36727  Charter Communications Inc (CC-3517) Charter Communications Inc
 162.155.74.0/29 # US AS36727  Charter Communications Inc (CC-3517) Charter Communications Inc
+162.152.0.0/14 # US AS36727 Spectrum Business   Charter Communications Inc (CC-3517)
+207.102.0.0/16 # CA AS852 TELUS Communications Inc. (TACE)
+185.99.3.0/24 # BA AS200698 GA8571-RIPE Globalhost d.o.o. - Dedicated Servers & Colocation
+216.11.0.0/16 # US Oakland Schools (OAKLAN-5)
