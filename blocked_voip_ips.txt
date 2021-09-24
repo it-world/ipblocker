@@ -1251,3 +1251,21 @@
 208.180.0.0/16 # US Suddenlink Communications (SUDDE)
 216.13.0.0/16 # CA Allstream Corp. (ACCA-2)
 65.112.0.0/12 # US CENTURYLINK-LEGACY-QWEST-65-112-0 CenturyLink Communications, LLC (CCL-534)
+173.160.0.0/13 # US AS7922 Comcast Cable Communications, LLC (CCCS)
+66.171.144.0/20 # US  AS16582  NEXT LEVEL INTERNET, INC. (NXLI)
+71.6.0.0/17 # US TELEPACIFIC-SJ-BLK-6 TPx Communications (TPSJ) 
+207.114.128.0/17 # US AS3549 LVLT-3549, US tw telecom holdings, inc. (TWTC)
+97.80.0.0/12 # US  AS20115 CHARTER-20115, US Charter Communications (CC04)
+81.173.12.0/22 # IE AS199256  Leeson Telecom Holdings Ltd
+69.132.0.0/14 # US Charter Communications Inc (CC-3517) Legacy Time Warner Cable IP Assets
+74.128.0.0/12 # US INSIGHT-COMMUNCATIONS-CORP Charter Communications Inc (CC-3517)
+209.124.32.0/19 # US AS12129 , 123NET-BLK-I123-7  123.Net, Inc. (NETIN-6)
+24.140.0.0/17 # US AS12097 Massillon Cable Communications (MSLN) 
+24.140.128.0/18 # US AS12097 Massillon Cable Communications (MSLN) 
+24.140.192.0/19 # US AS12097 Massillon Cable Communications (MSLN) 
+64.60.0.0/16 # US TELEPACIFIC-LA-BLK-1 TPx Communications (TPAC)
+107.144.0.0/14 # US AS33363 Charter Communications, Inc (CC-3518)
+74.115.236.0/22 # US AS46871, AS7018, AS237 Oakland Community College (OCC-14)
+81.128.0.0/11 # UK BTNET-CUSTOMER
+84.17.58.0/23 # IT CDN77_MIL_SWB DataCamp Limited
+104.244.208.0/22 # US AS13737 INCX Global, LLC (IGL-112)
