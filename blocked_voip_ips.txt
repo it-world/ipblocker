@@ -1286,3 +1286,59 @@
 207.102.0.0/16 # CA AS852 TELUS Communications Inc. (TACE)
 185.99.3.0/24 # BA AS200698 GA8571-RIPE Globalhost d.o.o. - Dedicated Servers & Colocation
 216.11.0.0/16 # US Oakland Schools (OAKLAN-5)
+23.179.48.0/24 # US  AS15017 Malverne Union Free School District
+207.243.194.248/29 # US AT&T Services, Inc.
+207.243.194.0/23 # US AT&T Services, Inc.
+207.242.0.0/15 # US AT&T Services, Inc.
+208.52.0.0/17 # US AS11404   Condointernet.net (SEATT-15)
+47.180.0.0/15 # US Frontier Communications Solutions
+96.229.66.16/29 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+96.224.0.0/11 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+64.49.112.0/20 # US Kent Intermediate School District
+98.160.0.0/11 # US Cox Communications Inc. (CXA)
+98.191.174.0/24 # US Cox Communications Inc. (CXA)
+98.191.174.0/24 # US Cox Communications Inc. (CXA)
+151.0.0.0/8 # Israel AS29066 VELIANET-FR-MAHMOUDABUMAREE
+63.224.0.0/13 # US AS209 CenturyLink Communications, LLC (CCL-534)
+63.224.161.40/29 # US AS209 CenturyLink Communications, LLC (CCL-534)
+196.196.0.0/16 # SA AS37518 FiberGrid Noc4
+78.143.248.0/22 # UK AS198781  G3 Network Services
+162.210.144.0/22 # US AS46446 California Telecom (CALIF-21)
+24.123.128.0/17 # US Charter Communications Inc (CC-3517)
+24.123.229.72/29 # US Charter Communications Inc (CC-3517)
+66.180.224.0/20 # US AS18671 PRTC
+5.28.55.0/24 # UK AS42010 I.T. PROFESSIONAL SERVICES LIMITED
+108.32.0.0/12 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+108.56.0.0/15 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+108.48.0.0/13 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+108.0.0.0/11 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+76.0.0.0/13 # US CenturyLink Communications, LLC (CCL-534)
+168.8.0.0/13 # US Board of Regents of the University System of Georgia (SBR)
+168.8.0.0/14 # US Board of Regents of the University System of Georgia (SBR)
+199.255.216.0/21 # US AS11260 Eastlink HSI
+199.255.223.64/26 # US AS11260 Eastlink HSI
+168.245.160.0/20 # US  Twin Lakes Telephone Cooperative Corporation (TLTCC)
+69.174.160.0/20 # US AS30600  Metronet (CINER-3)
+69.174.128.0/19 # US AS30600  Metronet (CINER-3)
+69.174.139.32/29 # US AS30600  Metronet (CINER-3)
+216.98.64.0/19 # US AS7795 LUMOS Networks, Inc. (LN-19)
+216.98.79.128/25 #  US AS7795 LUMOS Networks, Inc. (LN-19)
+72.17.0.0/17 # US Charter Communications, Inc (CC-3518)
+207.189.208.0/20 # US AS3251 Accelerated Connections Inc. (ACLT)
+32.128.0.0/10 # US AS7018 AT&T Global Network Services, LLC (ATGS)
+32.0.0.0/9 # US AS7018 AT&T Global Network Services, LLC (ATGS)
+32.192.0.0/12 # US AS7018 AT&T Global Network Services, LLC (ATGS)
+32.45.0.0/16 # US AS7018 AT&T Global Network Services, LLC (ATGS)
+64.18.240.0/20 # US AS40523 OACYS TECHNOLOGY (OACYST)
+108.56.0.0/15 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+108.32.0.0/12 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+108.0.0.0/11 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+108.48.0.0/13 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+68.67.32.0/19 # US AS22652  Fibrenoire Inc. (FIBRE-1)
+199.83.104.0/21 # US AS13490 Buckeye Cablevision, Inc. (BUCKEY-4)
+81.31.96.0/19 # GB ENTANET International Ltd
+192.30.128.0/21 # US AS14567 Springs Hosting (SPRIN-91)
+193.12.0.0/14 # SE  SWIPNET-LIR-MNT Ports Group AB
+72.34.96.0/19 # US  Race Technologies, Inc. (RACE)
+199.227.0.0/16 # US  Xspedius Communications Co. (XSPED)
+199.227.121.80/29 # US  Xspedius Communications Co. (XSPED)
