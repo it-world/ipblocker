@@ -1507,3 +1507,4 @@
 24.38.0.0/17 # US AS6128  Cablevision Systems Corp. (CVNT)
 24.38.11.0/24 # US AS6128  Cablevision Systems Corp. (CVNT)
 93.192.0.0/10 # DE
+198.46.96.0/19 # US AS6128 Cablevision Systems Corp. (CVNT)
