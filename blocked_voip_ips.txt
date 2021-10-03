@@ -1431,3 +1431,79 @@
 92.207.0.0/16 # GB MNT-GTL
 163.0.0.0/8 # AU 
 65.192.0.0/11 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+128.92.184.46
+216.135.74.8 
+74.63.189.21 
+164.39.86.29 
+64.88.185.72 
+173.251.100.90 
+207.109.11.221 
+66.44.92.50 
+173.251.50.202 
+209.124.196.110 
+208.84.249.210 
+89.101.22.141
+71.66.186.35 
+184.183.86.26 
+66.172.193.138 
+69.8.192.50 
+47.176.48.5 
+173.251.100.90 
+89.197.172.210 
+64.139.235.182 
+64.184.109.174 
+64.203.249.195 
+24.38.11.182 
+93.240.160.226 
+
+
+
+82.138.192.0/20 # GB AS8190-MNT
+74.84.64.0/18 # US Mediacom Communications Corporation (MCC-246)
+64.139.244.0/23 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
+64.139.235.0/24 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
+64.139.240.0/22 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
+64.139.236.0/22 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
+64.139.235.0/24 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
+128.92.0.0/16 # US AS20115  Charter Communications (CC04)
+128.92.184.40/29 #  US AS20115  Charter Communications (CC04)
+216.135.64.0/19 # US BLUEGRASS.NET (BRAS)
+74.63.128.0/18 # US AS13649 Flexential Colorado Corp. (VINS)
+164.39.64.0/19 # GB MML-ROUTE-164.39.64
+64.88.160.0/19 # US AS20141 Quality Technology Services, LLC (QTS-9)
+64.88.185.64/28 # US AS20141 Quality Technology Services, LLC (QTS-9)
+173.251.0.0/17 # US AS6128 Cablevision Systems Corp. (CVNT)
+173.251.100.0/24 # US AS6128 Cablevision Systems Corp. (CVNT)
+207.108.0.0/15 # US CenturyLink Communications, LLC (CCL-534)
+207.109.11.192/27 # US CenturyLink Communications, LLC (CCL-534)
+66.44.0.0/17 # US RCN (RTSL-6) LLC SUGHRUE MION
+173.251.0.0/17 # US AS6128  Cablevision Systems Corp. (CVNT)
+209.124.192.0/18 # US AS5009 EATEL (ADTL)
+208.84.248.0/21 # US AS26076  Block Line Systems, LLC (BLSL)
+89.101.0.0/16 # IE 
+71.64.0.0/12 # US  Charter Communications Inc (CC-3517)
+184.176.0.0/12 # US Cox Communications Inc. (CXA)
+184.183.84.0/22 # US Cox Communications Inc. (CXA)
+66.172.192.0/18 # US  Long Lines Internet (LLI-9)
+66.172.193.136/29 #  US  Long Lines Internet (LLI-9)
+69.8.192.0/18 # US AS209  CenturyLink Communications, LLC (CCL-534)
+69.8.192.0/22 # US AS209  CenturyLink Communications, LLC (CCL-534)
+47.160.0.0/12 # US  Frontier Communications Corporation (FCC-212)
+47.176.0.0/14 # US  Frontier Communications Corporation (FCC-212)
+47.144.0.0/12 # US  Frontier Communications Corporation (FCC-212)
+47.136.0.0/13 # US  Frontier Communications Corporation (FCC-212)
+47.180.0.0/15 # US  Frontier Communications Corporation (FCC-212)
+173.251.0.0/17 # US AS6128 Cablevision Systems Corp. (CVNT)
+173.251.100.0/24 # US AS6128 Cablevision Systems Corp. (CVNT)
+89.197.0.0/16 # GB
+64.139.244.0/23 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
+64.139.235.0/24 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
+64.139.236.0/22 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
+64.139.240.0/22 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
+64.139.235.0/24 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
+64.184.0.0/17 # US AS32703 Organization:   Intelligent Fiber Network (IFN-2)
+64.184.109.160/28 # US AS32703 Organization:   Intelligent Fiber Network (IFN-2)
+64.203.192.0/18 # US AS22646 Hargray Communications Group, Inc. (HARGRA-4)
+24.38.0.0/17 # US AS6128  Cablevision Systems Corp. (CVNT)
+24.38.11.0/24 # US AS6128  Cablevision Systems Corp. (CVNT)
+93.192.0.0/10 # DE
