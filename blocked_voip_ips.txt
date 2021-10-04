@@ -1525,3 +1525,7 @@
 63.236.0.0/14 # US  CenturyLink Communications, LLC (CCL-534)
 69.11.128.0/17 # US AS4181 TDS TELECOM (TDST)
 162.17.128.0/19 # US Comcast Cable Communications, LLC (CCCS)
+192.30.152.0/21 # US AS11541, AS27216  Air Advantage LLC (AIRAD)
+188.39.0.0/16 # GB
+162.17.0.0/16 # US AS7922 Comcast Cable Communications, LLC (CCCS)
+162.17.128.0/19 # US AS7922 Comcast Cable Communications, LLC (CCCS)
