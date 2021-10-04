@@ -1508,3 +1508,13 @@
 24.38.11.0/24 # US AS6128  Cablevision Systems Corp. (CVNT)
 93.192.0.0/10 # DE
 198.46.96.0/19 # US AS6128 Cablevision Systems Corp. (CVNT)
+173.198.128.0/19 # US Charter Communications Inc (CC-3517)
+173.198.0.0/17 # US Charter Communications Inc (CC-3517)
+173.196.0.0/15 # US Charter Communications Inc (CC-3517)
+173.197.57.80/28 # US Charter Communications Inc (CC-3517)
+104.152.80.0/22 # US AS394752 Avative Fiber (AL-464)
+107.144.0.0/14 # US AS33363 Charter Communications, Inc (CC-3518)
+107.144.148.176/28 # US AS33363 Charter Communications, Inc (CC-3518)
+69.169.128.0/18 # US AS29933, AS35902  Veracity Networks LLC (VNL-9)
+69.169.144.32/27 # US AS29933, AS35902  Veracity Networks LLC (VNL-9)
+217.110.0.0/15 # DE
