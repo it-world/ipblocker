@@ -1529,3 +1529,5 @@
 188.39.0.0/16 # GB
 162.17.0.0/16 # US AS7922 Comcast Cable Communications, LLC (CCCS)
 162.17.128.0/19 # US AS7922 Comcast Cable Communications, LLC (CCCS)
+50.84.0.0/16 # US  Charter Communications Inc (CC-3517)
+50.84.239.0/27 # US  Charter Communications Inc (CC-3517)
