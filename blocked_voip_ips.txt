@@ -1531,3 +1531,6 @@
 162.17.128.0/19 # US AS7922 Comcast Cable Communications, LLC (CCCS)
 50.84.0.0/16 # US  Charter Communications Inc (CC-3517)
 50.84.239.0/27 # US  Charter Communications Inc (CC-3517)
+65.240.0.0/13 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+65.252.0.0/15 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+65.248.0.0/14 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
