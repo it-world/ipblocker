@@ -1549,6 +1549,6 @@
 198.147.20.0/22 # US AS46562 Total Server Solutions L.L.C. (TSSL-13)
 198.147.22.0/24 # US AS46562 Total Server Solutions L.L.C. (TSSL-13)
 174.46.0.0/15 # US tw telecom holdings, inc. (TWTC)
-41.160.0.0/14 # Zimbabwe Liquid Telecommunications Operations Limited 
+41.160.0.0/14 # Zimbabwe AS36937 Liquid Telecommunications Operations Limited 
 
 
