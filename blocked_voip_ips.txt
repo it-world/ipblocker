@@ -1534,3 +1534,17 @@
 65.240.0.0/13 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
 65.252.0.0/15 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
 65.248.0.0/14 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
+50.84.0.0/16 # US Charter Communications Inc (CC-3517)
+50.84.239.0/27 # US Charter Communications Inc (CC-3517)
+65.240.0.0/13 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS
+65.252.0.0/15 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS
+65.248.0.0/14 # US MCI Communications Services, Inc. d/b/a Verizon Business (MCICS
+64.128.0.0/15 # US tw telecom holdings, inc. (TWTC)
+204.191.0.0/16 # CA TELUS Communications Inc. (TACE)
+204.191.172.128/29 # CA TELUS Communications Inc. (TACE)
+66.220.0.0/19 # US AS6939 Hurricane Electric LLC (HURC)
+66.207.192.0/19 # CA AS21949 Beanfield Technologies Inc. (BNFD)
+66.207.208.64/30 # CA AS21949 Beanfield Technologies Inc. (BNFD)
+5.151.0.0/16 # GB
+198.147.20.0/22 # US AS46562 Total Server Solutions L.L.C. (TSSL-13)
+198.147.22.0/24 # US AS46562 Total Server Solutions L.L.C. (TSSL-13)
