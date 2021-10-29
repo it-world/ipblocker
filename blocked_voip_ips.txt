@@ -804,7 +804,6 @@
 149.56.0.0/16 # OvH_19 Hoster_Canada   
 149.200.128.0/17 # Orange_Jordan_1 Araber_Perser   
 149.202.0.0/16 # OvH_23 Hoster_France   
-151.0.0.0/8 # Israel AS29066 VELIANET-FR-MAHMOUDABUMAREE
 151.80.0.0/16 # OvH_17_3CX Hoster_Italia   
 151.106.48.0/20 # AS29066 VELIANET-AS velia.net Internetdienste GmbH, DE  France Cologne Velia.net Internetdienste Gmbh
 151.236.23.0/24 # Edis_5 Hoster_Spain   
