@@ -1827,3 +1827,50 @@
 141.98.10.0/24 # LT
 45.89.174.0/24 # FR GLOBALAXS-MNT
 46.60.64.0/21 # PS 
+141.98.10.0/24 # LT
+45.89.174.0/24 # FR GLOBALAXS-MNT
+46.60.64.0/21 # PS 
+217.32.0.0/12 # GB BTNET-MNT
+216.71.160.0/19 # US Online Tech, LLC (OTL-22)
+213.110.128.0/19 # UA  SUNNET-MNT UKRINDEX-MNT
+209.36.0.0/15 # US AT&T Services, Inc. (ATTW-Z)
+209.36.29.160/27 US ACC-BRITE FINANCIAL (AF-211)
+199.34.92.0/22 # US AS14525 Stellar Technologies Inc. (OS-242)
+195.21.0.0/17 # US Interoute Communications Ltd
+187.190.0.0/16 # MX 
+173.160.0.0/13 # US AS7922 Comcast Cable Communications, LLC (CCCS)
+173.162.4.0/22 # US AS7922 Comcast Cable Communications, LLC (CCCS)
+148.77.0.0/16 # US Optimum Online (OPTO)
+148.77.0.0/17 # US AS6128 Cablevision Systems Corp. (CVNT)
+143.244.96.0/19 # US AS62642 Bigleaf Networks, Inc. (BNL-32)
+141.98.10.0/24 # LT 
+100.42.144.0/20 # US AS20030 Artelco (MCCLI-1)
+98.160.0.0/11 # US Cox Communications Inc. (CXA)
+98.174.160.0/19 # US 
+98.158.80.0/20 # CA AS36031, AS36030, AS27272, AS40341, AS12188 Q9 Networks Inc. (Q9NT)
+89.239.32.0/20 # PS PALTEL-MNTNER
+88.99.0.0/16 # DE HOS-GUN
+79.173.168.0/21 # GB AS5631-MNT
+69.74.0.0/16 # US AS6128 Cablevision Systems Corp. (CVNT)
+69.74.151.0/24 # US AS6128 Cablevision Systems Corp. (CVNT)
+66.46.0.0/16 # CA Allstream Corp. (ACCA-2)
+62.232.83.0/24 # GB
+50.128.0.0/9 # US AS7922 Comcast Cable Communications, LLC (CCCS)
+50.107.16.0/21 # US AS5650 Frontier Communications of America, Inc. (FRTR)
+50.106.128.0/17 # US AS5650 Frontier Communications of America, Inc. (FRTR)
+50.106.64.0/18 # US AS5650 Frontier Communications of America, Inc. (FRTR)
+50.107.0.0/20 # US AS5650 Frontier Communications of America, Inc. (FRTR)
+47.182.0.0/15 # US Frontier Communications Corporation (FCC-211)
+47.188.0.0/15 # US Frontier Communications Corporation (FCC-211) 
+47.184.0.0/14 # US Frontier Communications Corporation (FCC-211)
+47.190.0.0/16 # US Frontier Communications Corporation (FCC-211)
+45.134.144.0/24 # HK
+24.230.64.0/18 # US AS11232 Midcontinent Communications (MIDCO-1)
+24.230.32.0/19 # US AS11232 Midcontinent Communications (MIDCO-1)
+24.230.128.0/18 # US AS11232 Midcontinent Communications (MIDCO-1)
+24.230.75.0/24 # US AS11232 Midcontinent Communications (MIDCO-1)
+12.0.0.0/8 # US AT&T Services, Inc. (ATTW-Z)
+12.221.224.0/20 # US AS7018 AT&T Services, Inc. (ATTW) MARIN COMMUNITY (MC-910)
+12.221.228.32/28 # US AS7018 AT&T Services, Inc. (ATTW) MARIN COMMUNITY (MC-910)
+4.0.0.0/9 # US Level 3 Parent, LLC (LPL-141) Level 3 Communications, Inc. (LVLT)
+4.14.0.0/16 # US Level 3 Parent, LLC (LPL-141)  Level 3 Communications, Inc. (LVLT)
