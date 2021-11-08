@@ -140,7 +140,7 @@
 23.254.0.0/17 # B2_Net_Solutions_2 Hoster_USA
 24.38.0.0/17 # US AS6128  Cablevision Systems Corp. (CVNT)
 24.38.11.0/24 # US AS6128  Cablevision Systems Corp. (CVNT)
-24.38.11.182
+24.38.11.182 # 
 24.51.224.0/19 # CA AS7992 Cogeco Cable COGECO COMMUNICATIONS INC. (CGOC)
 24.53.128.0/18 # US AS26076  Buckeye Cablevision, Inc. (BUCKEY-4)
 24.53.144.0/21 # US AS26076  Buckeye Cablevision, Inc. (BUCKEY-4)
@@ -256,7 +256,7 @@
 45.87.184.0/22 # Anytime_1 Hoster_GB
 45.89.174.0/23 # Globalaxs_16 Hoster_France
 45.89.174.0/24 # FR GLOBALAXS-MNT
-45.95.144.0/22     # Alsycon_1             Hoster_Benelux
+45.95.144.0/22 # Alsycon_1             Hoster_Benelux
 45.114.118.0/24 # CLDR_2 Hoster_USA
 45.121.208.0/22 # Streamline_2 Hoster_Australia
 45.123.116.0/22 # Serverfield_1 Hoster_Asia
@@ -299,14 +299,14 @@
 46.246.93.0/24 # Edis_2 Hoster_Skandinavien
 46.247.0.0/17 # GB Fluidone Ltd.
 46.249.32.0/19 # Serverius_1 Hoster_Benelux
-47.16.0.0/14 #  AS6128 CABLE-NET-1, US United States Huntington Cablevision Systems Corp.
+47.16.0.0/14 # US AS6128 CABLE-NET-1, US United States Huntington Cablevision Systems Corp.
 47.32.0.0/12 # US Charter Communications CC04 (NET-47-32-0-0-1) Spectrum Business
 47.48.0.0/14 # US Charter Communications CC04 (NET-47-32-0-0-1) Spectrum Business
 47.136.0.0/13 # US  Frontier Communications Corporation (FCC-212)
 47.144.0.0/12 # US  Frontier Communications Corporation (FCC-212)
 47.160.0.0/12 # US  Frontier Communications Corporation (FCC-212)
 47.176.0.0/14 # US  Frontier Communications Corporation (FCC-212)
-47.176.48.5
+47.176.48.5 # 
 47.180.0.0/15 # US Frontier Communications Solutions
 47.182.0.0/15 # US Frontier Communications Corporation (FCC-211)
 47.184.0.0/14 # US Frontier Communications Corporation (FCC-211)
@@ -406,11 +406,11 @@
 64.85.160.0/20 # US Great Lakes Comnet, Inc. (GLC-30)
 64.88.160.0/19 # US AS20141 Quality Technology Services, LLC (QTS-9)
 64.88.185.64/28 # US AS20141 Quality Technology Services, LLC (QTS-9)
-64.88.185.72
+64.88.185.72 # 
 64.120.2.0/24 # Leaseweb_6 Hoster_USA
 64.128.0.0/15 # US tw telecom holdings, inc. (TWTC)
 64.139.235.0/24 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
-64.139.235.182
+64.139.235.182 # 
 64.139.236.0/22 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
 64.139.240.0/22 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
 64.139.244.0/23 # US AS40285 NORTHLAND CABLE TELEVISION INC. (NCT-50)
@@ -419,12 +419,12 @@
 64.182.0.0/16 # Corespace_1 Hoster_USA
 64.184.0.0/17 # US AS32703 Organization:   Intelligent Fiber Network (IFN-2)
 64.184.109.160/28 # US AS32703 Organization:   Intelligent Fiber Network (IFN-2)
-64.184.109.174
+64.184.109.174 # 
 64.188.0.0/19 # Quadranet_4 Hoster_USA
 64.191.64.0/18 # US NETWORK INNOVATIONS, INC. (NETWO-107)
 64.191.108.168/29 # US NETWORK INNOVATIONS, INC. (NETWO-107)
 64.203.192.0/18 # US AS22646 Hargray Communications Group, Inc. (HARGRA-4)
-64.203.249.195
+64.203.249.195 # 
 64.206.194.0/24 # HB_Communication_1 Hoster_USA
 64.225.0.0/17 # Digitalocean_23 Hoster_USA
 64.250.192.0/19 # AS11650 PLDI, US  United States Kingfisher Pioneer Long Distance Inc.
@@ -443,7 +443,7 @@
 66.7.224.0/19 # US TELEPACIFIC-SJ-BLK-1 TPx Communications (TPSJ)
 66.11.64.0/19 # CA AS20161 TeraGo Networks Inc. (TRGO)
 66.44.0.0/17 # US RCN (RTSL-6) LLC SUGHRUE MION
-66.44.92.50
+66.44.92.50 # 
 66.46.0.0/16 # CA Allstream Corp. (ACCA-2)
 66.55.80.0/20 # Cloud_1 Hoster_USA
 66.70.128.0/17 # OvH_41 Hoster_Canada
@@ -461,7 +461,7 @@
 66.172.160.0/19 # US SWWC Service Cooperatives (SSC-161)
 66.172.192.0/18 # US  Long Lines Internet (LLI-9)
 66.172.193.136/29 #  US  Long Lines Internet (LLI-9)
-66.172.193.138
+66.172.193.138 # 
 66.180.192.0/20 # US AS11051 Evocative, Inc. (EVOCAT-2)
 66.180.195.152/29 # US AS11051 Evocative, Inc. (EVOCAT-2)
 66.180.224.0/20 # US AS18671 PRTC
@@ -512,7 +512,7 @@
 69.2.26.32/29 # US AS14103 ACD.net (ACDC)
 69.8.192.0/18 # US AS209  CenturyLink Communications, LLC (CCL-534)
 69.8.192.0/22 # US AS209  CenturyLink Communications, LLC (CCL-534)
-69.8.192.50
+69.8.192.50 # US 
 69.11.128.0/17 # US AS4181 TDS TELECOM (TDST)
 69.12.94.0/23 # Quadranet_8 Hoster_USA
 69.27.224.0/19 # US AS6128 Cablevision Systems Corp. (CVNT)
@@ -552,7 +552,7 @@
 71.8.0.0/13 # Charter_Comm_4 Hoster_USA
 71.19.240.0/20 # eSecureData_2 Hoster_Canada
 71.64.0.0/12 # US  Charter Communications Inc (CC-3517)
-71.66.186.35
+71.66.186.35 # 
 71.173.96.0/19 # AS701 UUNET, US United States Boston Verizon
 71.173.128.0/17 # AS701 UUNET, US United States Boston Verizon
 71.174.0.0/15 # AS701 UUNET, US United States Boston Verizon
@@ -584,15 +584,15 @@
 74.51.208.0/20 # US AS15164 Unite Private Networks LLC. (UPNL)
 74.51.211.232/29 # US AS15164 Unite Private Networks LLC. (UPNL)
 74.63.128.0/18 # US AS13649 Flexential Colorado Corp. (VINS)
-74.63.189.21
-74.63.192.0/18 # Limestone_3 Hoster_USA
+74.63.189.21 # US
+74.63.192.0/18 # US Limestone_3 Hoster_USA
 74.84.64.0/18 # US Mediacom Communications Corporation (MCC-246)
 74.91.16.0/20 # Datashack_8 Hoster_USA
 74.92.64.0/18 # Comcast_1 Hoster_USA
 74.115.236.0/22 # US AS46871, AS7018, AS237 Oakland Community College (OCC-14)
 74.118.192.0/22 # Volumedrive_6 Hoster_USA
 74.119.144.0/22 # Total_Server_4 Hoster_USA
-74.121.32.0/22 #  AS26968 PSD-ROCKET-AS, CA Canada North Vancouver Psd Professional Systems/designs Ltd
+74.121.32.0/22 # AS26968 PSD-ROCKET-AS, CA Canada North Vancouver Psd Professional Systems/designs Ltd
 74.124.192.0/19 # Corpcolo_1 Hoster_USA
 74.128.0.0/12 # US INSIGHT-COMMUNCATIONS-CORP Charter Communications Inc (CC-3517)
 74.204.0.0/17 # US AS26554 US Signal Company, L.L.C. (USSIG-1)
@@ -731,7 +731,7 @@
 89.46.222.0/23 # Hydra_2 Hoster_GB
 89.47.62.0/24 # Globalaxs_37 Hoster_GB
 89.101.0.0/16 # IE
-89.101.22.141
+89.101.22.141 # 
 89.111.32.0/19 # DEAC_1 Hoster_Ostblock
 89.163.128.0/19 # MyLoc_4 Hoster_DE
 89.163.204.0/22 # MyLoc_14 Hoster_DE
@@ -739,7 +739,7 @@
 89.163.224.0/19 # MyLoc_1 Hoster_DE
 89.187.160.0/19 # Datacamp_2 Hoster_GB
 89.197.0.0/16 # GB
-89.197.172.210
+89.197.172.210 # 
 89.207.128.0/21 # Snel_Hosting_2 Hoster_Benelux
 89.238.132.0/22 # Globalaxs_38 Hoster_GB
 89.238.150.0/24 # Globalaxs_30 Hoster_GB
@@ -783,7 +783,7 @@
 93.160.0.0/13 # TDC_1 Hoster_Skandinavien
 93.186.192.0/20 # MyLoc_18 Hoster_DE
 93.192.0.0/10 # DE
-93.240.160.226
+93.240.160.226 # 
 94.23.0.0/16 # OvH_5 Hoster_France
 94.46.12.0/22 # Almouroltec_1 Hoster_Spain
 94.75.192.0/18 # Leaseweb_3 Hoster_DE
@@ -944,7 +944,7 @@
 128.90.0.0/16 # Scribe_1 Hoster_USA
 128.92.0.0/16 # US AS20115  Charter Communications (CC04)
 128.92.184.40/29 #  US AS20115  Charter Communications (CC04)
-128.92.184.46
+128.92.184.46 # US
 128.127.104.0/23 # Altushost_2 Hoster_Benelux
 128.136.0.0/16 # AS13649 ASN-VINS, US  United States Charlotte Flexential Corp.
 128.199.0.0/16 # Digitalocean_1 Hoster_Asia
@@ -1080,7 +1080,7 @@
 163.172.0.0/16 # Online_SAS_6 Hoster_France
 163.182.0.0/16 # Turnkey_2 Hoster_USA
 164.39.64.0/19 # GB MML-ROUTE-164.39.64
-164.39.86.29
+164.39.86.29 # 
 164.39.128.0/17 # GB
 164.40.128.0/19 # GoGrid_1 Hoster_Benelux
 164.82.0.0/16 # District_Columbia_1 Hoster_USA
@@ -1156,9 +1156,9 @@
 173.249.32.0/19 # Contabo_13 Hoster_DE
 173.249.64.0/20 # AS40948 STRATUS-NETWORKS, US  United States Chatham Stratus Networks
 173.251.0.0/17 # US AS6128  Cablevision Systems Corp. (CVNT)
-173.251.50.202
+173.251.50.202 #  US 
 173.251.100.0/24 # US AS6128 Cablevision Systems Corp. (CVNT)
-173.251.100.90
+173.251.100.90 # US
 173.254.192.0/18 # Quadranet_16 Hoster_USA
 173.255.128.0/20 # HSI_Net_1 Hoster_USA
 174.34.128.0/18 # Nobis_6 Hoster_USA
@@ -1213,7 +1213,7 @@
 184.172.0.0/15 # The_Planet_1 Hoster_USA
 184.176.0.0/12 # US Cox Communications Inc. (CXA)
 184.183.84.0/22 # US Cox Communications Inc. (CXA)
-184.183.86.26
+184.183.86.26 # US
 185.2.100.0/22 # Contabo_12 Hoster_DE
 185.4.135.0/24 # Tophost_1 Hoster_Ostblock
 185.6.16.0/22 # Netstream_1 Araber_Perser
@@ -1538,7 +1538,7 @@
 207.107.0.0/16 # Rogers_Comm_1 Hoster_USA
 207.108.0.0/15 # US CenturyLink Communications, LLC (CCL-534)
 207.109.11.192/27 # US CenturyLink Communications, LLC (CCL-534)
-207.109.11.221
+207.109.11.221 # US 
 207.114.128.0/17 # US AS3549 LVLT-3549, US tw telecom holdings, inc. (TWTC)
 207.140.0.0/15 # US AT&T Services, Inc. (ATTW-Z)
 207.140.128.200/29 # US AT&T Services, Inc. (ATTW-Z)
@@ -1574,7 +1574,7 @@
 208.83.140.0/22 # US AS36167 Immedion, LLC (IMMED-3)
 208.83.142.160/27 # US AS36167 Immedion, LLC (IMMED-3)
 208.84.248.0/21 # US AS26076  Block Line Systems, LLC (BLSL)
-208.84.249.210
+208.84.249.210 # US
 208.88.112.0/21 # US AS27400 Clearfly Communications (CLEAR-58) SYRACUSE CASTINGS WEST CORP (SYRAC-3)
 208.88.113.184/29 # US AS27400 Clearfly Communications (CLEAR-58) SYRACUSE CASTINGS WEST CORP (SYRAC-3)
 208.91.64.0/21 # Paradise_2 Hoster_USA
@@ -1612,8 +1612,8 @@
 209.123.0.0/16 # US AS8001 Net Access Corporation (NAC)
 209.124.32.0/19 # US AS12129 , 123NET-BLK-I123-7  123.Net, Inc. (NETIN-6)
 209.124.192.0/18 # US AS5009 EATEL (ADTL)
-209.124.196.110
-209.126.96.0/19 # Server4You_1 Hoster_USA
+209.124.196.110 # US
+0209.126.96.0/19 # Server4You_1 Hoster_USA
 209.141.56.0/24 # PONYNET       US      admin@frantech.ca
 209.160.112.0/20 # Paradise_3 Hoster_USA
 209.190.0.0/17 # ENET_1 Hoster_USA
@@ -1677,7 +1677,7 @@
 216.121.0.0/17 # Serverpath_1 Hoster_USA
 216.129.144.0/21 # US AS46208 Peninsula Fiber Network, LLC (PFNL)
 216.135.64.0/19 # US BLUEGRASS.NET (BRAS)
-216.135.74.8
+216.135.74.8 # US
 216.147.160.0/19 # US AS26794 Dakota Carrier Network (DCN-38)
 216.147.160.0/24 # US AS26794 Dakota Carrier Network (DCN-38)
 216.160.0.0/15 # US NET-216-160-0-0-1 CenturyLink Communications, LLC (CCL-534)
