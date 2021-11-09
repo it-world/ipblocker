@@ -1644,7 +1644,6 @@
 212.199.114.0/24 # Golden_Lines_1 Hoster_USA
 212.210.0.0/16 # Interbusiness_1 Hoster_Italia
 212.237.0.0/18 # Aruba_6 Hoster_Italia
-213.86.0.0/16 # UK AS8220 COLT COLT Technology Services Group Limited, GB  United Kingdom United Kingdom Tower Hamlets Plp Architecture
 213.94.128.0/17 # IE
 213.110.128.0/19 # UA  SUNNET-MNT UKRINDEX-MNT
 213.120.0.0/14 # GB
