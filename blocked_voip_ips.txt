@@ -1741,3 +1741,4 @@
 96.42.0.0/16 # US AS20115 Charter Communications (CC04)
 96.33.96.0/20 # US AS20115 Charter Communications (CC04)
 96.33.105.224/27 # US AS20115 Charter Communications (CC04)
+69.90.0.0/16 # CA Aptum Technologies (PER1)
