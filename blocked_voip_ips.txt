@@ -1717,3 +1717,27 @@
 144.91.192.0/18 # US NETWORK INNOVATIONS, INC. (NETWO-107)
 144.91.176.0/20 # US NETWORK INNOVATIONS, INC. (NETWO-107)
 144.91.188.224/28 # US NETWORK INNOVATIONS, INC. (NETWO-107)
+20.36.0.0/14 # US Microsoft Corporation (MSFT)
+20.40.0.0/13 # US Microsoft Corporation (MSFT)
+20.48.0.0/12 # US Microsoft Corporation (MSFT)
+20.128.0.0/16 # US Microsoft Corporation (MSFT)
+20.64.0.0/10 # US Microsoft Corporation (MSFT)
+20.34.0.0/15 # US Microsoft Corporation (MSFT)
+20.33.0.0/16 # US Microsoft Corporation (MSFT)
+66.60.96.0/19 # US FirstDigital Communications, LLC (FDC-44)
+144.91.192.0/18 # US NETWORK INNOVATIONS, INC. (NETWO-107)
+144.91.176.0/20 # US NETWORK INNOVATIONS, INC. (NETWO-107)
+144.91.188.224/28 # US NETWORK INNOVATIONS, INC. (NETWO-107)
+213.82.0.0/16 # IT 
+85.119.216.0/21 # BE
+24.72.208.0/21 # US Eagle Communications, Inc. (EAGLE-9)
+213.246.192.0/18 # BE 
+87.128.0.0/10 # DE
+160.81.0.0/16 # US Sprint (SPRN)
+104.152.80.0/22 # US AS394752 Avative Fiber (AL-464)
+193.180.23.0/24 # SE MNT-OBE
+96.40.0.0/15 # US AS20115 Charter Communications (CC04)
+96.32.0.0/13 # US AS20115 Charter Communications (CC04)
+96.42.0.0/16 # US AS20115 Charter Communications (CC04)
+96.33.96.0/20 # US AS20115 Charter Communications (CC04)
+96.33.105.224/27 # US AS20115 Charter Communications (CC04)
