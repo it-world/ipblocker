@@ -1743,3 +1743,7 @@
 96.33.105.224/27 # US AS20115 Charter Communications (CC04)
 69.90.0.0/16 # CA Aptum Technologies (PER1)
 24.96.0.0/16 # US AS12083 WideOpenWest Finance LLC (WOPW)
+148.252.0.0/15 # NL RIPE Network Coordination Centre (RIPE)
+148.251.0.0/16 # NL RIPE Network Coordination Centre (RIPE)
+148.253.128.0/19 # GB RIPE Network Coordination Centre (RIPE)
+143.110.128.0/17 # US AS14061 DigitalOcean, LLC (DO-13)
