@@ -1750,4 +1750,11 @@
 195.67.0.0/16 # SE
 216.21.32.0/19 # US First Communications LLC (FCL-52)
 216.21.59.96/29 # US First Communications LLC (FCL-52)
-
+173.245.128.0/20 # US West Wisconsin Telcom Cooperative, Inc (WWTC-1)
+194.213.208.0/20 # CZ
+149.71.0.0/16 # US IE AS174 PSINet, Inc. (PSI-1)
+159.147.0.0/16 # NL LV RIPE Network Coordination Centre (RIPE) trouble: Questions -- mailto:iproute@latnet.eu
+159.148.0.0/15 # NL LV RIPE Network Coordination Centre (RIPE) trouble: Questions -- mailto:iproute@latnet.eu
+159.148.186.0/24 # NL LV RIPE Network Coordination Centre (RIPE) trouble: Questions -- mailto:iproute@latnet.eu
+62.232.194.0/24 # GB
+213.64.0.0/14 # SE TELIANET-RR
