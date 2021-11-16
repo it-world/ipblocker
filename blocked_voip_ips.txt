@@ -1747,3 +1747,7 @@
 148.251.0.0/16 # NL RIPE Network Coordination Centre (RIPE)
 148.253.128.0/19 # GB RIPE Network Coordination Centre (RIPE)
 143.110.128.0/17 # US AS14061 DigitalOcean, LLC (DO-13)
+195.67.0.0/16 # SE
+216.21.32.0/19 # US First Communications LLC (FCL-52)
+216.21.59.96/29 # US First Communications LLC (FCL-52)
+
