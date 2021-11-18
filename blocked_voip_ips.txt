@@ -1758,3 +1758,21 @@
 159.148.186.0/24 # NL LV RIPE Network Coordination Centre (RIPE) trouble: Questions -- mailto:iproute@latnet.eu
 62.232.194.0/24 # GB
 213.64.0.0/14 # SE TELIANET-RR
+81.82.0.0/15 # BE
+188.148.0.0/14 # SE  COMHEM-MNT
+151.0.0.0/8 # SE NL RIPE Network Coordination Centre (RIPE)
+151.236.200.0/21 # SE NL RIPE Network Coordination Centre (RIPE)
+5.149.140.0/22 # BE
+167.201.0.0/16 # US Inova Health System Foundation (IHS-1)
+212.247.0.0/16 # SE
+2.248.0.0/13 # SE TELIANET-RR
+213.21.64.0/18 # SE IT-NORR-MNT ALLTELE-SE-MNT
+40.143.80.0/20 # US TierPoint, LLC (TL-801)
+40.143.72.0/21 # US TierPoint, LLC (TL-801)
+40.143.96.0/19 # US TierPoint, LLC (TL-801)
+40.143.128.0/17 # US TierPoint, LLC (TL-801)
+40.143.254.0/28 # US TierPoint, LLC (TL-801)
+104.131.0.0/16 # US AS14061 DigitalOcean, LLC (DO-13)
+217.208.0.0/13 # SE TELIANET-RR
+209.242.64.0/18 # US AS62 CyrusOne LLC (CL-260)
+209.242.65.128/26 # US AS62 CyrusOne LLC (CL-260)
