@@ -1865,3 +1865,4 @@
 216.21.59.96/29 # US First Communications LLC (FCL-52)
 12.0.0.0/8 # US AT&T Services, Inc. (ATTW-Z)
 12.186.135.184/29 # US AT&T Services, Inc. (ATTW-Z)
+192.132.30.0/24 # US  AS55189 Thrive Operations, LLC 
