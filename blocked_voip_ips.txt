@@ -1860,3 +1860,8 @@
 12.10.41.96/27 # US AT&T Services, Inc. (ATTW-Z) VALUED - PACIFIC - PSC (VPP-400)
 65.51.0.0/16 # US AS6128 Cablevision Systems Corp. (CVNT)
 65.51.233.0/24 # US AS6128 Cablevision Systems Corp. (CVNT)
+87.119.220.0/22 # FR 
+216.21.32.0/19 # US First Communications LLC (FCL-52)
+216.21.59.96/29 # US First Communications LLC (FCL-52)
+12.0.0.0/8 # US AT&T Services, Inc. (ATTW-Z)
+12.186.135.184/29 # US AT&T Services, Inc. (ATTW-Z)
