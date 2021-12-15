@@ -1866,3 +1866,33 @@
 12.0.0.0/8 # US AT&T Services, Inc. (ATTW-Z)
 12.186.135.184/29 # US AT&T Services, Inc. (ATTW-Z)
 192.132.30.0/24 # US  AS55189 Thrive Operations, LLC 
+87.119.220.0/22 # FR
+100.42.144.0/20 # US AS20030 Artelco (MCCLI-1)
+86.62.128.0/18 # NO AS2116-MNT BROADNET-NO-ROUTE
+184.64.0.0/13 # CA AS6327 Shaw Communications Inc. (SHAWC)
+51.219.0.0/16 # GB
+2.57.121.0/24 # NL
+66.128.240.0/20 # US United Telephone Company (UNITED-32)
+141.98.10.0/24 # LT
+87.119.220.0/22 # FR
+104.152.80.0/22 # US AS394752 Avative Fiber (AL-464)
+5.252.35.0/24 # SK 
+20.40.0.0/13 # US Microsoft Corporation (MSFT)
+20.48.0.0/12 # US Microsoft Corporation (MSFT)
+20.34.0.0/15 # US Microsoft Corporation (MSFT)
+20.33.0.0/16 # US Microsoft Corporation (MSFT)
+20.64.0.0/10 # US Microsoft Corporation (MSFT)
+20.128.0.0/16 # US Microsoft Corporation (MSFT)
+20.36.0.0/14 # US Microsoft Corporation (MSFT)
+108.178.192.0/18 # US AS30036 Mediacom Communications Corporation (MCC-246)
+87.119.220.0/22 # FR
+198.244.128.0/17 # NL RIPE Network Coordination Centre (RIPE)
+23.148.145.0/24 # US AS398220 Quick Server Hosting LLC (QSHL)
+87.119.220.0/22 # FR
+2.57.121.0/24 # NL
+198.244.128.0/17 # NL RIPE Network Coordination Centre (RIPE)
+87.119.220.0/22 # FR
+104.149.0.0/16 # US AS40676 Psychz Networks (PS-184)
+18.128.0.0/9 # US Amazon Technologies Inc. (AT-88-Z)
+18.64.0.0/10 # US Amazon Technologies Inc. (AT-88-Z)
+18.32.0.0/11 # US Amazon Technologies Inc. (AT-88-Z)
