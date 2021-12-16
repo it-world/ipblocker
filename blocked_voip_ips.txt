@@ -1897,3 +1897,4 @@
 18.64.0.0/10 # US Amazon Technologies Inc. (AT-88-Z)
 18.32.0.0/11 # US Amazon Technologies Inc. (AT-88-Z)
 45.134.144.0/24 # HK AS49870 Hong Kong Kwai Chung Ipv4 Superhub Limited 
+87.119.220.0/22 # FR AS29066 Yousef Alzaity velia.net Internetdienste GmbH
