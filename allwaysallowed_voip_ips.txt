@@ -21,3 +21,5 @@
 80.64.74.50/32 # Ace Telecom HU
 213.41.124.17/32 # Colt IT
 212.36.166.235/32 # Colt ES
+52.39.4.59/32 # letsencrypt host
+18.192.36.99/32 # letsencrypt host
