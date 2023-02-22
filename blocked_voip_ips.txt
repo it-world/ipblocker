@@ -1,6 +1,60 @@
 102.129.232.47/32 # 20.225.74.34
 20.225.74.34/32 # 20.225.74.34/32
-
+185.104.216.102/32 # 185.104.216.102
+199.247.20.62/32 # 199.247.20.62
+160.226.0.0/16 # AFRINIC-ERX-160-226-0-0
+196.0.0.0/8 # African Network Information Center 
+66.172.96.0/19 # LocalTel Communications LOCALTEL-66-172 (NET-66-172-96-0-1)
+66.172.102.0/24 # AS13370 www.localtel.net 
+199.244.30.0/23 # AS13370 www.localtel.net 
+66.172.124.0/22 # AS13370 www.localtel.net  
+66.172.112.0/24 # AS13370 www.localtel.net  
+96.46.28.0/22 # AS13370 www.localtel.net  
+63.135.56.0/21 # AS13370 www.localtel.net  
+199.36.88.0/21 # AS13370 www.localtel.net  
+66.172.103.0/24 # AS13370 www.localtel.net  
+66.172.108.0/22 # AS13370 www.localtel.net  
+96.46.24.0/22 # AS13370 www.localtel.net  
+66.172.106.0/23 # AS13370 www.localtel.net  
+96.46.16.0/21 # AS13370 www.localtel.net  
+66.172.120.0/22 # AS13370 www.localtel.net  
+63.142.222.0/23 # AS13370 www.localtel.net  
+6.172.116.0/22 # AS13370 www.localtel.net  
+63.142.220.0/24 # AS13370 www.localtel.net  
+206.130.140.0/22 # AS13370 www.localtel.net  
+206.130.138.0/23 # AS13370 www.localtel.net  
+63.142.221.0/24 # AS13370 www.localtel.net  
+66.172.113.0/24 # AS13370 www.localtel.net  
+66.172.105.0/24 # AS13370 www.localtel.net  
+206.130.134.0/24 # AS13370 www.localtel.net  
+63.142.218.0/24 # AS13370 www.localtel.net  
+66.172.114.0/23 # AS13370 www.localtel.net  
+63.142.216.0/23 # AS13370 www.localtel.net  
+66.172.96.0/22 # AS13370 www.localtel.net  
+206.130.137.0/24 # AS13370 www.localtel.net  
+66.172.100.0/23 # AS13370 www.localtel.net  
+206.130.135.0/24 # AS13370 www.localtel.net  
+173.209.160.0/21 # AS13370 www.localtel.net  
+63.135.55.0/24 # AS13370 www.localtel.net  
+173.209.169.0/24 # AS13370 www.localtel.net  
+173.209.168.0/24 # AS13370 www.localtel.net  
+199.244.29.224/28 # AS13370 www.localtel.net  
+173.209.171.0/24 # AS13370 www.localtel.net  
+63.135.53.0/24 # AS13370 www.localtel.net  
+173.209.174.0/24 # AS13370 www.localtel.net  
+173.209.172.0/24 # AS13370 www.localtel.net  
+63.135.51.0/24 # AS13370 www.localtel.net  
+173.209.173.0/29 # AS13370 www.localtel.net  
+199.244.29.96/28 # AS13370 www.localtel.net  
+206.130.132.0/24 # AS13370 www.localtel.net  
+206.130.128.0/24 # AS13370 www.localtel.net  
+199.244.28.0/24 # AS13370 www.localtel.net  
+206.130.133.0/26 # AS13370 www.localtel.net  
+206.130.130.0/26 # AS13370 www.localtel.net  
+206.130.129.0/24 # AS13370 www.localtel.net  
+63.135.49.0/25 # AS13370 www.localtel.net  
+63.142.219.0/25 # AS13370 www.localtel.net  
+173.209.170.128/26 # AS13370 www.localtel.net 
 1.208.0.0/13 # Boranet_1 Hoster_Asia
 2.56.176.0/23 # Dedipath_2 Hoster_USA
 2.58.28.0/22 # Stargato_1 Hoster_GB
